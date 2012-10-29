@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to Pāli Quiz!</string>
+    <string name="app_name">Pāli Quiz</string>
+    
+    <string name="main_menu">Main Menu</string>
+        
+    <string name="settings_str">Select Chapter</string>
+    <string name="play_str">Start Quiz</string> 
+    <string name="exit_str">Exit</string> 
+    <string name="abbrevs">Info, About, Credits, Dana</string>
+    
+    <string name="based_on">Based on the vocabulary introduced in</string>
+    <string name="title">Pāli Primer</string>
+    <string name="by">by </string>
+    <string name="author">Lily de Silva</string>
+    <string name="featuring">With exercises similar to those found in the original text.</string>
+    
+    <string name="multi_choice_str">Choose the best answer, then press "Next".</string>
+    <string name="brief_instructions">Need help?  Press Search.</string>
+  
+    <string name="update_str">Update</string> 
+    <string name="next_str">Next</string> 
+    <string name="answers_str">Review</string>
+    <string name="back_str">Back</string>
+    
+    <string name="bodhi_leaf">app icon</string>
+    <string name="you_scored">You scored </string>
+    <string name="buddha">Buddha</string>
+    <string name="info_str">About Pāli Quiz</string>
+    
+    <string name="choose_chapter_str">Select Chapter</string>
+    <string name="CH01_str"> Chapter 1</string>
+    <string name="CH01_info">Nominative case (nouns -a, masc); Present tense, 3rd person (verbs)</string> 
+    <string name="CH02_str"> Chapter 2</string>
+    <string name="CH02_info">Accusative case (nouns -a, masc)</string>
+    <string name="CH03_str"> Chapter 3</string>  
+    <string name="CH03_info">Instrumental case (nouns -a, masc)</string>
+    <string name="CH04_str"> Chapter 4</string>
+    <string name="CH04_info">Ablative case (nouns -a, masc)</string>
+    <string name="CH05_str"> Chapter 5</string>
+    <string name="CH05_info">Dative case (nouns -a, masc)</string>
+    <string name="CH06_str"> Chapter 6</string> 
+    <string name="CH06_info">Genitive case (nouns -a, masc)</string> 
+    <string name="CH61_str"> Vocabulary 1..6</string>
+    <string name="CH61_info">Review; Nouns and Verbs (Ch 1..6)</string> 
+    <string name="CH07_str"> Chapter 7</string>
+    <string name="CH07_info">Locative case (nouns -a, masc)</string> 
+    <string name="CH08_str"> Chapter 8</string>
+    <string name="CH08_info">Not yet available</string> 
+    <string name="CH09_str"> Chapter 9</string>    
+    <string name="CH09_info">Not yet available</string> 
+    <string name="CH10_str"> Chapter 10</string>
+    <string name="CH10_info">Not yet available</string> 
+    <string name="CH11_str"> Chapter 11</string>
+    <string name="CH11_info">Not yet available</string> 
+    <string name="CH12_str"> Chapter 12</string> 
+    <string name="CH12_info">Not yet available</string> 
+    <string name="CH13_str"> Chapter 13</string>
+    <string name="CH13_info">Not yet available</string> 
+    <string name="CH14_str"> Chapter 14</string>
+    <string name="CH14_info">Not yet available</string> 
+    <string name="CH15_str"> Chapter 15</string> 
+    <string name="CH15_info">Not yet available</string> 
+    <string name="CH16_str"> Chapter 16</string>
+    <string name="CH16_info">Not yet available</string> 
+    <string name="CH17_str"> Chapter 17</string>
+    <string name="CH17_info">Not yet available</string> 
+    <string name="CH18_str"> Chapter 18</string> 
+    <string name="CH18_info">Not yet available</string> 
+    <string name="CH19_str"> Chapter 19</string>
+    <string name="CH19_info">Not yet available</string> 
+    <string name="CH20_str"> Chapter 20</string>
+    <string name="CH20_info">Not yet available</string> 
+    <string name="CH21_str"> Chapter 21</string> 
+    <string name="CH21_info">Not yet available</string> 
+    <string name="CH22_str"> Chapter 22</string>
+    <string name="CH22_info">Not yet available</string>
+    <string name="CH23_str"> Chapter 23</string>
+    <string name="CH23_info">Not yet available</string> 
+    <string name="CH24_str"> Chapter 24</string> 
+    <string name="CH24_info">Not yet available</string> 
+    <string name="CH25_str"> Chapter 25</string>
+    <string name="CH25_info">Not yet available</string> 
+    <string name="CH26_str"> Chapter 26</string>
+    <string name="CH26_info">Not yet available</string> 
+    <string name="CH27_str"> Chapter 27</string>
+    <string name="CH27_info">Not yet available</string> 
+    <string name="CH28_str"> Chapter 28</string>
+    <string name="CH28_info">Not yet available</string> 
+    <string name="CH29_str"> Chapter 29</string>
+    <string name="CH29_info">Not yet available</string>
+    <string name="CH30_str"> Chapter 30</string>                  
+    <string name="CH30_info">Not yet available</string>
+
+</resources>

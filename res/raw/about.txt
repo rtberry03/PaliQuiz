@@ -1,0 +1,54 @@
+<u><b>General Instructions:</b></u><br>
+<br>
+<b>(1)   </b> Chapter 1 is the default setting.  Press "Select Chapter" to set a new value.  Each quiz consists of 20 multiple-choice questions, 
+selected randomly from a database containing at least 80 questions per chapter. After selecting the chapter, press 
+"Update" to return to the Main Menu. Your selection is stored as the new default setting.<br>
+<br>
+<b>(2)   </b> Press "Start Quiz" to begin answering questions.  Note that by pressing your device's "Back" key during the quiz 
+you  will return to the "Main Menu."  To exit during the quiz, press the "Home" key.<br>
+<br>
+<b>(3)   </b> For each successive question, select the best answer, then press "Next" to continue.<br>
+<br>
+During the quiz, if you're totally stumped, or just want instant feedback on your answer, press your device's 
+"Search" key.<br>
+<br>
+<b>(4)   </b> Your score is displayed after the quiz; Press "Review" to scroll through the questions and answers, 
+press "Main Menu" to begin the sequence anew.<br>
+<br>
+<br>
+<u><b>Credits & Donations:</b></u><br>
+<br>
+This application is based on numerous tutorials and lessons found online, most importantly that of Robert Hinds.  
+I created it to help me learn Pāli, and as a gift of dana to other students.<br>
+<br>
+If you find it of value and would like to express your appreciation, please consider supporting <ahref=dhammasukha.org>dhammasukha.org</a>. 
+<br><br>I'm not affiliated with DSMC; I'm just a student of the dhamma who finds their teachings clear and insightful.
+<br>
+<br>
+<u><b>Vocabulary Notes:</b></u><br>
+<br>
+<b>(1)   </b>New nouns are introduced in the format:<br>
+<b>stem-form</b> <b>{-nom. s. ending}</b><br>
+<br>e.g. <b>dhamma {-o}</b><br>
+<br>
+<b>(2)   </b>In some instances, I'm amending the definitions as given in the text, usually to expand on a word's meaning, 
+or perhaps favoring neutral interpretations in cases of academic debate.<br>
+<br>e.g.  The text lists Sugata (a title of the Buddha) simply  as 'the Buddha'.  I've listed the meaning as 
+'the Buddha (Well-Gone)'.<br>  
+<br>
+<br>
+<u><b>Abbreviations:</b></u><br>
+<br>
+nom - nominative<br>
+acc - accusative<br>
+abl - ablative<br>
+gen - genative<br>
+dat - dative<br>
+ins - instrumental<br>
+loc - locative<br>
+voc - vocative<br>
+s - singular<br>
+p - plural<br>
+<br>
+<br>
+Press your device's "Back" key to close this dialog.<br>

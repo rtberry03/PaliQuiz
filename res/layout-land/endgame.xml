@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"    
+    android:background="@drawable/background">
+        
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="261dp"
+        android:layout_height="fill_parent"
+        android:background="@drawable/background"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:orientation="vertical" >
+        
+        <TextView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" 
+				android:textColor="#000000"
+				android:textStyle="bold" 
+				android:id="@+id/endgameResult"
+				android:paddingLeft="15dip" 
+				android:paddingRight="15dip"
+				android:gravity="center_horizontal" />
+        
+        
+	<Button
+      	android:id="@+id/answerBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/button_selector"
+        android:text="@string/answers_str" 
+        android:textStyle="bold" 
+		android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:layout_marginBottom="1dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:textColor="#000000" />
+			<Button
+      	android:id="@+id/finishBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/button_selector"
+        android:text="@string/main_menu" 
+        android:textStyle="bold" 
+		android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:layout_marginBottom="1dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:textColor="#000000" />
+</LinearLayout>
+        
+<ImageView
+		    android:id="@+id/imageView2"
+		    android:contentDescription="@string/buddha"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="25dip"
+		    android:src="@drawable/buddha_trans" />
+
+</LinearLayout>

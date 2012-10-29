@@ -1,0 +1,356 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,tāpasa {-o},hermit,goat,profit,hoe
+2,ācariya {-o},teacher,monkey,bed,profit
+3,vejja {-o},doctor,profit,hoe,bed
+4,sīha {-o},lion,bed,goat,monkey
+5,luddaka {-o},hunter,hoe,monkey,goat
+6,aja {-o},goat,hermit,doctor,hunter
+7,vānara {-o},monkey,teacher,lion,doctor
+8,makkaṭa {-o},monkey,teacher,lion,doctor
+9,lābha {-o},profit,doctor,hunter,lion
+10,mañca {-o},bed,lion,hermit,teacher
+11,kuddāla {-o},hoe,hunter,teacher,hermit
+12,rodati,he cries,she takes,it bathes,"he gives up, abandons"
+13,hasati,she laughs,it plays,it drags,it bathes
+14,labhati,"he gets, receives",it bathes,"he gives up, abandons",she takes
+15,pavisati,she enters,it drags,she takes,it plays
+16,dadāti,he gives,"he gives up, abandons",it plays,it drags
+17,ādadāti,she takes,he cries,"he gets, receives",she enters
+18,kīḷati,it plays,she laughs,she enters,"he gets, receives"
+19,nahāyati,it bathes,"he gets, receives",he gives,she laughs
+20,ākaḍḍhati,it drags,she enters,he cries,he gives
+21,pajahati,"he gives up, abandons",he gives,she laughs,he cries
+22,The doctor gives a garment to the washerman.,Vejjo rajakassa sāṭakaṃ dadāti.,Vāṇijo rajakassa sāṭakaṃ dadāti.,Vejjo rajakānaṃ sāṭakaṃ dadāti.,Vāṇijo rajakānaṃ sāṭakaṃ dadāti.
+23,The merchant brings a lamp for the teacher.,Vāṇijo ācariyassa dīpaṃ āharati.,Vejjo ācariyassa dīpaṃ āharati.,Vāṇijo ācariyānaṃ dīpaṃ āharati.,Vejjo ācariyānaṃ dīpaṃ āharati.
+24,Lions run from the rock to the mountain.,Sīhā pāsāṇamhā pabbataṃ dhāvanti.,Sappā pāsāṇamhā pabbataṃ dhāvanti.,Sīhā pāsāṇehi pabbataṃ dhāvanti.,Sappā pāsāṇehi pabbataṃ dhāvanti.
+25,Teachers get the doctrine from Buddhas.,Ācariyā Buddhehi dhammaṃ labhanti.,Ācariyā Buddhena dhammaṃ labhanti.,Rajakā Buddhehi dhammaṃ labhanti.,Rajakā Buddhena dhammaṃ labhanti.
+26,The child pulls the cart to the doctor.,Dārako vejjāya sakaṭaṃ ākaḍḍhati.,Puriso vejjāya sakaṭaṃ ākaḍḍhati.,Dārako vejjānaṃ sakaṭaṃ ākaḍḍhati.,Puriso vejjānaṃ sakaṭaṃ ākaḍḍhati.
+27,The man brings rice to the beggar in his hand.,Puriso hatthena yācakassa bhattaṃ āharati.,Dārako hatthena yācakassa bhattaṃ āharati.,Puriso hatthehi yācakassa bhattaṃ āharati.,Dārako hatthehi yācakassa bhattaṃ āharati.
+28,The washerman digs a pit for the teacher.,Rajako ācariyāya āvāṭaṃ khaṇati.,Rajako ācariyānaṃ āvāṭaṃ khaṇati.,Yācako ācariyānaṃ āvāṭaṃ khaṇati.,Yācako ācariyāya āvāṭaṃ khaṇati.
+29,The beggar gives garments to ministers.,Yācako amaccānaṃ sāṭake dadāti.,Yācako amaccāya sāṭake dadāti.,Rajako amaccāya sāṭake dadāti.,Rajako amaccānaṃ sāṭake dadāti.
+30,The brahmin brings baskets for the disciples.,Brāhmaṇo sāvakānaṃ piṭake āharati.,Brāhmaṇo sāvakānaṃ piṭake āharanti.,Brāhmaṇā sāvakānaṃ piṭake āharanti.,Brāhmaṇo sāvakāne piṭake āharati.
+31,"The monkey falls from the tree, the jackal bites the monkey.","Vānaro rukkhamhā patati, sigālo vānaraṃ ḍasati.","Vānaro rukkhamhā patati, sigālo vānaraṃ ḍasanti.","Vānarā rukkhamhā patati, sigālo vānaraṃ ḍasanti.","Vānaro rukkhamhā patati, sigālo vānare ḍasati."
+32,Farmers bring fish in baskets for ministers.,Kassakā piṭakehi amaccānaṃ macche āharanti.,Kassakā piṭakehi amaccānaṃ macche āharati.,Kassako piṭakehi amaccānaṃ macche āharati.,Kassakā piṭakehi amaccāne macche āharanti.
+33,The fisherman cuts a tree for the merchant.,Dhīvaro vāṇijāya rukkhaṃ chindati.,Dhīvaro vāṇijāya rukkhaṃ chindanti.,Dhīvarā vāṇijāya rukkhaṃ chindanti.,Dhīvaro vāṇijāya rukkhe chindati.
+34,The doctor digs a pit with a hoe for the teacher.,Vejjo kuddālena ācariyāya āvāṭaṃ khaṇati.,Vejjo kuddālehi ācariyāya āvāṭaṃ khaṇati.,Coro kuddālehi ācariyāya āvāṭaṃ khaṇati.,Coro kuddālena ācariyāya āvāṭaṃ khaṇati.
+35,The thief cooks rice for his sons.,Coro puttānaṃ bhattaṃ pacati.,Coro puttassa bhattaṃ pacati.,Vejjo puttassa bhattaṃ pacati.,Vejjo puttānaṃ bhattaṃ pacati.
+36,The teacher speaks with the hunter.,Ācariyo luddakena saddhiṃ bhāsati.,Ācariyo luddakehi saddhiṃ bhāsati.,Tāpaso luddakena saddhiṃ bhāsati.,Tāpaso luddakehi saddhiṃ bhāsati.
+37,The hunter gives the saw to a hermit.,Luddako tāpasassa kakacaṃ dadāti.,Luddako tāpasassa kakacaṃ dadānti.,Luddakā tāpasassa kakacaṃ dadānti.,Luddako tāpasassa kakace dadāti.
+38,Hunters kill lions.,Luddakā sīhe hananti.,Sīhā luddake hananti.,Luddakā sīhe hanati.,Sīhā luddake hanati.
+39,The monkey climbs the bed with its son.,Makkaṭo puttena saha mañcaṃ āruhati.,Makkaṭo puttena saha mañcaṃ āruhanti.,Makkaṭā puttena saha mañcaṃ āruhanti.,Makkaṭo putteha saha mañcaṃ āruhati.
+40,Monks receive rice from hunters.,Samaṇā luddakehi odanaṃ labhanti.,Samaṇā luddakehi odanaṃ labhati.,Samaṇo luddakehi odanaṃ labhati.,Samaṇā luddakeni odanaṃ labhanti.
+41,"Parrots cry, the monkey laughs, the hunter hits the monkey.","Suvā rodanti, makkaṭo hasati, luddako makkaṭaṃ paharati.","Suvā rodanti, makkaṭo hasanti, luddako makkaṭaṃ paharati.","Suvo rodanti, makkaṭo hasanti, luddako makkaṭaṃ paharati.","Suvā rodanti, makkaṭo hasati, luddako makkaṭe paharati."
+42,Serpents descend from the mountain and climb trees.,"Sappā pabbatamhā oruhanti, rukkhe āruhanti.","Sappā pabbatamhā oruhati, rukkhe āruhanti.","Sappo pabbatamhā oruhati, rukkhe āruhanti.","Sappā pabbatassa oruhanti, rukkhe āruhanti."
+43,"Monkeys enter the chariot, the minister abandons the chariot.","Vānarā rathaṃ pavisanti, amacco rathaṃ pajahati.","Vānarā rathaṃ pavisati, amacco rathaṃ pajahati.","Vānaro rathaṃ pavisati, amacco rathaṃ pajahati.","Vānarā rathe pavisanti, amacco rathaṃ pajahati."
+44,The hermit brings a parrot from a tree for the child.,Tāpaso dārakāya rukkhamhā sukaṃ āharati.,Tāpaso dārakāya rukkhehi sukaṃ āharanti.,Ācariyo dārakāya rukkhamhā sukaṃ āharati.,Ācariyo dārakāya rukkhehi sukaṃ āharati.
+45,The hermit drags the goat from the mountain.,Tāpaso pabbatasmā ajaṃ ākaḍḍhati.,Tāpaso pabbatasmā ajaṃ ākaḍḍhanti.,Tāpasā pabbatasmā ajaṃ ākaḍḍhanti.,Tāpaso pabbatasmā aje ākaḍḍhati.
+46,The hunter sees a lion from the mountain.,Luddako pabbatamhā sīhaṃ passati.,Luddako pabbatamhā sīhaṃ passanti.,Luddakā pabbatamhā sīhaṃ passanti.,Luddako pabbatassa sīhaṃ passati.
+47,Boys receive profit from farmers.,Kumārā kassakehi lābhaṃ labhanti.,Kumārā kassakena lābhaṃ labhanti.,Kumāro kassakehi lābhaṃ labhanti.,Kumārā kassakehi lābhaṃ labhati.
+48,The hermit kills pigs for the merchants.,Tāpaso vāṇijānaṃ varāhe hanati.,Luddako vāṇijānaṃ varāhe hanati.,Tāpaso vāṇijassa varāhe hanati.,Luddako vāṇijassa varāhe hanati.
+49,The hunter asks questions from the teacher.,Luddako ācariyamhā pañhe pucchati.,Tāpaso ācariyamhā pañhe pucchati.,Luddako ācariyehi pañhe pucchati.,Tāpaso ācariyehi pañhe pucchati.
+50,The doctor falls from the bed.,Vejjo mañcamhā patati.,Vejjo mañcamhā patanti.,Vejjā mañcamhā patanti.,Vāṇijā sahāyakena saddhiṃ nahāyanti.
+51,Merchants bathe with friends.,Vāṇijā sahāyakehi saddhiṃ nahāyanti.,Vāṇijā sahāyakena saddhiṃ nahāyanti.,Vāṇijo sahāyakehi saddhiṃ nahāyanti.,Vāṇijā sahāyakehi saddhiṃ nahāyati.
+52,Vāṇijā amaccānaṃ aje āharanti.,Merchants bring goats for ministers.,Merchants bring horses for ministers.,Merchants bring horses for the minister.,Merchants bring goats for the minister.
+53,Manusso vāṇijāya ajaṃ hanati.,The man kills a goat for the merchant.,The hunter kills a goat for the merchant.,The hunter kills a goat for the merchants.,The man kills goats for the merchant.
+54,Luddako kakacena kassakassa rukkhe chindati.,The hunter cuts trees with a saw for the farmer.,The man cuts trees with a saw for the farmer.,The man cuts trees with a saw for the farmers.,The hunter cuts trees with a saw for the farmers.
+55,Assā sīhasmā dhāvanti.,Horses run away from the lion.,Deer run away from the lion.,Deer run away from the lions.,Horses run away from the lions.
+56,Bhūpālo rajakehi saha Buddhaṃ vandati.,The king worships the Buddha along with washermen.,The king worships the Buddha along with lay devotees.,The king worships the Buddha along with the lay devotee.,The king worships the Buddha along with the washerman.
+57,Sigālo gāmehi pabbate dhāvati.,The jackal runs from villages to the mountains.,Thieves run from villages to the mountains.,Thieves run from villages to the mountain.,The jackal runs from villages to the mountain.
+58,Upāsako bhūpālāya sāṭake dhovati.,The lay devotee washes garments for the king.,The washerman washes garments for the king.,The washerman washes garments for the kings.,The lay devotee washes garments for the kings.
+59,Ācariyo piṭakehi kassakānaṃ macche āharati.,The teacher brings fish in baskets for farmers.,The fisherman brings fish in baskets for farmers.,The fisherman brings fish in baskets for farmer.,The teacher brings fish in baskets for the farmer.
+60,"Dhīvaro vihāraṃ pavisati, samaṇe passati.","The fisherman enters the monastery, sees the monks.","The teacher enters the monastery, sees the monks.","The teacher enters the monastery, sees the monk.","The fisherman enters the monastery, sees the monk."
+61,Sappo sukaṃ ḍasati.,The serpent bites the parrot.,The serpent bites the monkey.,The serpent bites the monkeys.,The serpent bites the parrots.
+62,Corā brāhmaṇassa mañcaṃ ākaḍḍhanti.,Thieves drag the bed for the brahmin.,Boys drag the bed for the brahmin.,Boys drag the bed for the brahmins.,Thieves drag the bed for the brahmins.
+63,Kumārā purisehi saha pāsādaṃ pavisanti.,Boys enter the palace together with men.,Thieves enter the palace together with men.,Thieves enter the palace together with the man.,Boys enter the palace together with the man.
+64,Dārakā dhīvarehi macche labhanti.,Children get fish from fishermen.,Farmers get fish from fishermen.,Farmers get fish from the fisherman.,Children get fish from the fisherman.
+65,Vānarā dīpamhā pabbataṃ gacchanti.,Monkeys go from the island to the mountain.,Pigs go from the island to the mountain.,Pigs go from the island to the mountaina.,Monkeys go from the island to the mountains.
+66,"Sīho pāsādaṃ pajahati, putto vihāraṃ pavisati.","The lion abandons the palace, the son enters the monastery.","The king abandons the palace, the son enters the monastery.","The king abandons the palace, the sons enters the monastery.","The lion abandons the palace, the sons enter the monastery."
+67,"Bhūpālo sayati, vānarā kīḷanti.","The king sleeps, the monkeys play.","The lion sleeps, the monkeys play.","The lion sleeps, the monkey plays.","The king sleeps, the monkey plays."
+68,Paṇḍito kukkurasmā putte rakkhati.,The wise man protects his sons from the dog.,The teacher protects his sons from the dog.,The teacher protects his sons from the dogs.,The wise man protects his son from the dog.
+69,Puttā sarehi amaccānaṃ mige vijjhanti.,Sons shoot deer with arrows for ministers.,Hunters shoot deer with arrows for ministers.,Hunters shoot deer with arrows for the minister.,Sons shoot deer with arrows for the minister.
+70,Kassakā mātulamhā odanaṃ icchanti.,Farmers desire rice from the uncle.,Children desire rice from the uncle.,Children desire rice from the uncles.,Farmers desire rice from the uncles.
+71,Vāṇijo tāpasāya sāṭakaṃ dadāti.,The merchant gives a garment to the hermit.,The doctor gives a garment to the hermit.,The doctor gives a garment to the hermits.,The merchant gives a garment to the hermits.
+72,Vejjo sakaṭena ācariyassa ajaṃ āharati.,The doctor brings a goat by cart for the teacher.,The merchant brings a goat by cart for the teacher.,The merchant brings a goat by cart for the teachers.,The doctor brings a goat by cart for the teachers.
+73,Luddakā pabbatasmā candaṃ passanti.,Hunters see the moon from the mountain.,Sons see the moon from the mountain.,Sons see the moon from the mountains.,Hunters see the moon from the mountains.
+74,Ācariyo dhammamhā lābhaṃ labhati.,The teacher gets profit from the dhamma.,Wise men get profit from the dhamma.,the wise man gets profit from the dhamma.,The teachers get profit from the dhamma.
+75,Varāhā gāmasmā nikkhamanti.,Pigs leave the village.,Monkeys leave the village.,Monkeys leave the villages.,Pigs leave the villages.
+76,Vejjo pabbatamhā mittāya suvaṃ āharati.,The doctor brings a parrot for his friend from the mountain.,The son brings a parrot for his friend from the mountain.,The son brings a parrot for his friend from the mountains.,The doctor brings a parrot for his friends from the mountain.
+77,Putto vihāraṃ pavisati.,The son enters the monastery.,The doctor enters the monastery.,The doctor enters the monasteries.,The sons enter the monastery.
+78,Corā maggena gāmasmā pabbataṃ dhāvanti.,The thieves run from the village to the mountain along the road.,The jackal runs from the village to the mountain along the road.,The jackal runs from the village to the mountains along the road.,The thieves run from the village to the mountains along the road.
+79,"Ratho maggamhā patati, ajo rodati.","The chariot falls off the road, the goat cries.","The cart falls off the road, the child cries.","The cart falls off the road, the children cry.","The chariot falls off the road, the goats cry."
+80,"Paṇḍitā sopānaṃ āruhanti, vejjo sopānaṃ oruhati.","The wise men go up the stairway, the doctor comes down the stairway.","The ministers go up the stairway, the doctor comes down the stairway.","The ministers go up the stairway, the doctors come down the stairway.","The wise men go up the stairway, the doctors come down the stairway."
+81,Amaccā Buddhasmā pañhe pucchanti.,Ministers ask questions from the Buddha.,Wise men ask questions from the Buddha.,The wise man ask questions from the Buddha.,Ministers put a question to the Buddha.
+82,tāpaso,hermit (nom-s),goat (nom-s),profit (nom-s),hoe (nom-s)
+83,ācariyo,teacher (nom-s),monkey (nom-s),bed (nom-s),profit (nom-s)
+84,vejjo,doctor (nom-s),profit (nom-s),hoe (nom-s),bed (nom-s)
+85,sīho,lion (nom-s),bed (nom-s),goat (nom-s),monkey (nom-s)
+86,luddako,hunter (nom-s),hoe (nom-s),monkey (nom-s),goat (nom-s)
+87,ajo,goat (nom-s),hermit (nom-s),doctor (nom-s),hunter (nom-s)
+88,vānaro,monkey (nom-s),teacher (nom-s),lion (nom-s),doctor (nom-s)
+89,makkaṭo,monkey (nom-s),teacher (nom-s),lion (nom-s),doctor (nom-s)
+90,lābho,profit (nom-s),doctor (nom-s),hunter (nom-s),lion (nom-s)
+91,mañco,bed (nom-s),lion (nom-s),hermit (nom-s),teacher (nom-s)
+92,kuddālo,hoe (nom-s),hunter (nom-s),teacher (nom-s),hermit (nom-s)
+93,tāpasāya,hermit (dat-s),goat (dat-s),profit (dat-s),hoe (dat-s)
+94,ācariyāya,teacher (dat-s),monkey (dat-s),bed (dat-s),profit (dat-s)
+95,vejjāya,doctor (dat-s),profit (dat-s),hoe (dat-s),bed (dat-s)
+96,sīhāya,lion (dat-s),bed (dat-s),goat (dat-s),monkey (dat-s)
+97,luddakāya,hunter (dat-s),hoe (dat-s),monkey (dat-s),goat (dat-s)
+98,ajāya,goat (dat-s),hermit (dat-s),doctor (dat-s),hunter (dat-s)
+99,vānarāya,monkey (dat-s),teacher (dat-s),lion (dat-s),doctor (dat-s)
+100,makkaṭāya,monkey (dat-s),teacher (dat-s),lion (dat-s),doctor (dat-s)
+101,lābhāya,profit (dat-s),doctor (dat-s),hunter (dat-s),lion (dat-s)
+102,mañcāya,bed (dat-s),lion (dat-s),hermit (dat-s),teacher (dat-s)
+103,kuddālāya,hoe (dat-s),hunter (dat-s),teacher (dat-s),hermit (dat-s)
+104,tāpasassa,hermit (dat-s),goat (dat-s),profit (dat-s),hoe (dat-s)
+105,ācariyassa,teacher (dat-s),monkey (dat-s),bed (dat-s),profit (dat-s)
+106,vejjassa,doctor (dat-s),profit (dat-s),hoe (dat-s),bed (dat-s)
+107,sīhassa,lion (dat-s),bed (dat-s),goat (dat-s),monkey (dat-s)
+108,luddakassa,hunter (dat-s),hoe (dat-s),monkey (dat-s),goat (dat-s)
+109,ajassa,goat (dat-s),hermit (dat-s),doctor (dat-s),hunter (dat-s)
+110,vānarassa,monkey (dat-s),teacher (dat-s),lion (dat-s),doctor (dat-s)
+111,makkaṭassa,monkey (dat-s),teacher (dat-s),lion (dat-s),doctor (dat-s)
+112,lābhassa,profit (dat-s),doctor (dat-s),hunter (dat-s),lion (dat-s)
+113,mañcassa,bed (dat-s),lion (dat-s),hermit (dat-s),teacher (dat-s)
+114,kuddālassa,hoe (dat-s),hunter (dat-s),teacher (dat-s),hermit (dat-s)
+115,tāpasānaṃ,hermits (dat-p),goats (dat-p),profits (dat-p),hoes (dat-p)
+116,ācariyānaṃ,teachers (dat-p),monkeys (dat-p),beds (dat-p),profits (dat-p)
+117,vejjānaṃ,doctors (dat-p),profits (dat-p),hoes (dat-p),beds (dat-p)
+118,sīhānaṃ,lions (dat-p),beds (dat-p),goats (dat-p),monkeys (dat-p)
+119,luddakānaṃ,hunters (dat-p),hoes (dat-p),monkeys (dat-p),goats (dat-p)
+120,ajānaṃ,goats (dat-p),hermits (dat-p),doctors (dat-p),hunters (dat-p)
+121,vānarānaṃ,monkeys (dat-p),teachers (dat-p),lions (dat-p),doctors (dat-p)
+122,makkaṭānaṃ,monkeys (dat-p),teachers (dat-p),lions (dat-p),doctors (dat-p)
+123,lābhānaṃ,profits (dat-p),doctors (dat-p),hunters (dat-p),lions (dat-p)
+124,mañcānaṃ,beds (dat-p),lions (dat-p),hermits (dat-p),teachers (dat-p)
+125,kuddālānaṃ,hoes (dat-p),hunters (dat-p),teachers (dat-p),hermits (dat-p)
+167,tāpasāya,to the hermit,for the goat,to the profit,for the hoe
+127,ācariyāya,for the teacher,to the monkey,to the bed,for the profit
+128,vejjāya,to the doctor,for the profit,to the hoe,for the bed
+129,sīhāya,for the lion,to the bed,to the goat,for the monkey
+130,luddakāya,to the hunter,for the hoe,to the monkey,for the goat
+131,ajāya,for the goat,to the hermit,to the doctor,for the hunter
+132,vānarāya,to the monkey,for the teacher,to the lion,for the doctor
+133,makkaṭāya,for the monkey,to the teacher,to the lion,for the doctor
+134,lābhāya,to the profit,for the doctor,to the hunter,for the lion
+135,mañcāya,for the bed,to the lion,to the hermit,for the teacher
+136,kuddālāya,to the hoe,for the hunter,to the teacher,for the hermit
+137,tāpasassa,for the hermit,to the goat,to the profit,for the hoe
+138,ācariyassa,to the teacher,for the monkey,to the bed,for the profit
+139,vejjassa,for the doctor,to the profit,to the hoe,for the bed
+140,sīhassa,to the lion,for the bed,to the goat,for the monkey
+141,luddakassa,for the hunter,to the hoe,to the monkey,for the goat
+142,ajassa,to the goat,for the hermit,to the doctor,for the hunter
+143,vānarassa,for the monkey,to the teacher,to the lion,for the doctor
+144,makkaṭassa,to the monkey,for the teacher,to the lion,for the doctor
+145,lābhassa,for the profit,to the doctor,to the hunter,for the lion
+146,mañcassa,to the bed,for the lion,to the hermit,for the teacher
+147,kuddālassa,for the hoe,to the hunter,to the teacher,for the hermit
+148,tāpasānaṃ,to the hermits,for the goats,to the profits,for the hoes
+149,ācariyānaṃ,for the teachers,to the monkeys,to the beds,for the profits
+150,vejjānaṃ,to the doctors,for the profits,to the hoes,for the beds
+151,sīhānaṃ,for the lions,to the beds,to the goats,for the monkeys
+152,luddakānaṃ,to the hunters,for the hoes,to the monkeys,for the goats
+153,ajānaṃ,for the goats,to the hermits,to the doctors,for the hunters
+154,vānarānaṃ,to the monkeys,for the teachers,to the lions,for the doctors
+155,makkaṭānaṃ,for the monkeys,to the teachers,to the lions,for the doctors
+156,lābhānaṃ,to the profits,for the doctors,to the hunters,for the lions
+157,mañcānaṃ,for the beds,to the lions,to the hermits,for the teachers
+158,kuddālānaṃ,for the hoes,for the hunters,to the teachers,for the hermits
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,she digs,,
+,,,she shoots,,
+,,,"she hits, strikes",,
+,,,she protects,,
+,,,"she worships, salutes",,
+,,,"he carries, take away",,
+,,,he brings,,
+,,,"he climbs, ascends",,
+,,,he descends,,
+,,,he begs,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,he comes,he goes
+,,,,he runs,he comes
+,,,,he speaks,he runs
+,,,,he cooks,he speaks
+,,,,he ploughs,he cooks
+,,,,she eats,she ploughs
+,,,,she sleeps,she eats
+,,,,she sees,she sleeps
+,,,,she cuts,she sees
+,,,,she goes,she cuts

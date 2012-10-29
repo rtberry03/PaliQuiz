@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center|center_horizontal|center_vertical"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    	android:gravity="center_vertical|center_horizontal"
+        android:paddingBottom="10dip"
+        android:text="@string/choose_chapter_str"
+        android:textSize="24dip"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+  <FrameLayout
+      android:layout_width="254dip"
+      android:layout_height="wrap_content" >
+
+  <RelativeLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" >
+
+    <!--  Place the objects you want on the top here -->
+      
+   <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/ScrollView02"
+		android:layout_width="254dip"	
+		android:layout_height="315dip"> 
+    
+    <LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:paddingTop="0dip" android:paddingBottom="0dip"
+		android:gravity="center_horizontal">
+
+         <RadioGroup
+             android:id="@+id/group1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:orientation="vertical"
+             android:padding="0dip" >
+
+             <RadioButton
+                 android:id="@+id/ch_01Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH01_str"
+                 android:textColor="#ffffff"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH01_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_02Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH02_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH02_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_03Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH03_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH03_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_04Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH04_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH04_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_05Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH05_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH05_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_06Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH06_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH06_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_61Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH61_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH61_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_07Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH07_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH07_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_08Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH08_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH08_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_09Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH09_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH09_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_10Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH10_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH10_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_11Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH11_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH11_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_12Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH12_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH12_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_13Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH13_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH13_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_14Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH14_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH14_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+       
+             <RadioButton
+                 android:id="@+id/ch_15Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH15_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+
+ 			<TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH15_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />             
+             
+             <RadioButton
+                 android:id="@+id/ch_16Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH16_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH16_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_17Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH17_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH17_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_18Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH18_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH18_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_19Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH19_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH19_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_20Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH20_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH20_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_21Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH21_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH21_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_22Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH22_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH22_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_23Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH23_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH23_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_24Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH24_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH24_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_25Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH25_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH25_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_26Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH26_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH26_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_27Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH27_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH27_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_28Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH28_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH28_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_29Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH29_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH29_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+
+             <RadioButton
+                 android:id="@+id/ch_30Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH30_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH30_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+         </RadioGroup>
+	</LinearLayout> 
+	</ScrollView>
+	
+    
+  </RelativeLayout>
+</FrameLayout>
+
+  <RelativeLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" >
+
+	<Button
+      	android:id="@+id/updateBtn"
+        android:layout_width="254dp"
+        android:layout_alignBottom="@+id/ScrollView02"
+        android:layout_height="35dip"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_selector"
+        android:text="@string/update_str" 
+        android:textStyle="bold" 
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:layout_marginBottom="4dip"
+        android:textColor="#000000" />
+      
+  </RelativeLayout>
+
+</LinearLayout>

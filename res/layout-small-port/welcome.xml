@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center|center_horizontal|center_vertical"
+    android:orientation="vertical" >
+
+  
+    
+
+    <Button
+        android:id="@+id/settingsBtn"
+        android:layout_width="254dp"
+        android:layout_height="35dip"
+        android:background="@drawable/button_selector"
+        android:text="@string/settings_str" 
+        android:textStyle="bold" 
+        android:paddingBottom="2dip"
+        android:paddingTop="2dip"
+        android:layout_marginBottom="1dip"
+        android:layout_marginTop="10dip"
+        android:textColor="#000000" />
+    <Button
+        android:id="@+id/playBtn"
+        android:layout_width="254dp"
+        android:layout_height="35dip"
+        android:background="@drawable/button_selector"
+        android:text="@string/play_str" 
+        android:textStyle="bold" 
+        android:paddingBottom="2dip"
+        android:paddingTop="2dip"
+        android:layout_marginBottom="1dip"
+        android:textColor="#000000" />
+    <Button
+        android:id="@+id/exitBtn"
+        android:layout_width="254dp"
+        android:layout_height="35dip"
+        android:background="@drawable/button_selector"
+        android:text="@string/exit_str"
+        android:textStyle="bold"  
+        android:paddingBottom="2dip"
+        android:paddingTop="2dip"
+        android:layout_marginBottom="1dip"
+        android:textColor="#000000" />
+    
+       <Button
+    	android:id="@+id/aboutBtn"
+	    android:layout_width="254dp"
+  		android:background="@drawable/button_selector"
+        android:layout_height="35dip"
+        android:paddingBottom="2dip"
+        android:paddingTop="2dip"
+		android:layout_marginBottom="2dip"
+        android:textStyle="bold" 
+        android:text="@string/abbrevs" />
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="254dp"
+        android:layout_height="254dp"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/main_menu_art"
+        android:gravity="center|center_horizontal|top"
+        android:paddingBottom="10dip"
+        android:paddingTop="10dip" >
+
+        <TextView
+            android:id="@+id/the_versionName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:paddingRight="25dip"
+            android:paddingTop="35dip"
+            android:textColor="#0000FF"
+            android:textSize="10dp" />
+    </TableLayout>
+
+ 
+
+
+
+</LinearLayout>

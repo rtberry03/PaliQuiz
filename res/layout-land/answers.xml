@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center|center_horizontal|center_vertical"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    	android:gravity="center_vertical|center_horizontal"
+        android:paddingBottom="10dip"
+        android:text="@string/answers_str"
+        android:textSize="24dip"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+	  
+   <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/ScrollView02"
+		android:layout_width="254dip"	
+		android:layout_height="180dip"> 
+    
+    <LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:paddingTop="0dip" android:paddingBottom="0dip"
+		android:gravity="center_horizontal">
+
+         <TextView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" 
+				android:textColor="#000000"
+				android:textStyle="bold" 
+				android:id="@+id/answers"
+				android:paddingLeft="15dip" 
+				android:paddingRight="15dip"
+				android:gravity="center_horizontal"/>
+	</LinearLayout> 
+	</ScrollView>
+	
+
+  <RelativeLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" >
+
+			<Button
+      			android:id="@+id/finishBtn"
+		        android:layout_width="254dp"
+		        android:layout_height="40dip"
+       	        android:background="@drawable/button_selector"
+       		    android:text="@string/back_str" 
+		        android:textStyle="bold" 
+ 		       	android:paddingBottom="5dip"
+		        android:paddingTop="5dip"
+		        android:layout_marginBottom="4dip"
+		        android:textColor="#000000" />
+      
+  </RelativeLayout>
+
+</LinearLayout>
