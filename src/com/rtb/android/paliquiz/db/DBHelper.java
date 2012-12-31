@@ -12,7 +12,6 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.util.Log;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -37,11 +36,11 @@ public class DBHelper extends SQLiteOpenHelper {
 
 	// Update the following, the current source file for the database
 
-	private static String RESOURCE_FILENAME = "questionsDb3.db";
+	private static String RESOURCE_FILENAME = "questionsDb4.db";
 	
-	// also need to update Manifest
-	// also update strings
-	// finally, update SettingsActivity
+	// also need to update Manifest; increment versionCode & modify versionName 
+	// also update strings to reflect content/availability of new chapter(s)
+	// finally, update a couple of functions in SettingsActivity
 	
 //END CHANGE THESE
 

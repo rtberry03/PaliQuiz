@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center|center_horizontal|center_vertical"
+    android:orientation="vertical" >
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="254dp"
+        android:layout_height="254dp"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/main_menu_art"
+        android:gravity="center|center_horizontal|top"
+        android:paddingBottom="10dip"
+        android:paddingTop="10dip" >
+
+        <TextView
+            android:id="@+id/the_versionName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:paddingRight="25dip"
+            android:paddingTop="35dip"
+            android:textColor="#0000FF"
+            android:textSize="10dp" />
+    </TableLayout>
+
+    <Button
+        android:id="@+id/settingsBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:layout_marginBottom="2dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/button_selector"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:text="@string/settings_str"
+        android:textColor="#000000"
+        android:textStyle="bold" 
+        android:textSize="30dp"/>
+
+    <Button
+        android:id="@+id/playBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:layout_marginBottom="2dip"
+        android:background="@drawable/button_selector"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:text="@string/play_str"
+        android:textColor="#000000"
+        android:textStyle="bold"
+         android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/exitBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:layout_marginBottom="2dip"
+        android:background="@drawable/button_selector"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:text="@string/exit_str"
+        android:textColor="#000000"
+        android:textStyle="bold"
+         android:textSize="30dp" />
+    
+       <Button
+           android:id="@+id/aboutBtn"
+           android:layout_width="fill_parent"
+           android:layout_height="45dip"
+           android:layout_marginBottom="6dip"
+           android:background="@drawable/button_selector"
+           android:paddingBottom="5dip"
+           android:paddingTop="5dip"
+           android:text="@string/abbrevs"
+           android:textStyle="bold" 
+            android:textSize="30dp"/>
+
+ 
+
+
+
+</LinearLayout>
