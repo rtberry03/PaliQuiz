@@ -230,6 +230,7 @@ public class SettingsActivity extends Activity implements OnClickListener{
 
 
 	/**
+	 * THE FOLLOWING FUNCTIONS MUST BE AMENDED WHEN THE DATABASE IS UPDATED WITH NEW CHAPTERS
 	 * Method to check that a checkbox is selected
 	 * 
 	 * @return boolean
@@ -244,9 +245,11 @@ public class SettingsActivity extends Activity implements OnClickListener{
 		RadioButton c61 = (RadioButton)findViewById(R.id.ch_61Setting);
 		RadioButton c7 = (RadioButton)findViewById(R.id.ch_07Setting);
 		RadioButton c8 = (RadioButton)findViewById(R.id.ch_08Setting);
+		RadioButton c9 = (RadioButton)findViewById(R.id.ch_09Setting);
 		return (c1.isChecked() || c2.isChecked() || c3.isChecked() ||
 				c4.isChecked() || c5.isChecked() || c6.isChecked() ||
-				c61.isChecked() || c7.isChecked() || c8.isChecked()
+				c61.isChecked() || c7.isChecked() || c8.isChecked() ||
+				c9.isChecked()
 				);
 	}
 
@@ -264,6 +267,7 @@ public class SettingsActivity extends Activity implements OnClickListener{
 		RadioButton c61 = (RadioButton)findViewById(R.id.ch_61Setting);
 		RadioButton c7 = (RadioButton)findViewById(R.id.ch_07Setting);
 		RadioButton c8 = (RadioButton)findViewById(R.id.ch_08Setting);
+		RadioButton c9 = (RadioButton)findViewById(R.id.ch_09Setting);
 		
 		if (c1.isChecked())
 		{
@@ -301,6 +305,11 @@ public class SettingsActivity extends Activity implements OnClickListener{
 		if (c8.isChecked())
 		{
 			return Constants.CH_08;
+			
+		}
+		if (c9.isChecked())
+		{
+			return Constants.CH_09;
 			
 		}
 		return 1;

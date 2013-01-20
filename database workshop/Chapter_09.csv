@@ -1,0 +1,124 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,ādadāti,she takes,having bathed,she questions,having flown
+2,ādāya ,having taken,"she leaves, sets out",he protects,it comes out (of water)
+3,āgacchati,she comes,having left,having observed,having come out
+4,āgamma ,having come,having left,he cries,she gets up
+5,āgantvā,having come,it puts,she collects,having gotten up
+6,āharati,she brings,she sits,having collected,having gotten up
+7,āhiṇḍati,she wanders,having seated,he assembles,"he worships, salutes"
+8,āhiṇḍitvā,having wandered,she descends,having assembled,having paid respect
+9,ākaḍḍhati,it drags,having descended,he sleeps,she lives
+10,akkosati,he scolds,it descends,it crosses (water),it dwells
+11,akkositvā,having scolded,he advises,having stood,he shoots
+12,anusāsati,he instructs,he cooks,having stood,she opens
+13,āruhati,"she climbs, ascends",having cooked,she stands,she begs
+14,āruyha ,having climbed,"he hits, strikes","it flies, jumps up",she questions
+15,āsiñcati,it sprinkles,having abandoned,having flown,he protects
+16,bhāsati,he speaks,"he gives up, abandons",it comes out (of water),having observed
+17,bhindati,it breaks,having abandoned,having come out,he cries
+18,bhinditvā,having broken,"he calls, summons",she gets up,she collects
+19,bhuñjati,he eats,having summoned,having gotten up,having collected
+20,bhuñjitvā,having eaten,"he becomes glad, is pleased with",having gotten up,he assembles
+21,bhutvā,having eaten,she sees,"he worships, salutes",having assembled
+22,carati,he walks,having seen,having paid respect,he sleeps
+23,chindati,she cuts,she falls,she lives,it crosses (water)
+24,dadāti,he gives,having fallen,it dwells,having stood
+25,daditvā,having given,she enters,he shoots,having stood
+26,ḍasati,he bites,it touches,she opens,she stands
+27,datvā,having given,she drinks,she begs,"it flies, jumps up"
+28,dhāvati,she runs,it drinks,having bathed,having abandoned
+29,dhovati,he washes,having drunk,"she leaves, sets out","he gives up, abandons"
+30,dhovitvā,having washed,she questions,having left,having abandoned
+31,disvā,having seen,he protects,having left,"he calls, summons"
+32,gacchati,she goes,having observed,it puts,having summoned
+33,gantvā ,having gone,he cries,she sits,"he becomes glad, is pleased with"
+34,hanati,he kills,she collects,having seated,she sees
+35,hanitvā,having killed,having collected,she descends,having seen
+36,hantvā,having killed,he assembles,having descended,she falls
+37,harati,"she carries, take away",having assembled,it descends,having fallen
+38,hasati,she laughs,he sleeps,he advises,she enters
+39,icchati,"she wishes, desires",it crosses (water),he cooks,it touches
+40,jīvati,he lives,having stood,having cooked,she drinks
+41,kasati,he ploughs,having stood,"he hits, strikes",it drinks
+42,khādati,she eats,she stands,having abandoned,having drunk
+43,khāditvā ,having eaten,"it flies, jumps up","he gives up, abandons",having bathed
+44,khaṇati,he digs,having flown,having abandoned,"she leaves, sets out"
+45,kīḷati,it plays,it comes out (of water),"he calls, summons",having left
+46,labhati,"he gets, receives",having come out,having summoned,having left
+47,naccati,he dances,she gets up,"he becomes glad, is pleased with",it puts
+48,nahātvā,having bathed,having gotten up,she sees,she sits
+49,nahāyati,it bathes,having gotten up,having seen,having seated
+50,nahāyitvā,having bathed,"he worships, salutes",she falls,she descends
+51,nikkhamati,"she leaves, sets out",having paid respect,having fallen,having descended
+52,nikkhamitvā,having left,she lives,she enters,it descends
+53,nikkhamma,having left,it dwells,it touches,he advises
+54,nikkhipati,it puts,he shoots,she drinks,he cooks
+55,nisīdati,she sits,she opens,it drinks,having cooked
+56,nisīditvā,having seated,she begs,having drunk,"he hits, strikes"
+57,oruhati,she descends,she takes,he bites,she laughs
+58,oruyha ,having descended,having taken,having given,"she wishes, desires"
+59,otarati,it descends,she comes,she runs,he lives
+60,ovadati,he advises,having come,he washes,he ploughs
+61,pacati,he cooks,having come,having washed,she eats
+62,pacitvā ,having cooked,she brings,having seen,having eaten
+63,paharati,"he hits, strikes",she wanders,she goes,he digs
+64,pahāya,having abandoned,having wandered,having gone,it plays
+65,pajahati,"he gives up, abandons",it drags,he kills,"he gets, receives"
+66,pajahitvā,having abandoned,he scolds,having killed,he dances
+67,pakkosati,"he calls, summons",having scolded,having killed,having bathed
+68,pakkositvā,having summoned,he instructs,"she carries, take away",it bathes
+69,pasīdati,"he becomes glad, is pleased with","she climbs, ascends",she laughs,he bites
+70,passati,she sees,having climbed,"she wishes, desires",having given
+71,passitvā,having seen,it sprinkles,he lives,she runs
+72,patati,she falls,he speaks,he ploughs,he washes
+73,patitvā,having fallen,it breaks,she eats,having washed
+74,pavisati,she enters,having broken,having eaten,having seen
+75,phusati,it touches,he eats,he digs,she goes
+76,pibati,she drinks,having eaten,it plays,having gone
+77,pivati,it drinks,having eaten,"he gets, receives",he kills
+78,pivitvā,having drunk,he walks,he dances,having killed
+79,pucchati,she questions,she cuts,having bathed,having killed
+80,rakkhati,he protects,he gives,it bathes,"she carries, take away"
+81,rakkhitvā,having observed,having given,she takes,"she climbs, ascends"
+82,rodati,he cries,he bites,having taken,having climbed
+83,saṃharati,she collects,having given,she comes,it sprinkles
+84,saṃharitvā,having collected,she runs,having come,he speaks
+85,sannipatati,he assembles,he washes,having come,it breaks
+86,sannipatitvā,having assembled,having washed,she brings,having broken
+87,sayati,he sleeps,having seen,she wanders,he eats
+88,tarati,it crosses (water),she goes,having wandered,having eaten
+89,ṭhatvā,having stood,having gone,it drags,having eaten
+90,ṭhatvā,having stood,he kills,he scolds,he walks
+91,tiṭṭhati,she stands,having killed,having scolded,she cuts
+92,uppatati,"it flies, jumps up",having killed,he instructs,he gives
+93,uppatitvā,having flown,"she carries, take away","she climbs, ascends",having given
+94,uttarati,it comes out (of water),she laughs,having climbed,she takes
+95,uttaritvā,having come out,"she wishes, desires",it sprinkles,having taken
+96,uṭṭhahati,she gets up,he lives,he speaks,she comes
+97,uṭṭhahitvā,having gotten up,he ploughs,it breaks,having come
+98,uṭṭhāya,having gotten up,she eats,having broken,having come
+99,vandati,"he worships, salutes",having eaten,he eats,she brings
+100,vanditvā,having paid respect,he digs,having eaten,she wanders
+101,vasati,she lives,it plays,having eaten,having wandered
+102,viharati,it dwells,"he gets, receives",he walks,it drags
+103,vijjhati,he shoots,he dances,she cuts,he scolds
+104,vivarati,she opens,having bathed,he gives,having scolded
+105,yācati,she begs,it bathes,having given,he instructs
+106,Kassako gehamhā nikkhamma viharaṃ pavisati.,Having gone out of the house the farmer enters the monastery.,Having gone out of the house the farmer enters the field.,Having gone out of the house the teacher enters the monastery.,Having gone out of the house the teacher enters the field.
+107,Buddho dhammaṃ desetvā khettaṃ pavisati.,"Having preached the doctrine, the Buddha enters the field.","Having preached the doctrine, the Buddha enters the monastery.","Having preached the doctrine, the Buddha enters the house.","Having preached the doctrine, the Buddha enters the palace."
+108,Dārako Buddhe pasīditvā pāsādaṃ pajahitvā viharaṃ gacchati.,"The child having been pleased with the Buddha, abandons the palace and goes to the monastery.","The king having been pleased with the Buddha, abandons the palace and goes to the monastery.","The child having been pleased with the Buddha, abandons the tree and goes to the monastery.","The king having been pleased with the Buddha, abandons the tree and goes to the monastery."
+109,Bhūpālo sopānasmā oruyha hasati.,"Having climbed down from the stairway, the king laughs.","Having climbed down from the stairway, the child laughs.","Having climbed down from the stairway, the washerman laughs.","Having climbed down from the stairway, the sailor laughs."
+110,Manusso pāsāṇena sappaṃ paharitvā gehaṃ dhāvati.,Having hit the serpent with a stone the man runs into the house.,Having hit the serpent with a stone the boy runs into the house.,Having hit the serpent with a stone the washerman runs into the house.,Having hit the serpent with a stone the sailor runs into the house.
+111,Kumāro araññaṃ gantvā rukkhaṃ āruyha phalāni khādati.,Having gone to the forest the boy climbs a tree and eats fruits.,Having gone to the forest the man climbs a tree and eats fruits.,Having gone to the forest the boy climbs a tree and eats rice.,Having gone to the forest the man climbs a tree and eats rice.
+112,Varāho ajaṃ hantvā pāsāṇe nisīditvā khādati.,"The pig having killed a goat, eats having sat on a rock.","The lion having killed a goat, eats having sat on a rock.","The pig having killed a horse, eats having sat on a rock.","The lion having killed a horse, eats having sat on a rock."
+113,Manusso rathamhā oruyha kassakehi saha bhāsati.,The man having got down from the chariot speaks with the farmers.,The king having got down from the chariot speaks with the farmers.,The man having got down from the chariot speaks with the washermen.,The king having got down from the chariot speaks with the washermen.
+114,Bhūpālo gehaṃ pahāya vihāraṃ pavisati.,The king having given up his house enters the monastery.,The man having given up his house enters the monastery.,The king having given up his chariot enters the monastery.,The man having given up his chariot enters the monastery.
+115,Samaṇā Buddhamhā pañhe pucchitvā pasīdanti.,"The monks, having asked questions from the Buddha, become glad.","The deities, having asked questions from the Buddha, become glad.","The fishermen, having asked questions from the Buddha, become glad.","The sailors, having asked questions from the Buddha, become glad."
+116,Dārako ācariyassa pādaṃ ḍasitvā gehaṃ dhāvati.,"The child, having bitten the teacher's foot, runs into the house.","The dog, having bitten the teacher's foot, runs into the house.","The child, having bitten the washerman's foot, runs into the house.","The dog, having bitten the washerman's foot, runs into the house."
+117,Sīho magge ajena saddhiṃ kīlitvā rukkhaṃ āruhati.,"The lion, having played with the goat on the road, climbs a tree.","The monkey, having played with the goat on the road, climbs a tree.","The lion, having played with the goat on the road, climbs a mountain.","The monkey, having played with the goat on the road, climbs a mountain."
+118,Nāviko araññasmā āgamma sappurisamhā vatthaṃ labhati.,"The sailor, having come from the forest, receives a cloth from the good man.","The hermit, having come from the forest, receives a cloth from the good man.","The sailor, having come from the village, receives a cloth from the good man.","The hermit, having come from the village, receives a cloth from the good man."
+119,Kukkuro udakaṃ pivitvā pattaṃ bhindati.,"Having drunk water, the dog breaks the bowl.","Having drunk water, the child breaks the bowl.","Having drunk water, the horse breaks the bowl.","Having drunk water, the pig breaks the bowl."
+120,Devā kassakānaṃ putte ovaditvā āsanehi uṭṭhahitvā vihāraṃ gacchanti.,"Having advised the farmers' sons, and having risen from the seats, the deities go to the monastery.","Having advised the farmers' sons, and having risen from the seats, the monks go to the monastery.","Having advised the sailors' sons, and having risen from the seats, the deities go to the monastery.","Having advised the sailors' sons, and having risen from the seats, the monks go to the monastery."
+121,Tāpaso samuddaṃ taritvā dīpaṃ gacchati.,"The hermit, having crossed the sea, goes to the island.","The sailor, having crossed the sea, goes to the island.","The hermit, having crossed the road, goes to the mountain.","The sailor, having crossed the road, goes to the mountain."
+122,Kassako mātule pakkositvā gehamhi naccati.,The farmer calls the uncles and dances in the house.,The child calls the uncles and dances in the house.,The farmer calls the uncles and dances in the palace.,The child calls the uncles and dances in the palace.
+123,Dārako vatthāni dhovitvā nahātvā udakasmā uttarati.,"Having washed clothes and bathed, the child gets out of the water. ","Having washed clothes and bathed, the farmer gets out of the water. ","Having washed clothes and bathed, the child gets out of the sea. ","Having washed clothes and bathed, the farmer gets out of the sea. "
