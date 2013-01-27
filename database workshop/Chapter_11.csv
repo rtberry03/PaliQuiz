@@ -1,0 +1,97 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,pariyesati,"he searches, seeks",she fears,she throws,he hopes
+2,ārabhati,she begins,"it departs, dies",it sows,she sews
+3,ussahati,it tries,he is born,he hopes,she throws
+4,upasaṅkamati,he approaches,she throws,she sews,it sows
+5,adhigacchati,"she understands, attains",it sows,she fears,he is born
+6,gāyati,it sings,he hopes,"it departs, dies",she fears
+7,āmasati,"he touches, strokes",she sews,he is born,"it departs, dies"
+8,bhāyati,she fears,"he searches, seeks","she understands, attains",it sings
+9,cavati,"it departs, dies",she begins,it sings,"he touches, strokes"
+10,uppajjati,he is born,it tries,"he touches, strokes","she understands, attains"
+11,khipati,she throws,he approaches,"he searches, seeks",it tries
+12,vapati,it sows,"she understands, attains",she begins,he approaches
+13,ākaṅkhati,he hopes,it sings,it tries,"he searches, seeks"
+14,sibbati,she sews,"he touches, strokes",he approaches,she begins
+15,rakkhanti,they observe,they approach,they sing,they depart
+16,āpaṇa {-aṃ},"shop, bazaar","root, money",gold,truth
+17,puñña {-aṃ},merit,foot of a tree,gold,drinking water
+18,pāpa {-aṃ},"evil, sin",beak,truth,mind
+19,kamma {-aṃ},"deed, action","wage, pay",drinking water,gold
+20,kusala {-aṃ},good,lotus,mind,gold
+21,akusala {-aṃ},evil,song,"root, money","wage, pay"
+22,dhana {-aṃ},wealth,gold,foot of a tree,lotus
+23,dhañña {-aṃ},corn,gold,beak,song
+24,bīja {-aṃ},seed,truth,"wage, pay","root, money"
+25,dussa {-aṃ},cloth,drinking water,lotus,foot of a tree
+26,cīvara {-aṃ},robe,mind,song,beak
+27,mūla {-aṃ},"root, money","shop, bazaar",evil,seed
+28,rukkhamūla {-aṃ},foot of a tree,merit,wealth,cloth
+29,tuṇḍa {-aṃ},beak,"evil, sin",corn,robe
+30,vetana {-aṃ},"wage, pay","deed, action",seed,evil
+31,paduma {-aṃ},lotus,good,cloth,wealth
+32,gīta {-aṃ},song,evil,robe,corn
+33,suvaṇṇa {-aṃ},gold,wealth,"shop, bazaar","evil, sin"
+34,hirañña {-aṃ},gold,corn,merit,"deed, action"
+35,sacca {-aṃ},truth,seed,"evil, sin",good
+36,pānīya {-aṃ},drinking water,cloth,"deed, action","shop, bazaar"
+37,citta {-aṃ},mind,robe,good,merit
+38,rodanto dārako ,crying child,crying merchant,wishing merchant,wishing merchants
+39,icchanto vāṇijo,wishing merchant,wishing child,washing child,washing children
+40,upāsako vihāraṃ gacchamāno,lay devotee going to the monastery,lay devotee going to the village,lay devotee going to the palace,lay devotee going to the palaces
+41,sakuṇo phalaṃ haranto,bird carrying fruit,bird carrying rice,oxen carrying rice,horse carrying rice
+42,cīvaraṃ pariyesantassa samaṇassa,monk seeking a robe,man seeking a robe,man seeking gold,warriors seeking gold
+43,āhiṇḍanto luddako,wandering hunter,wandering merchant,wandering hunters,wandering sailors
+44,uyyāne āhiṇḍamānamhā kumāramhā,boy who is wandering in the park,boy who is wandering in the village,boy who is going to the village,boys going to the village
+45,rathena gacchamānehi amaccehi,ministers who are going in a chariot,ministers who are coming in a chariot,kings who are coming in a chariot,kings who are coming in chariots
+46,sīlāni rakkhamānā manussā,people who practice virtues,monks who practice virtues,the monk who practices virtue,the monks who practice virtue
+47,dhaññaṃ āka'nkhantassa purisassa,man who is wishing for grain,man who is wishing for fruit,man who is wishing for gold,men wishing for gold
+48,rukkhe chindantā asappurisā,wicked men cutting trees,lay devotees cutting trees,hunters cutting trees,the hunters cutting a tree
+49,dhammaṃ bhāsamāne sāvake,disciples discussing the dhamma,ministers discussing the dhamma,children discussing the dhamma,a child discussing the dhamma
+50,gītāni gāyantā kumārā,boys singing songs,sailors singing songs,farmers singing songs,farmers singing a song
+51,suvaṇṇaṃ labhituṃ ussahantā manussā,men trying to get gold,men trying to get oxen,men trying to get pigs,a men trying to get pigs
+52,udakaṃ pātuṃ icchanto sīho,lion wishing to drink water,dog wishing to drink water,horses wishing to drink water,the horse wishing to drink water
+53,āka'nkhāmāno naro,man hoping,kings hoping,lay devotees hoping,a lay devotee hoping
+54,samaṇehi saha bhāsantā upāsakā,lay devotees speaking with monks,lay devotees speaking with merchants,lay devotees speaking with ministers,lay devotees speaking with a minister
+55,magge sayantaṃ sunakhaṃ,dog sleeping on the road,jackal sleeping on the road,jackals sleeping on the road,a jackal sleeping on the road
+56,sīlaṃ rakkhantā sappurisā,good men who practice virtue,wicked men who practice virtue,warriors who practice virtue,warrior practicing virtue
+57,saṃharituṃ ussahanto vāṇijo,merchant trying to collect,minister trying to collect,minister going to collect,ministers going to collect
+58, āhiṇḍanto kassako ,wandering farmer,wandering hunter,wandering hunters,wandering king
+59,Vatthāni dhovanto brāhmaṇo magge gacchamānena kumārena saha bhāsati.,The brahmin washing clothes speaks with the boy going on the road.,The man washing clothes speaks with the boy going on the road.,The brahmin washing clothes speaks with the merchant going on the road.,The man washing clothes speaks with the king going on the road.
+60,Udakaṃ pātuṃ vanasmā nikkhamantaṃ migaṃ puriso passati.,The man sees the deer coming out of the forest to drink water.,The brahmin sees the deer coming out of the forest to drink water.,The man sees the horse coming out of the forest to drink water.,The brahmin sees the jackal coming out of the forest to drink water.
+61,Migā uyyānamhi rukkhehi patamānāni paṇṇāni khādanti.,Deer in the park eat leaves falling from the trees.,Goats in the park eat leaves falling from the trees.,Deer in the village eat leaves falling from the trees.,Birds in the park eat leaves falling from the trees.
+62,Asappurisā aje hanante luddake passituṃ icchanti.,Wicked men wish to see hunters killing goats.,Wicked men wish to see hunters killing deer.,Wicked men wish to see farmers killing goats.,Wicked men wish to see hunters killing dogs.
+63,Mātulo khettasmiṃ bījāni khādamāne sakuṇe passati.,The uncle sees birds eating seeds in his field.,The farmer sees birds eating seeds in his field.,The uncle sees pigs eating seeds in his field.,The king sees birds eating seeds in his field.
+64,Nagaraṃ pavisantā kumarā vihāre viharamānaṃ Buddhaṃ vandituṃ icchanti.,Boys who enter the city wish to worship the Buddha dwelling in the monastery.,Recluses who enter the city wish to worship the Buddha dwelling in the monastery.,Boys who enter the city wish to worship the Buddha dwelling in the forest.,Recluses who enter the monastery wish to worship the Buddha dwelling in the city.
+65,Sopānamhi tiṭṭhanto ācariyo rukkhe nisīdamāne vānare passati.,Standing on the stairway the teacher sees monkeys sitting on the tree.,Standing on the stairway the child sees monkeys sitting on the tree.,Standing on the stairway the teacher sees birds sitting on the tree.,Standing on the stairway the child sees monkey sitting on the tree.
+66,Udake carantānaṃ macchānaṃ samaṇā bhattaṃ dadanti.,Recluses give rice to fish moving in the water.,Boys give rice to fish moving in the water.,Recluses give leaves to fish moving in the water.,Boys give rice to pigs moving in the water.
+67,Samuddaṃ tarituṃ āka'nkhamāno vejjo bhūpālamhā mūlaṃ yācati.,The doctor wishing to cross the sea asks for money from the king.,The sailor wishing to cross the sea asks for money from the king.,The doctor wishing to cross the sea asks for money from the minister.,The sailor wishing to cross the sea asks for money from the doctor.
+68,Upāsakā samuddasmiṃ patantaṃ candassa ālokaṃ locanehi passanti.,Lay devotees see with their eyes the light of the moon falling on the sea.,Men see with their eyes the light of the moon falling on the sea.,Lay devotees see with their eyes the light of the sun falling on the sea.,Wicked men see with their eyes the light of the moon falling on the sea.
+69,Manussā vihāramhi vasamānānaṃ samaṇānaṃ cīvare dātuṃ ussahanti.,Men try to give robes to monks living in the monastery.,Lay devotees try to give robes to monks living in the monastery.,Men try to give robes to monks living in the palace.,Lay devotees try to give robes to hermits living in the monastery.
+70,Puññaṃ icchantā tāpasā samaṇānaṃ dānaṃ datvā sīlāni rakkhanti.,"Wishing for merit, hermits give alms to the monks and observe the precepts.","Wishing for merit, virtuous men give alms to the monks and observe the precepts.","Wishing for merit, hermits give gold to the monks and observe the precepts.","Wishing for merit, virtuous men give rice to the monks and observe the precepts."
+71,Rukkhehi patamānesu paṇṇesu dhīvaro araññe carati.,The fisherman walks on the leaves falling from the trees in the forest.,The man walks on the leaves falling from the trees in the forest.,The hermit walks on the leaves falling from the trees in the forest.,The wicked man walks on the leaves falling from the trees in the forest.
+72,Pupphāni pariyesantāya dārakāya kassako padumaṃ dadāti.,The farmer gives a lotus to the child searching for flowers.,The uncle gives a lotus to the child searching for flowers.,The farmer gives a lotus to the monk searching for flowers.,The diety gives a lotus to the child searching for flowers.
+73,Yācakāya thokaṃ dhaññaṃ datvā naro gehaṃ pavisati.,Having given the beggar some corn the man enters the house.,Having given the beggar some corn the fisherman enters the house.,Having given the beggar some corn the man enters the village.,Having given the child some corn the fisherman enters the house.
+74,Gāmaṃ upasa'nkamamānaṃ sigālaṃ disvā luddako pāsāṇena paharituṃ ussahati.,Seeing the jackal approaching the village the hunter tries to hit it with a stone.,Seeing the jackal approaching the village the farmer tries to hit it with a stone.,Seeing the jackal approaching the palace the hunter tries to hit it with a stone.,Seeing the bird approaching the village the farmer tries to hit it with a stone.
+75,āpaṇaṃ,"shop, bazaar (nom-s)","root, money (nom-s)",gold (nom-s),truth (nom-s)
+76,puññaṃ,merit (nom-s),foot of a tree (nom-s),gold (nom-s),drinking water (nom-s)
+77,pāpaṃ,"evil, sin (nom-s)",beak (nom-s),truth (nom-s),mind (nom-s)
+78,kammaṃ,"deed, action (nom-s)","wage, pay (nom-s)",drinking water (nom-s),gold (nom-s)
+79,kusalaṃ,good (nom-s),lotus (nom-s),mind (nom-s),gold (nom-s)
+80,akusalaṃ,evil (nom-s),song (nom-s),"root, money (nom-s)","wage, pay (nom-s)"
+81,dhanaṃ,wealth (nom-s),gold (nom-s),foot of a tree (nom-s),lotus (nom-s)
+82,dhaññaṃ,corn (nom-s),gold (nom-s),beak (nom-s),song (nom-s)
+83,bījaṃ,seed (nom-s),truth (nom-s),"wage, pay (nom-s)","root, money (nom-s)"
+84,dussaṃ,cloth (nom-s),drinking water (nom-s),lotus (nom-s),foot of a tree (nom-s)
+85,cīvaraṃ,robe (nom-s),mind (nom-s),song (nom-s),beak (nom-s)
+86,mūlaṃ,"root, money (nom-s)","shop, bazaar (nom-s)",evil (nom-s),seed (nom-s)
+87,rukkhamūlaṃ,foot of a tree (nom-s),merit (nom-s),wealth (nom-s),cloth (nom-s)
+88,tuṇḍaṃ,beak (nom-s),"evil, sin (nom-s)",corn (nom-s),robe (nom-s)
+89,vetanaṃ,"wage, pay (nom-s)","deed, action (nom-s)",seed (nom-s),evil (nom-s)
+90,padumaṃ,lotus (nom-s),good (nom-s),cloth (nom-s),wealth (nom-s)
+91,gītaṃ,song (nom-s),evil (nom-s),robe (nom-s),corn (nom-s)
+92,suvaṇṇaṃ,gold (nom-s),wealth (nom-s),"shop, bazaar (nom-s)","evil, sin (nom-s)"
+93,hiraññaṃ,gold (nom-s),corn (nom-s),merit (nom-s),"deed, action (nom-s)"
+94,saccaṃ,truth (nom-s),seed (nom-s),"evil, sin (nom-s)",good (nom-s)
+95,pānīyaṃ,drinking water (nom-s),cloth (nom-s),"deed, action (nom-s)","shop, bazaar (nom-s)"
+96,cittaṃ,mind (nom-s),robe (nom-s),good (nom-s),merit (nom-s)

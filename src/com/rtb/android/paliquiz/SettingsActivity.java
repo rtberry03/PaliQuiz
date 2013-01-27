@@ -246,10 +246,12 @@ public class SettingsActivity extends Activity implements OnClickListener{
 		RadioButton c7 = (RadioButton)findViewById(R.id.ch_07Setting);
 		RadioButton c8 = (RadioButton)findViewById(R.id.ch_08Setting);
 		RadioButton c9 = (RadioButton)findViewById(R.id.ch_09Setting);
+		RadioButton c10 = (RadioButton)findViewById(R.id.ch_10Setting);
+		RadioButton c11 = (RadioButton)findViewById(R.id.ch_11Setting);
 		return (c1.isChecked() || c2.isChecked() || c3.isChecked() ||
 				c4.isChecked() || c5.isChecked() || c6.isChecked() ||
 				c61.isChecked() || c7.isChecked() || c8.isChecked() ||
-				c9.isChecked()
+				c9.isChecked() || c10.isChecked() || c11.isChecked()
 				);
 	}
 
@@ -268,6 +270,8 @@ public class SettingsActivity extends Activity implements OnClickListener{
 		RadioButton c7 = (RadioButton)findViewById(R.id.ch_07Setting);
 		RadioButton c8 = (RadioButton)findViewById(R.id.ch_08Setting);
 		RadioButton c9 = (RadioButton)findViewById(R.id.ch_09Setting);
+		RadioButton c10 = (RadioButton)findViewById(R.id.ch_10Setting);
+		RadioButton c11 = (RadioButton)findViewById(R.id.ch_11Setting);
 		
 		if (c1.isChecked())
 		{
@@ -310,6 +314,16 @@ public class SettingsActivity extends Activity implements OnClickListener{
 		if (c9.isChecked())
 		{
 			return Constants.CH_09;
+			
+		}
+		if (c10.isChecked())
+		{
+			return Constants.CH_10;
+			
+		}
+		if (c11.isChecked())
+		{
+			return Constants.CH_11;
 			
 		}
 		return 1;
