@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lint>
     <issue id="InefficientWeight">
-        <ignore path="res\layout-land\welcome.xml" />
-        <ignore path="res\layout-small-land\welcome.xml" />
+        <ignore path="res/layout-land/welcome.xml" />
+        <ignore path="res/layout-small-land/welcome.xml" />
     </issue>
     <issue id="UselessParent">
-        <ignore path="res\layout-small-port\settings.xml" />
-        <ignore path="res\layout\settings.xml" />
+        <ignore path="res/layout-small-port/settings.xml" />
+        <ignore path="res/layout/settings.xml" />
     </issue>
 </lint>
