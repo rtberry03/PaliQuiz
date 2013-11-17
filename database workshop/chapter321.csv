@@ -1,0 +1,154 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,bhāsati,he speaks,he runs,he comes,he goes
+2,pacati,he cooks,he speaks,he runs,he comes
+3,kasati,he ploughs,he cooks,he speaks,he runs
+4,bhuñjati,he eats,he ploughs,he cooks,he speaks
+5,sayati,he sleeps,he eats,he ploughs,he cooks
+6,passati,she sees,she sleeps,she eats,she ploughs
+7,chindati,she cuts,she sees,she sleeps,she eats
+8,gacchati,she goes,she cuts,she sees,she sleeps
+9,āgacchati,she comes,she goes,she cuts,she sees
+10,dhāvati,she runs,she comes,she goes,she cuts
+11,harati,"she carries, take away",she digs,he comes,he goes
+12,āharati,she brings,she shoots,he runs,he comes
+13,āruhati,"she climbs, ascends","she hits, strikes",he speaks,he runs
+14,oruhati,she descends,she protects,he cooks,he speaks
+15,yācati,she begs,"she worships, salutes",he ploughs,he cooks
+16,khaṇati,he digs,"he carries, take away",she eats,she ploughs
+17,vijjhati,he shoots,he brings,she sleeps,she eats
+18,paharati,"he hits, strikes","he climbs, ascends",she sees,she sleeps
+19,rakkhati,he protects,he descends,she cuts,she sees
+20,vandati,"he worships, salutes",he begs,she goes,she cuts
+21,patati,she falls,"he calls, summons","she leaves, sets out",it descends
+22,dhovati,he washes,she eats,"he calls, summons","she leaves, sets out"
+23,icchati,"she wishes, desires",he kills,she eats,"he calls, summons"
+24,ḍasati,he bites,it descends,he kills,she eats
+25,pucchati,she questions,"she leaves, sets out",it descends,he kills
+26,pakkosati,"he calls, summons",she falls,she questions,he bites
+27,khādati,she eats,he washes,she falls,she questions
+28,hanati,he kills,"she wishes, desires",he washes,she falls
+29,otarati,it descends,he bites,"she wishes, desires",he washes
+30,nikkhamati,"she leaves, sets out",she questions,he bites,"she wishes, desires"
+31,rodati,he cries,she takes,it bathes,"he gives up, abandons"
+32,hasati,she laughs,it plays,it drags,it bathes
+33,labhati,"he gets, receives",it bathes,"he gives up, abandons",she takes
+34,pavisati,she enters,it drags,she takes,it plays
+35,dadāti,he gives,"he gives up, abandons",it plays,it drags
+36,ādadāti,she takes,he cries,"he gets, receives",she enters
+37,kīḷati,it plays,she laughs,she enters,"he gets, receives"
+38,nahāyati,it bathes,"he gets, receives",he gives,she laughs
+39,ākaḍḍhati,it drags,she enters,he cries,he gives
+40,pajahati,"he gives up, abandons",he gives,she laughs,he cries
+41,āhiṇḍati,she wanders,he lives,it crosses (water),it comes out (of water)
+42,carati,he walks,she stands,it comes out (of water),"he becomes glad, is pleased with"
+43,nisīdati,she sits,"it flies, jumps up","he becomes glad, is pleased with",it crosses (water)
+44,sannipatati,he assembles,it crosses (water),he lives,she stands
+45,viharati,it dwells,it comes out (of water),she stands,"it flies, jumps up"
+46,vasati,she lives,"he becomes glad, is pleased with","it flies, jumps up",he lives
+47,jīvati,he lives,she wanders,he assembles,it dwells
+48,tiṭṭhati,she stands,he walks,it dwells,she lives
+49,uppatati,"it flies, jumps up",she sits,she lives,he assembles
+50,tarati,it crosses (water),he assembles,she wanders,he walks
+51,uttarati,it comes out (of water),it dwells,he walks,she sits
+52,pasīdati,"he becomes glad, is pleased with",she lives,she sits,she wanders
+53,vivarati,she opens,she collects,it breaks,he advises
+54,naccati,he dances,it sprinkles,she drinks,it breaks
+55,nikkhipati,it puts,he scolds,it drinks,she drinks
+56,uṭṭhahati,she gets up,it breaks,she collects,he scolds
+57,phusati,it touches,she drinks,it sprinkles,she collects
+58,anusāsati,he instructs,it drinks,he scolds,it sprinkles
+59,ovadati,he advises,she opens,it touches,it drinks
+60,saṃharati,she collects,he dances,he instructs,it touches
+61,āsiñcati,it sprinkles,it puts,he advises,he instructs
+62,akkosati,he scolds,she gets up,she opens,it puts
+63,bhindati,it breaks,it touches,he dances,she gets up
+64,pibati,she drinks,he instructs,it puts,she opens
+65,pivati,it drinks,he advises,she gets up,he dances
+66,pariyesati,"he searches, seeks",she fears,she throws,he hopes
+67,ārabhati,she begins,"it departs, dies",it sows,she sews
+68,ussahati,it tries,he is born,he hopes,she throws
+69,upasaṅkamati,he approaches,she throws,she sews,it sows
+70,adhigacchati,"she understands, attains",it sows,she fears,he is born
+71,gāyati,it sings,he hopes,"it departs, dies",she fears
+72,āmasati,"he touches, strokes",she sews,he is born,"it departs, dies"
+73,bhāyati,she fears,"he searches, seeks","she understands, attains",it sings
+74,cavati,"it departs, dies",she begins,it sings,"he touches, strokes"
+75,uppajjati,he is born,it tries,"he touches, strokes","she understands, attains"
+76,khipati,she throws,he approaches,"he searches, seeks",it tries
+77,vapati,it sows,"she understands, attains",she begins,he approaches
+78,ākaṅkhati,he hopes,it sings,it tries,"he searches, seeks"
+79,sibbati,she sews,"he touches, strokes",he approaches,she begins
+80,deseti,he preaches,he looks at,he keeps,he avoids
+81,cinteti,he thinks,he kindles,he fells,he illuminates
+82,pūjeti,"he honours, offers",he covers,"he rules, governs",he gives
+83,pūreti,he fills,he kills,he avoids,he keeps
+84,pīḷeti,he oppresses,"he leads, takes away",he illuminates,he fells
+85,katheti,he speaks,he brings,he gives,"he rules, governs"
+86,uḍḍeti,he flies,he keeps,he looks at,he kills
+87,udeti,he (sun or moon) rises,he fells,he kindles,"he leads, takes away"
+88,ropeti,he plants,"he rules, governs",he covers,he brings
+89,manteti,"he discusses, takes counsel",he avoids,he kills,he looks at
+90,āmanteti,he addresses,he illuminates,"he leads, takes away",he kindles
+91,nimanteti,he invites,he gives,he brings,he covers
+92,oloketi,he looks at,he preaches,he flies,"he discusses, takes counsel"
+93,jāleti,he kindles,he covers,he (sun or moon) rises,he addresses
+94,chādeti,he covers,"he honours, offers",he plants,he invites
+95,māreti,he kills,he fills,"he discusses, takes counsel",he flies
+96,neti,"he leads, takes away",he oppresses,he addresses,he (sun or moon) rises
+97,āneti,he brings,he speaks,he invites,he plants
+98,ṭhapeti,he keeps,he flies,he preaches,he fills
+99,pāteti,he fells,he (sun or moon) rises,he covers,he oppresses
+100,pāleti,"he rules, governs",he plants,"he honours, offers",he speaks
+101,parivajjeti,he avoids,"he discusses, takes counsel",he fills,he preaches
+102,obhāseti,he illuminates,he addresses,he oppresses,he covers
+103,deti,he gives,he invites,he speaks,"he honours, offers"
+104,dadāti,he gives,he invites,he speaks,"he honours, offers"
+105,sakkoti,"can, is able","salutes, worships",prevents,experiences joy
+106,parivāreti,"accompanies, surrounds","brings up, nourishes","follows, chases after","puts, places, deposits"
+107,nivāreti,prevents,tries,gets angry,prepares
+108,anubandhati,"follows, chases after",hides,experiences suffering,prevents
+109,kujjhati,gets angry,engages in conversation,experiences joy,"follows, chases after"
+110,namassati,"salutes, worships","is happy, enjoys","puts, places, deposits",gets angry
+111,poseti,"brings up, nourishes","can, is able",prepares,experiences suffering
+112,vāyamati,tries,"accompanies, surrounds","salutes, worships",engages in conversation
+113,nilīyati,hides,prevents,"brings up, nourishes","is happy, enjoys"
+114,sallapati,engages in conversation,"follows, chases after",tries,"can, is able"
+115,modati,"is happy, enjoys",gets angry,hides,"accompanies, surrounds"
+116,sukhaṃ vindati,experiences joy,experiences suffering,engages in conversation,"salutes, worships"
+117,dukkhaṃ vindati,experiences suffering,experiences joy,"is happy, enjoys","brings up, nourishes"
+118,paṭiyādeti,prepares,"puts, places, deposits","can, is able",tries
+119,pakkhipati,"puts, places, deposits",prepares,"accompanies, surrounds",hides
+120,vyākaroti,explains,takes out,conceals,wraps
+121,pattheti,aspires,sends,wraps,harasses
+122,vissajjeti,spends,conceals,harasses,sends
+123,āroceti,informs,wraps,takes out,sends
+124,muñcati,releases,harasses,sends,takes out
+125,nīhareti,takes out,explains,informs,releases
+126,peseti,sends,aspires,releases,informs
+127,paṭiccādeti,conceals,spends,explains,wraps
+128,veṭheti,wraps,informs,aspires,explains
+129,viheṭheti,harasses,releases,spends,aspires
+130,thaketi,"shuts, closes","divides, distributes",harms,throws
+131,nāseti,destroys,breaks,throws,spreads
+132,sammajjati,sweeps,"builds, creates",spreads,harms
+133,obhāseti,illuminates,harms,"divides, distributes",breaks
+134,bhajati,keeps company,throws,breaks,"builds, creates"
+135,bandhati,ties,spreads,"builds, creates","divides, distributes"
+136,vibhajati,"divides, distributes","shuts, closes",illuminates,keeps company
+137,bhañjati,breaks,destroys,keeps company,ties
+138,māpeti,"builds, creates",sweeps,ties,illuminates
+139,vihiṃsati,harms,illuminates,"shuts, closes",destroys
+140,chaḍḍeti,throws,keeps company,destroys,sweeps
+141,pattharati,spreads,ties,sweeps,"shuts, closes"
+142,anukampati,feels compassionate,follows,"renounces, becomes ordained",sets in motion
+143,vāceti,teaches,"aspires, hopes","scatters, (pp. vippakiṇṇa)",sheds tears
+144,sammisseti,mixes,"fulfils, succeeds",defeats,"distributes, analyses"
+145,pabbajati,"renounces, becomes ordained",sets in motion,feels compassionate,follows
+146,vippakirati,"scatters, (pp. vippakiṇṇa)",sheds tears,teaches,"aspires, hopes"
+147,parājeti,defeats,"distributes, analyses",mixes,"fulfils, succeeds"
+148,anugacchati,follows,feels compassionate,sets in motion,"renounces, becomes ordained"
+149,pattheti,"aspires, hopes",teaches,sheds tears,"scatters, (pp. vippakiṇṇa)"
+150,samijjhati,"fulfils, succeeds",mixes,"distributes, analyses",defeats
+151,pavatteti,sets in motion,"renounces, becomes ordained",follows,feels compassionate
+152,(assūni) pavatteti,sheds tears,"scatters, (pp. vippakiṇṇa)","aspires, hopes",teaches
+153,vibhajati,"distributes, analyses",defeats,"fulfils, succeeds",mixes

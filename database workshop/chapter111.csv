@@ -1,0 +1,61 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,āpaṇaṃ,"shop, bazaar (nom-s)","root, money (nom-s)",gold (nom-s),truth (nom-s)
+2,puññaṃ,merit (nom-s),foot of a tree (nom-s),gold (nom-s),drinking water (nom-s)
+3,pāpaṃ,"evil, sin (nom-s)",beak (nom-s),truth (nom-s),mind (nom-s)
+4,kammaṃ,"deed, action (nom-s)","wage, pay (nom-s)",drinking water (nom-s),gold (nom-s)
+5,kusalaṃ,good (nom-s),lotus (nom-s),mind (nom-s),gold (nom-s)
+6,akusalaṃ,evil (nom-s),song (nom-s),"root, money (nom-s)","wage, pay (nom-s)"
+7,dhanaṃ,wealth (nom-s),gold (nom-s),foot of a tree (nom-s),lotus (nom-s)
+8,dhaññaṃ,corn (nom-s),gold (nom-s),beak (nom-s),song (nom-s)
+9,bījaṃ,seed (nom-s),truth (nom-s),"wage, pay (nom-s)","root, money (nom-s)"
+10,dussaṃ,cloth (nom-s),drinking water (nom-s),lotus (nom-s),foot of a tree (nom-s)
+11,cīvaraṃ,robe (nom-s),mind (nom-s),song (nom-s),beak (nom-s)
+12,mūlaṃ,"root, money (nom-s)","shop, bazaar (nom-s)",evil (nom-s),seed (nom-s)
+13,rukkhamūlaṃ,foot of a tree (nom-s),merit (nom-s),wealth (nom-s),cloth (nom-s)
+14,tuṇḍaṃ,beak (nom-s),"evil, sin (nom-s)",corn (nom-s),robe (nom-s)
+15,vetanaṃ,"wage, pay (nom-s)","deed, action (nom-s)",seed (nom-s),evil (nom-s)
+16,padumaṃ,lotus (nom-s),good (nom-s),cloth (nom-s),wealth (nom-s)
+17,gītaṃ,song (nom-s),evil (nom-s),robe (nom-s),corn (nom-s)
+18,suvaṇṇaṃ,gold (nom-s),wealth (nom-s),"shop, bazaar (nom-s)","evil, sin (nom-s)"
+19,hiraññaṃ,gold (nom-s),corn (nom-s),merit (nom-s),"deed, action (nom-s)"
+20,saccaṃ,truth (nom-s),seed (nom-s),"evil, sin (nom-s)",good (nom-s)
+21,pānīyaṃ,drinking water (nom-s),cloth (nom-s),"deed, action (nom-s)","shop, bazaar (nom-s)"
+22,cittaṃ,mind (nom-s),robe (nom-s),good (nom-s),merit (nom-s)
+23,nāviko,sailor (nom-s),crow (nom-s),wicked man (nom-s),messenger (nom-s)
+24,ākāso,sky (nom-s),house (nom-s),body (nom-s),"ox, bull (nom-s)"
+25,samuddo,"ocean, sea (nom-s)",virtuous man (nom-s),messenger (nom-s),wicked man (nom-s)
+26,devo,"deity, god (nom-s)",wicked man (nom-s),"ox, bull (nom-s)",body (nom-s)
+27,suro,"deity, god (nom-s)",body (nom-s),crow (nom-s),house (nom-s)
+28,loko,world (nom-s),messenger (nom-s),house (nom-s),"ox, bull (nom-s)"
+29,āloko,light (nom-s),"ox, bull (nom-s)",virtuous man (nom-s),crow (nom-s)
+30,sakuṇo,bird (nom-s),sailor (nom-s),"deity, god (nom-s)",light (nom-s)
+31,kāko,crow (nom-s),sky (nom-s),world (nom-s),bird (nom-s)
+32,nivāso,house (nom-s),"ocean, sea (nom-s)",light (nom-s),"deity, god (nom-s)"
+33,sappuriso,virtuous man (nom-s),"deity, god (nom-s)",bird (nom-s),world (nom-s)
+34,asappuriso,wicked man (nom-s),"deity, god (nom-s)",sailor (nom-s),"ocean, sea (nom-s)"
+35,kāyo,body (nom-s),world (nom-s),sky (nom-s),"deity, god (nom-s)"
+36,dūto,messenger (nom-s),light (nom-s),"ocean, sea (nom-s)",sailor (nom-s)
+37,goṇo,"ox, bull (nom-s)",bird (nom-s),"deity, god (nom-s)",sky (nom-s)
+38,nayanaṃ,eye (nom-s),grass (acc-s),"virtue, precept (acc-s)",flower (nom-s)
+39,locanaṃ,eye (nom-s),milk (acc-s),"alms, charity (acc-s)",flower (nom-s)
+40,udakaṃ,water (nom-s),"city, town (acc-s)",object (acc-s),house (nom-s)
+41,jalaṃ,water (nom-s),park (acc-s),door (acc-s),house (nom-s)
+42,araññaṃ,forest (nom-s),field (acc-s),cloth (acc-s),seat (nom-s)
+43,vanaṃ,forest (nom-s),goods (acc-s),fruit (acc-s),leaf (nom-s)
+44,pupphaṃ,flower (nom-s),"virtue, precept (acc-s)",grass (acc-s),eye (nom-s)
+45,kusumaṃ,flower (nom-s),"alms, charity (acc-s)",milk (acc-s),eye (nom-s)
+46,gehaṃ,house (nom-s),object (acc-s),"city, town (acc-s)",water (nom-s)
+47,gharaṃ,house (nom-s),door (acc-s),park (acc-s),water (nom-s)
+48,āsanaṃ,seat (nom-s),cloth (acc-s),field (acc-s),forest (nom-s)
+49,paṇṇaṃ,leaf (nom-s),fruit (acc-s),goods (acc-s),forest (nom-s)
+50,tiṇaṃ,grass (acc-s),eye (nom-s),flower (nom-s),"virtue, precept (acc-s)"
+51,khīraṃ,milk (acc-s),eye (nom-s),flower (nom-s),"alms, charity (acc-s)"
+52,nagaraṃ,"city, town (acc-s)",water (nom-s),house (nom-s),object (acc-s)
+53,uyyānaṃ,park (acc-s),water (nom-s),house (nom-s),door (acc-s)
+54,khettaṃ,field (acc-s),forest (nom-s),seat (nom-s),cloth (acc-s)
+55,bhaṇḍaṃ,goods (acc-s),forest (nom-s),leaf (nom-s),fruit (acc-s)
+56,sīlaṃ,"virtue, precept (acc-s)",flower (nom-s),eye (nom-s),grass (acc-s)
+57,dānaṃ,"alms, charity (acc-s)",flower (nom-s),eye (nom-s),milk (acc-s)
+58,rūpaṃ,object (acc-s),house (nom-s),water (nom-s),"city, town (acc-s)"
+59,dvāraṃ,door (acc-s),house (nom-s),water (nom-s),park (acc-s)
+60,vatthaṃ,cloth (acc-s),seat (nom-s),forest (nom-s),field (acc-s)

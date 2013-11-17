@@ -1,0 +1,81 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,pahāya,having abandoned,having wandered,having gone,it plays
+2,pajahitvā,having abandoned,he scolds,having killed,he dances
+3,Devā kassakānaṃ putte ovaditvā āsanehi uṭṭhahitvā vihāraṃ gacchanti.,"Having advised the farmers' sons, and having risen from the seats, the deities go to the monastery.","Having advised the farmers' sons, and having risen from the seats, the monks go to the monastery.","Having advised the sailors' sons, and having risen from the seats, the deities go to the monastery.","Having advised the sailors' sons, and having risen from the seats, the monks go to the monastery."
+4,sannipatitvā,having assembled,having washed,she brings,having broken
+5,nahātvā,having bathed,having gotten up,she sees,she sits
+6,nahāyitvā,having bathed,"he worships, salutes",she falls,she descends
+7,bhinditvā,having broken,"he calls, summons",she gets up,she collects
+8,āruyha ,having climbed,"he hits, strikes","it flies, jumps up",she questions
+9,Bhūpālo sopānasmā oruyha hasati.,"Having climbed down from the stairway, the king laughs.","Having climbed down from the stairway, the child laughs.","Having climbed down from the stairway, the washerman laughs.","Having climbed down from the stairway, the sailor laughs."
+10,saṃharitvā,having collected,she runs,having come,he speaks
+11,āgamma ,having come,having left,he cries,she gets up
+12,āgantvā,having come,it puts,she collects,having gotten up
+13,uttaritvā,having come out,"she wishes, desires",it sprinkles,having taken
+14,pacitvā ,having cooked,she brings,having seen,having eaten
+15,oruyha ,having descended,having taken,having given,"she wishes, desires"
+16,pivitvā,having drunk,he walks,he dances,having killed
+17,Kukkuro udakaṃ pivitvā pattaṃ bhindati.,"Having drunk water, the dog breaks the bowl.","Having drunk water, the child breaks the bowl.","Having drunk water, the horse breaks the bowl.","Having drunk water, the pig breaks the bowl."
+18,bhuñjitvā,having eaten,"he becomes glad, is pleased with",having gotten up,he assembles
+19,bhutvā,having eaten,she sees,"he worships, salutes",having assembled
+20,khāditvā ,having eaten,"it flies, jumps up","he gives up, abandons",having bathed
+21,patitvā,having fallen,it breaks,she eats,having washed
+22,uppatitvā,having flown,"she carries, take away","she climbs, ascends",having given
+23,daditvā,having given,she enters,he shoots,having stood
+24,datvā,having given,she drinks,she begs,"it flies, jumps up"
+25,gantvā ,having gone,he cries,she sits,"he becomes glad, is pleased with"
+26,Kassako gehamhā nikkhamma viharaṃ pavisati.,Having gone out of the house the farmer enters the monastery.,Having gone out of the house the farmer enters the field.,Having gone out of the house the teacher enters the monastery.,Having gone out of the house the teacher enters the field.
+27,Kumāro araññaṃ gantvā rukkhaṃ āruyha phalāni khādati.,Having gone to the forest the boy climbs a tree and eats fruits.,Having gone to the forest the man climbs a tree and eats fruits.,Having gone to the forest the boy climbs a tree and eats rice.,Having gone to the forest the man climbs a tree and eats rice.
+28,uṭṭhahitvā,having gotten up,he ploughs,it breaks,having come
+29,uṭṭhāya,having gotten up,she eats,having broken,having come
+30,Manusso pāsāṇena sappaṃ paharitvā gehaṃ dhāvati.,Having hit the serpent with a stone the man runs into the house.,Having hit the serpent with a stone the boy runs into the house.,Having hit the serpent with a stone the washerman runs into the house.,Having hit the serpent with a stone the sailor runs into the house.
+31,hanitvā,having killed,having collected,she descends,having seen
+32,hantvā,having killed,he assembles,having descended,she falls
+33,nikkhamitvā,having left,she lives,she enters,it descends
+34,nikkhamma,having left,it dwells,it touches,he advises
+35,rakkhitvā,having observed,having given,she takes,"she climbs, ascends"
+36,vanditvā,having paid respect,he digs,having eaten,she wanders
+37,Buddho dhammaṃ desetvā khettaṃ pavisati.,"Having preached the doctrine, the Buddha enters the field.","Having preached the doctrine, the Buddha enters the monastery.","Having preached the doctrine, the Buddha enters the house.","Having preached the doctrine, the Buddha enters the palace."
+38,akkositvā,having scolded,he advises,having stood,he shoots
+39,nisīditvā,having seated,she begs,having drunk,"he hits, strikes"
+40,disvā,having seen,he protects,having left,"he calls, summons"
+41,passitvā,having seen,it sprinkles,he lives,she runs
+42,ṭhatvā,having stood,having gone,it drags,having eaten
+43,ṭhatvā,having stood,he kills,he scolds,he walks
+44,pakkositvā,having summoned,he instructs,"she carries, take away",it bathes
+45,ādāya ,having taken,"she leaves, sets out",he protects,it comes out (of water)
+46,āhiṇḍitvā,having wandered,she descends,having assembled,having paid respect
+47,dhovitvā,having washed,she questions,having left,having abandoned
+48,Dārako vatthāni dhovitvā nahātvā udakasmā uttarati.,"Having washed clothes and bathed, the child gets out of the water. ","Having washed clothes and bathed, the farmer gets out of the water. ","Having washed clothes and bathed, the child gets out of the sea. ","Having washed clothes and bathed, the farmer gets out of the sea. "
+49,jīvati,he lives,having stood,having cooked,she drinks
+50,kasati,he ploughs,having stood,"he hits, strikes",it drinks
+51,rakkhati,he protects,he gives,it bathes,"she carries, take away"
+52,akkosati,he scolds,it descends,it crosses (water),it dwells
+53,vijjhati,he shoots,he dances,she cuts,he scolds
+54,sayati,he sleeps,having seen,she wanders,he eats
+55,bhāsati,he speaks,"he gives up, abandons",it comes out (of water),having observed
+56,carati,he walks,having seen,having paid respect,he sleeps
+57,dhovati,he washes,having drunk,"she leaves, sets out","he gives up, abandons"
+58,vandati,"he worships, salutes",having eaten,he eats,she brings
+59,ākaḍḍhati,it drags,having descended,he sleeps,she lives
+60,pivati,it drinks,having eaten,"he gets, receives",he kills
+61,viharati,it dwells,"he gets, receives",he walks,it drags
+62,uppatati,"it flies, jumps up",having killed,he instructs,he gives
+63,kīḷati,it plays,it comes out (of water),"he calls, summons",having left
+64,nikkhipati,it puts,he shoots,she drinks,he cooks
+65,āsiñcati,it sprinkles,having abandoned,having flown,he protects
+66,phusati,it touches,he eats,he digs,she goes
+67,nikkhamati,"she leaves, sets out",having paid respect,having fallen,having descended
+68,vasati,she lives,it plays,having eaten,having wandered
+69,vivarati,she opens,having bathed,he gives,having scolded
+70,pucchati,she questions,she cuts,having bathed,having killed
+71,dhāvati,she runs,it drinks,having bathed,having abandoned
+72,passati,she sees,having climbed,"she wishes, desires",having given
+73,nisīdati,she sits,she opens,it drinks,having cooked
+74,tiṭṭhati,she stands,having killed,having scolded,she cuts
+75,ādadāti,she takes,having bathed,she questions,having flown
+76,āhiṇḍati,she wanders,having seated,he assembles,"he worships, salutes"
+77,icchati,"she wishes, desires",it crosses (water),he cooks,it touches
+78,Dārako Buddhe pasīditvā pāsādaṃ pajahitvā viharaṃ gacchati.,"The child having been pleased with the Buddha, abandons the palace and goes to the monastery.","The king having been pleased with the Buddha, abandons the palace and goes to the monastery.","The child having been pleased with the Buddha, abandons the tree and goes to the monastery.","The king having been pleased with the Buddha, abandons the tree and goes to the monastery."
+79,Dārako ācariyassa pādaṃ ḍasitvā gehaṃ dhāvati.,"The child, having bitten the teacher's foot, runs into the house.","The dog, having bitten the teacher's foot, runs into the house.","The child, having bitten the washerman's foot, runs into the house.","The dog, having bitten the washerman's foot, runs into the house."
+80,Kassako mātule pakkositvā gehamhi naccati.,The farmer calls the uncles and dances in the house.,The child calls the uncles and dances in the house.,The farmer calls the uncles and dances in the palace.,The child calls the uncles and dances in the palace.

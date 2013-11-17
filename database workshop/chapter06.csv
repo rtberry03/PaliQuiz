@@ -1,0 +1,74 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,Ācariyassa amaccassa puttena saha nahāyanti.,The teacher's sons bathe with the minister's son.,The brahmin's sons bathe with the minister's son.,The brahmins' sons bathe with the minister's sons.,The brahmin's son bathes with the minister's son.
+2,Vāṇijassa mitto kassakassa puttena saha bhattaṃ pacati.,The merchant's friend cooks rice with the farmer's son.,Uncle's friend cooks rice with the farmer's son.,The merchant's friends cook rice with the farmer's son.,Uncle's friends cook rice with the farmer's son.
+3,Bhūpālo macche bhūpālassa pāsādaṃ āharati.,The king brings fish to the king's palace.,The fisherman brings fish to the king's palace.,The kings bring fish to the king's palace.,The fishermen bring fish to the king's palace.
+4,Dhīvaro pāsādamhā amaccānaṃ putte pakkosati.,The fisherman calls the ministers' sons from the palace.,The king calls the ministers' sons from the palace.,The fishermen calls the minister's sons from the palace.,The kings call the ministers' sons from the palace.
+5,Mātulassa ratho pabbatasmā patati.,Uncle's chariot falls from the mountain.,The merchant's chariot falls from the mountain.,Uncle's chariots fall from the mountain.,The merchant's chariots fall from the mountain.
+6,Brāhmaṇassa puttā assehi saddhiṃ pāsādamhā nikkhamanti.,The brahmin's sons set out from the palace with the horses.,The king's ministers set out from the palace with the horses.,The brahmin's son sets out from the palace with the horse.,The king's minister set out from the palace with the horses.
+7,Bhūpālassa vejjo tāpasānaṃ sāṭake dadāti.,The king's doctor gives garments to the hermits.,The brahmin's doctor gives garments to the hermits.,The king's doctor gives garments to the hermit.,The brahmin's doctor gives garments to the hermit.
+8,Kassakassa sunakhā pabbatasmā gāmaṃ dhāvanti.,The farmer's dogs run from the mountain to the village.,The hunter's dogs run from the mountain to the village.,The farmer's dog runs from the mountain to the village.,The hunter's dog runs from the mountain to the village.
+9,Kassako vejjassa dārakāya mañcaṃ āharati.,The farmer brings a bed for the doctor's child.,The merchant brings a bed for the doctor's child.,The farmer brings a bed for the teacher's child.,The merchant brings a bed for the teacher's child.
+10,Assā pabbatamhā gāmaṃ dhāvanti.,Horses run from the mountain to the village.,Deer run from the mountain to the village.,Horses run from the mountains to the village.,Deer run from the mountains to the village.
+11,Brāhmaṇassa dārako kassakassa rukkhasmā patati.,The brahmin's child falls from the farmer's tree.,The teacher's child falls from the farmer's tree.,The teachers' children fall from the farmer's tree.,The teacher's children fall from the minister's tree.
+12,Vāṇijo dhīvarassa piṭakamhā macche khādati.,The merchant eats fish from the fisherman's basket.,The dog eats fish from the fisherman's basket.,The dogs eat fish from the fisherman's basket.,The jackals eat fish from the fisherman's basket.
+13,Buddhassa sāvakā vihārasmā dipaṃ gacchanti.,The Buddha's disciples go from the monastery to the island.,The disciples of the Buddha go from the monastery to the mountain.,The Buddha's disciple goes from the monastery to the island.,The disciple of the Buddha goes from the monastery to the mountain.
+14,Dārako amaccassa mittānaṃ sarena varāhaṃ hanati.,The child kills a pig with an arrow for the minister's friends.,The hunter kills a pig with an arrow for the minister's friends.,The child kill pigs with an arrow for the minister's friends.,The hunter kill pigs with an arrow for the minister's friends.
+15,Luddako ācariyassa hatthehi dīpaṃ labhati.,The hunter gets a lamp from the hands of the teacher.,The child gets a lamp from the hands of the teacher.,The hunters get a lamp from the hands of the teacher.,The children get a lamp from the hands of the teacher.
+16,bhattassa,of the rice ,of the protects ,of the digs ,"of the climbs, ascends "
+17,odanassa,of the cooked rice ,"of the worships, salutes ",of the shoots ,of the descends 
+18,gāmassa,of the village,"of the the doctrine, truth","of the hits, strikes",of the begs
+19,suriyassa,of the sun,of the rice,of the protects,of the digs
+20,candassa,of the moon,of the cooked rice,"of the worships, salutes",of the shoots
+21,kukkurassa,of the dog,of the village,"of the the doctrine, truth","of the hits, strikes"
+22,sunakhassa,of the dog,of the sun,of the rice,of the protects
+23,soṇassa,of the dog,of the moon,of the cooked rice,"of the worships, salutes"
+24,pattassa,of the bowl,of the dog,of the sun,of the rice
+25,āvāṭassa,of the pit,of the dog,of the moon,of the cooked rice
+26,pabbatassa,of the mountain,of the monastery,of the dog,of the village
+27,yācakassa,of the beggar,of the bowl,of the dog,of the sun
+28,sigālassa,of the jackal,of the pit,of the dog,of the moon
+29,rukkhassa,of the tree,of the mountain,of the monastery,of the dog
+30,rathassa,"of the vehicle, chariot",of the cart,of the hand,of the foot
+31,sakaṭassa,of the cart,of the hand,of the foot,of the path
+32,hatthassa,of the hand,of the foot,of the path,"of the island, lamp"
+33,pādassa,of the foot,of the path,"of the island, lamp",of the disciple
+34,maggassa,of the path,"of the island, lamp",of the disciple,"of the recluse, monk"
+35,dīpassa,"of the island, lamp",of the disciple,"of the recluse, monk",of the heaven
+36,sāvakānaṃ,of the disciples ,"of the recluses, monks ",of the heavens ,of the horses 
+37,samaṇānaṃ,"of the recluses, monks ",of the heavens ,of the horses ,of the deer 
+38,saggānaṃ,of the heavens ,of the horses ,of the deer ,of the arrows 
+39,assānaṃ,of the horses ,of the deer ,of the arrows ,"of the rocks, stones "
+40,migānaṃ,of the deer ,of the arrows ,"of the rocks, stones ",of the saws 
+41,sarānaṃ,of the arrows ,"of the rocks, stones ",of the saws ,of the swords 
+42,pāsāṇānaṃ,"of the rocks, stones ",of the saws ,of the swords ,of the thieves 
+43,kakacānaṃ,of the saws ,of the swords ,of the thieves ,of the wise men 
+44,khaggānaṃ,of the swords ,of the thieves ,of the wise men ,"of the vehicles, chariots "
+45,corānaṃ,of the thieves ,of the wise mens ,"of the vehicles, chariots ",of the carts 
+46,paṇḍitānaṃ,of the wise men ,"of the vehicles, chariots ",of the carts ,of the hands 
+47,dhīvarānaṃ,of the fishermen ,of the washermen ,of the parrots ,of the pigs 
+48,macchānaṃ,of the fish ,of the serpents ,of the stairways ,of the pigs 
+49,piṭakānaṃ,of the baskets ,of the questions ,of the pigs ,of the parrots 
+50,amaccānaṃ,of the ministers ,of the parrots ,of the pigs ,of the stairways 
+51,upāsakānaṃ,of the lay devotees ,of the parrots ,of the washermen ,of the questions 
+52,pāsādānaṃ,of the palaces ,of the stairways ,of the serpents ,of the parrots 
+53,dārakānaṃ,of the children ,of the pigs ,of the questions ,of the washermen 
+54,sāṭakānaṃ,of the garments ,of the pigs ,of the parrots ,of the serpents 
+55,rajakānaṃ,of the washermen,of the fishermen,of the lay devotees,of the children
+56,sappānaṃ,of the serpents,of the fish,of the palaces,of the garments
+57,pañhānaṃ,of the questions,of the baskets,of the children,of the lay devotees
+58,sukānaṃ,of the parrots,of the ministers,of the garments,of the palaces
+59,suvānaṃ,of the parrots,of the lay devotees,of the fishermen,of the baskets
+60,sopānānaṃ,of the stairways,of the palaces,of the fish,of the ministers
+61,sūkarānaṃ,of the pigs,of the children,of the baskets,of the fishermen
+62,varāhānaṃ,of the pigs,of the garments,of the ministers,of the fish
+63,tāpasānaṃ,of the hermits,of the goats,of the profits,of the hoes
+64,ācariyānaṃ,of the teachers,of the monkeys,of the beds,of the profits
+65,vejjānaṃ,of the doctors,of the profits,of the hoes,of the beds
+66,sīhānaṃ,of the lions,of the beds,of the goats,of the monkeys
+67,luddakānaṃ,of the hunters,of the hoes,of the monkeys,of the goats
+68,ajānaṃ,of the goats,of the hermits,of the doctors,of the hunters
+69,vānarānaṃ,of the monkeys,of the teachers,of the lions,of the doctors
+70,makkaṭānaṃ,of the monkeys,of the teachers,of the lions,of the doctors
+71,lābhānaṃ,of the profits,of the doctors,of the hunters,of the lions
+72,mañcānaṃ,of the beds,of the lions,of the hermits,of the teachers
+73,kuddālānaṃ,of the hoes,of the hunters,of the teachers,of the hermits

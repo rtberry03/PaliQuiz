@@ -185,7 +185,6 @@ public class SplashActivity extends Activity implements OnClickListener{
 		//try {
 		//	myDbHelper.createDataBase();
 		//} catch (IOException e) {
-			// TODO Auto-generated catch block
 		//	e.printStackTrace();
 		//}
 		// Log.e("LOOK", "about to dopen database in ListQuestion");

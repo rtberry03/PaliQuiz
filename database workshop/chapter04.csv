@@ -1,0 +1,84 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,patati,she falls,"he calls, summons","she leaves, sets out",it descends
+2,dhovati,he washes,she eats,"he calls, summons","she leaves, sets out"
+3,icchati,"she wishes, desires",he kills,she eats,"he calls, summons"
+4,ḍasati,he bites,it descends,he kills,she eats
+5,pucchati,she questions,"she leaves, sets out",it descends,he kills
+6,pakkosati,"he calls, summons",she falls,she questions,he bites
+7,khādati,she eats,he washes,she falls,she questions
+8,hanati,he kills,"she wishes, desires",he washes,she falls
+9,otarati,it descends,he bites,"she wishes, desires",he washes
+10,nikkhamati,"she leaves, sets out",she questions,he bites,"she wishes, desires"
+11,Mātulā gāmamhā pabbataṃ dhāvanti.,Uncles run from the village to the mountain. ,Uncles run from the mountain to the village. ,Uncles run from the mountains to the village. ,Uncles run from the villlages to the mountain. 
+12,Kumāro mātulasmā odanaṃ yācati.,The boy begs for rice from the uncle. ,The boys beg for rice from the uncles. ,The boy begs for fish from the uncle. ,The boys beg for fish from the uncle. 
+13,Dārako sopānamhā patati.,The child falls from the stairway. ,The child falls from the path.,The boy falls from the stairway.,The boy falls from the path.
+14,Corā sāṭake dhovanti.,Thieves wash garments. ,Thieves run to disciples. ,Thieves run on stairways. ,Thieves summpn serpents. 
+15,Upāsakā piṭakehi macche āharanti.,Lay devotess bring fish in baskets. ,Lay devotess bring serpents in baskets. ,Merchants bring fish in baskets. ,Merchants bring serpents in baskets. 
+16,Dhīvarā samaṇehi saddhiṃ vihārasmā nikkhamanti.,Fishermen leave the monastery with monks ,Washermen leave the monastery with monks ,Washermen go to the monastery with monks ,Fishermen leave the mountains with monks 
+17,Vāṇijo kakacena rukkhaṃ chindati.,The merchant cuts the tree with a saw. ,The lay devotee cuts the tree with a saw. ,The minister cut trees with a saw. ,The merchant cuts trees with a saw. 
+18,Upāsakā mittehi saha bhūpālaṃ passanti.,"Lay devotees, with friends, see the king. ","Wise men, with friends, see the king. ","The lay devotee, with friends, sees the king. ","Wise men, with friends, see the kings. "
+19,Brāhmaṇo assena saddhiṃ pabbatasmā oruhati.,The brahmin descends from the mountain with his horse. ,The brahmin descends from the mountain with his dog. ,The brahmin descends from the mountain with his pig. ,The brahmin leaves the mountain with his dog. 
+20,Yācako kassakasmā sūkaraṃ yācati.,The beggar begs the farmer for the parrot. ,The beggar begs the farmer for the dog. ,The beggar begs the farmers for the parrot. ,The beggar begs the farmers for the dog. 
+21,Sappā pabbatehi pāsādaṃ otaranti.,Serpents descend to the palace from the mountains. ,Serpents descend to the village from the mountains. ,Jackals descend to the palace from the mountains. ,Jackals descend to the village from the mountains. 
+22,Amaccā sarehi sūkare vijjhanti.,The ministers shoot pigs using arrows. ,The ministers shoot dogs using arrows. ,The ministers shoot parrots using arrows. ,The ministers shoot horses using arrows. 
+23,Rajako gāmamhā sakaṭena sāṭake harati.,The washerman takes away the garments from the village in a cart. ,The fisherman takes away the fish from the village in a cart. ,The washerman takes away the garments from the monastery in a cart. ,The fisherman takes away the fish from the monastery in a cart. 
+24,Bhūpālo amaccehi saddhiṃ rathena pāsāṇaṃ āgacchati.,The king comes to the stone with his ministers by a chariot.,The king comes to the palace with his ministers by a chariot.,The king comes to the monastery with his ministers by a chariot.,The king comes to the palace with his wise men by a chariot.
+25,Varāha pādehi āvāṭe khaṇanti.,Pigs dig pits with their feet. ,Dogs dig pits with their feet. ,The pig digs a pit with its feet.  ,The dog digs a pit with its feet. 
+26,Mitto sahāyakehi saha sāṭake dhovati.,The friend washes the garments with friends. ,The wise man washes the garments with friends. ,The wise man washes the garments with wise men. ,The friend washes the garments with wise men. 
+27,Rajakā gāmamhā upāsakehi saddhiṃ nikkhamanti.,Washermen leave the village with lay devotees. ,Washermen leave the mountain with lay devotees. ,Washermen leave the mountain with ministers. ,Fishermen leave the mountain with lay devotees. 
+28,Kukkuro piṭakamhā sukaṃ khādati.,The dog eats a parrot from the basket. ,The dog eats parrots from the basket. ,The dog eats a serpent from the basket. ,The dogs eat serpents from the basket. 
+29,Kumāro puttamhā sunakhaṃ yācati.,The boy begs the son for the dog. ,The son begs the boy for the dog. ,The boy begs the son for the pig. ,The son begs the boys for the dog. 
+30,Buddho upāsake pucchati.,The Buddha questions his lay devotees. ,The Buddha questions his disciples. ,The Buddha questions the ministers. ,The Buddha questions the brahmins. 
+31,Corā paṇḍitehi pañhe pucchanti.,The theives ask the wise men questions. ,The wise men ask the thieves questions. ,The theives ask the ministers questions. ,The theives ask the lay devotees questions. 
+32,Coro sahāyena saha sāṭakaṃ dhovati.,The thief washes the garment with a friend. ,The thief washes the garment with a man. ,The thief washes the garment with a lay devotee. ,The thief washes the garment with a fisherman. 
+33,Sappā piṭakamhā patanti.,Serpents fall from the basket. ,Fish fall from the basket. ,Parrots fall from the basket. ,A fish falls from the basket. 
+34,Amaccā pāsāṇehi varāhe paharanti.,The ministers hit the pigs with stones. ,The ministers hit the dogs with stones. ,The ministers hit the jackals with stones. ,The ministers hit the horses with stones. 
+35,Amacco pāsādamhā sappaṃ āharati,The minister brings the serpent from the palace. ,The minister brings the king from the palace. ,The minister brings the wise man from the palace. ,The minister brings the pig from the palace. 
+36,dhīvaro,fisherman (nom-s),washerman (nom-s),parrot (nom-s),pig (nom-s)
+37,maccho,fish (nom-s),serpent (nom-s),stairway (nom-s),pig (nom-s)
+38,piṭako,basket (nom-s),question (nom-s),pig (nom-s),parrot (nom-s)
+39,amacco,minister (nom-s),parrot (nom-s),pig (nom-s),stairway (nom-s)
+40,upāsako,lay devotee (nom-s),parrot (nom-s),washerman (nom-s),question (nom-s)
+41,pāsādo,palace (nom-s),stairway (nom-s),serpent (nom-s),parrot (nom-s)
+42,dārako,child (nom-s),pig (nom-s),question (nom-s),washerman (nom-s)
+43,sāṭako,garment (nom-s),pig (nom-s),parrot (nom-s),serpent (nom-s)
+44,rajako,washerman (nom-s),fisherman (nom-s),lay devotee (nom-s),child (nom-s)
+45,sappo,serpent (nom-s),fish (nom-s),palace (nom-s),garment (nom-s)
+46,pañho,question (nom-s),basket (nom-s),child (nom-s),lay devotee (nom-s)
+47,suko,parrot (nom-s),minister (nom-s),garment (nom-s),palace (nom-s)
+48,suvo,parrot (nom-s),lay devotee (nom-s),fisherman (nom-s),basket (nom-s)
+49,sopāno,stairway (nom-s),palace (nom-s),fish (nom-s),minister (nom-s)
+50,sūkaro,pig (nom-s),child (nom-s),basket (nom-s),fisherman (nom-s)
+51,varāho,pig (nom-s),garment (nom-s),minister (nom-s),fish (nom-s)
+52,dhīvarā,from the fisherman,from the washerman,from the parrot,from the pig
+53,macchā,from the fish,from the serpent,from the stairway,from the pig
+54,piṭakā,from the basket,from the question,from the pig,from the parrot
+55,amaccā,from the minister,from the parrot,from the pig,from the stairway
+56,upāsakā,from the lay devotee,from the parrot,from the washerman,from the question
+57,pāsādā,from the palace,from the stairway,from the serpent,from the parrot
+58,dārakā,from the child,from the pig,from the question,from the washerman
+59,sāṭakā,from the garment,from the pig,from the parrot,from the serpent
+60,rajakamhā,from the washerman,from the fisherman,from the lay devotee,from the child
+61,sappamhā,from the serpent,from the fish,from the palace,from the garment
+62,pañhamhā,from the question,from the basket,from the child,from the lay devotee
+63,sukamhā,from the parrot,from the minister,from the garment,from the palace
+64,suvamhā,from the parrot,from the lay devotee,from the fisherman,from the basket
+65,sopānamhā,from the stairway,from the palace,from the fish,from the minister
+66,sūkaramhā,from the pig,from the child,from the basket,from the fisherman
+67,varāhamhā,from the pig,from the garment,from the minister,from the fish
+68,rajakasmā,from the washerman,from the fisherman,from the lay devotee,from the child
+69,sappasmā,from the serpent,from the fish,from the palace,from the garment
+70,pañhasmā,from the question,from the basket,from the child,from the lay devotee
+71,sukasmā,from the parrot,from the minister,from the garment,from the palace
+72,suvasmā,from the parrot,from the lay devotee,from the fisherman,from the basket
+73,sopānasmā,from the stairway,from the palace,from the fish,from the minister
+74,sūkarasmā,from the pig,from the child,from the basket,from the fisherman
+75,varāhasmā,from the pig,from the garment,from the minister,from the fish
+76,dhīvarehi,from fishermen,from washermen,from parrots,from pigs
+77,macchehi,from fish,from serpents,from stairways,from pigs
+78,piṭakehi,from baskets,from questions,from pigs,from parrots
+79,amaccehi,from ministers,from parrots,from pigs,from stairways
+80,upāsakehi,from lay devotees,from parrots,from washermen,from questions
+81,pāsādehi,from palaces,from stairways,from serpents,from parrots
+82,dārakehi,from children,from pigs,from questions,from washermen
+83,sāṭakehi,from garments,from pigs,from parrots,from serpents

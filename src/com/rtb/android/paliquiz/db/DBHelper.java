@@ -36,7 +36,7 @@ public class DBHelper extends SQLiteOpenHelper {
 
 	// Update the following, the current source file for the database
 
-	private static String RESOURCE_FILENAME = "questionsDb8.db";
+	private static String RESOURCE_FILENAME = "questionsDb9.db";
 	
 	// also need to update Manifest; increment versionCode & modify versionName 
 	// also update strings to reflect content/availability of new chapter(s)
@@ -187,9 +187,7 @@ public class DBHelper extends SQLiteOpenHelper {
 	}
 
 	@Override
-	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-		// TODO Auto-generated method stub
-		
+	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {		
 	}    
     
     

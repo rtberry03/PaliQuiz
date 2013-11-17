@@ -1,0 +1,91 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,"bone, seed (nom-s)",aṭṭhi,"aṭṭhī, aṭṭhīni",aṭṭhinā,"aṭṭhīhi, (aṭṭhībhi)"
+2,"O bone, seed",aṭṭhi,"aṭṭhī, aṭṭhīni","aṭṭhino, aṭṭhissa",aṭṭhīnaṃ
+3,"bone, seed (acc-s)",aṭṭhiṃ,"aṭṭhī, aṭṭhīni","aṭṭhino, aṭṭhissa",aṭṭhīnaṃ
+4,"by means of the bone, seed",aṭṭhinā,"aṭṭhīhi, (aṭṭhībhi)","aṭṭhini, aṭṭhimhi, aṭṭhismiṃ",aṭṭhīsu
+5,"from the bone, seed",aṭṭhinā,"aṭṭhīhi, (aṭṭhībhi)",aṭṭhi,"aṭṭhī, aṭṭhīni"
+6,"for the bone, seed","aṭṭhino, aṭṭhissa",aṭṭhīnaṃ,aṭṭhi,"aṭṭhī, aṭṭhīni"
+7,"of the bone, seed","aṭṭhino, aṭṭhissa",aṭṭhīnaṃ,aṭṭhiṃ,"aṭṭhī, aṭṭhīni"
+8,"on the bone, seed","aṭṭhini, aṭṭhimhi, aṭṭhismiṃ",aṭṭhīsu,aṭṭhinā,"aṭṭhīhi, (aṭṭhībhi)"
+9,"bone, seeds (nom-p)","aṭṭhī, aṭṭhīni",aṭṭhi,"aṭṭhīhi, (aṭṭhībhi)",aṭṭhinā
+10,"O bones, seeds","aṭṭhī, aṭṭhīni",aṭṭhi,aṭṭhīnaṃ,"aṭṭhino, aṭṭhissa"
+11,"bones, seeds (acc-p)","aṭṭhī, aṭṭhīni",aṭṭhiṃ,aṭṭhīnaṃ,"aṭṭhino, aṭṭhissa"
+12,"by means of the bones, seeds","aṭṭhīhi, (aṭṭhībhi)",aṭṭhinā,aṭṭhīsu,"aṭṭhini, aṭṭhimhi, aṭṭhismiṃ"
+13,"from the bones, seeds","aṭṭhīhi, (aṭṭhībhi)",aṭṭhinā,"aṭṭhī, aṭṭhīni",aṭṭhi
+14,"for the bones, seeds",aṭṭhīnaṃ,"aṭṭhino, aṭṭhissa","aṭṭhī, aṭṭhīni",aṭṭhi
+15,"of the bones, seeds",aṭṭhīnaṃ,"aṭṭhino, aṭṭhissa","aṭṭhī, aṭṭhīni",aṭṭhiṃ
+16,"on the bones, seeds",aṭṭhīsu,"aṭṭhini, aṭṭhimhi, aṭṭhismiṃ","aṭṭhīhi, (aṭṭhībhi)",aṭṭhinā
+17,eye (nom-s),cakkhu,"cakkhū, cakkhūni",cakkhunā,cakkhūhi (cakkhūbhi)
+18,O eye,cakkhu,"cakkhū, cakkhūni","cakkhuno, cakkhussa",cakkhūnaṃ
+19,eye (acc-s),cakkhuṃ,"cakkhū, cakkhūni","cakkhuno, cakkhussa",cakkhūnaṃ
+20,by means of the eye,cakkhunā,cakkhūhi (cakkhūbhi),"cakkhumhi, cakkhusmiṃ",cakkhūsu
+21,from the eye,cakkhunā,cakkhūhi (cakkhūbhi),cakkhu,"cakkhū, cakkhūni"
+22,for the eye,"cakkhuno, cakkhussa",cakkhūnaṃ,cakkhu,"cakkhū, cakkhūni"
+23,of the eye,"cakkhuno, cakkhussa",cakkhūnaṃ,cakkhuṃ,"cakkhū, cakkhūni"
+24,on the eye,"cakkhumhi, cakkhusmiṃ",cakkhūsu,cakkhunā,cakkhūhi (cakkhūbhi)
+25,eyes (nom-p),"cakkhū, cakkhūni",cakkhu,cakkhūhi (cakkhūbhi),cakkhunā
+26,O eyes,"cakkhū, cakkhūni",cakkhu,cakkhūnaṃ,"cakkhuno, cakkhussa"
+27,eyes (acc-p),"cakkhū, cakkhūni",cakkhuṃ,cakkhūnaṃ,"cakkhuno, cakkhussa"
+28,by means of the eyes,cakkhūhi (cakkhūbhi),cakkhunā,cakkhūsu,"cakkhumhi, cakkhusmiṃ"
+29,from the eyes,cakkhūhi (cakkhūbhi),cakkhunā,"cakkhū, cakkhūni",cakkhu
+30,for the eyes,cakkhūnaṃ,"cakkhuno, cakkhussa","cakkhū, cakkhūni",cakkhu
+31,of the eyes,cakkhūnaṃ,"cakkhuno, cakkhussa","cakkhū, cakkhūni",cakkhuṃ
+32,on the eyes,cakkhūsu,"cakkhumhi, cakkhusmiṃ",cakkhūhi (cakkhūbhi),cakkhunā
+33,vāri,water,honey,flame,wealth
+34,akkhi,eye,tear,thigh,wealth
+35,sappi,ghee,knee,bow,"ground, base, site, estate"
+36,dadhi,curds,firewood,water,honey
+37,acci,flame,water,eye,tear
+38,satthi,thigh,wealth,ghee,knee
+39,dhanu,bow,"ground, base, site, estate",curds,firewood
+40,madhu,honey,water,wealth,flame
+41,assu,tear,eye,wealth,thigh
+42,jāṇu / jaṇṇu,knee,ghee,"ground, base, site, estate",bow
+43,dāru,firewood,curds,honey,water
+44,ambu,water,flame,tear,eye
+45,vasu,wealth,thigh,knee,ghee
+46,vatthu,"ground, base, site, estate",bow,firewood,curds
+47,anukampati,feels compassionate,follows,"renounces, becomes ordained",sets in motion
+48,vāceti,teaches,"aspires, hopes","scatters, (pp. vippakiṇṇa)",sheds tears
+49,sammisseti,mixes,"fulfils, succeeds",defeats,"distributes, analyses"
+50,pabbajati,"renounces, becomes ordained",sets in motion,feels compassionate,follows
+51,vippakirati,"scatters, (pp. vippakiṇṇa)",sheds tears,teaches,"aspires, hopes"
+52,parājeti,defeats,"distributes, analyses",mixes,"fulfils, succeeds"
+53,anugacchati,follows,feels compassionate,sets in motion,"renounces, becomes ordained"
+54,pattheti,"aspires, hopes",teaches,sheds tears,"scatters, (pp. vippakiṇṇa)"
+55,samijjhati,"fulfils, succeeds",mixes,"distributes, analyses",defeats
+56,pavatteti,sets in motion,"renounces, becomes ordained",follows,feels compassionate
+57,(assūni) pavatteti,sheds tears,"scatters, (pp. vippakiṇṇa)","aspires, hopes",teaches
+58,vibhajati,"distributes, analyses",defeats,"fulfils, succeeds",mixes
+59,flame (nom-s),acci,"accī, accīni",accinā,"accīhi, (accībhi)"
+60,O flame,acci,"accī, accīni","accino, accissa",accīnaṃ
+61,flame (acc-s),acciṃ,"accī, accīni","accino, accissa",accīnaṃ
+62,by means of the flame,accinā,"accīhi, (accībhi)","accini, accimhi, accismiṃ",accīsu
+63,from the flame,accinā,"accīhi, (accībhi)",acci,"accī, accīni"
+64,for the flame,"accino, accissa",accīnaṃ,acci,"accī, accīni"
+65,of the flame,"accino, accissa",accīnaṃ,acciṃ,"accī, accīni"
+66,on the flame,"accini, accimhi, accismiṃ",accīsu,accinā,"accīhi, (accībhi)"
+67,flames (nom-p),"accī, accīni",acci,"accīhi, (accībhi)",accinā
+68,O flames,"accī, accīni",acci,accīnaṃ,"accino, accissa"
+69,flames (acc-p),"accī, accīni",acciṃ,accīnaṃ,"accino, accissa"
+70,by means of the flames,"accīhi, (accībhi)",accinā,accīsu,"accini, accimhi, accismiṃ"
+71,from the flames,"accīhi, (accībhi)",accinā,"accī, accīni",acci
+72,for the flames,accīnaṃ,"accino, accissa","accī, accīni",acci
+73,of the flames,accīnaṃ,"accino, accissa","accī, accīni",acciṃ
+74,on the flames,accīsu,"accini, accimhi, accismiṃ","accīhi, (accībhi)",accinā
+75,water (nom-s),ambu,"ambū, ambūni",ambunā,ambūhi (ambūbhi)
+76,O water,ambu,"ambū, ambūni","ambuno, ambussa",ambūnaṃ
+77,water (acc-s),ambuṃ,"ambū, ambūni","ambuno, ambussa",ambūnaṃ
+78,by means of the water,ambunā,ambūhi (ambūbhi),"ambumhi, ambusmiṃ",ambūsu
+79,from the water,ambunā,ambūhi (ambūbhi),ambu,"ambū, ambūni"
+80,for the water,"ambuno, ambussa",ambūnaṃ,ambu,"ambū, ambūni"
+81,of the water,"ambuno, ambussa",ambūnaṃ,ambuṃ,"ambū, ambūni"
+82,on the water,"ambumhi, ambusmiṃ",ambūsu,ambunā,ambūhi (ambūbhi)
+83,waters (nom-p),"ambū, ambūni",ambu,ambūhi (ambūbhi),ambunā
+84,O waters,"ambū, ambūni",ambu,ambūnaṃ,"ambuno, ambussa"
+85,waters (acc-p),"ambū, ambūni",ambuṃ,ambūnaṃ,"ambuno, ambussa"
+86,by means of the waters,ambūhi (ambūbhi),ambunā,ambūsu,"ambumhi, ambusmiṃ"
+87,from the waters,ambūhi (ambūbhi),ambunā,"ambū, ambūni",ambu
+88,for the waters,ambūnaṃ,"ambuno, ambussa","ambū, ambūni",ambu
+89,of the waters,ambūnaṃ,"ambuno, ambussa","ambū, ambūni",ambuṃ
+90,on the waters,ambūsu,"ambumhi, ambusmiṃ",ambūhi (ambūbhi),ambunā

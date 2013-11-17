@@ -1,0 +1,51 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,so apaci,he cooked,he stole,we cooked,we stole
+2,so paci,he cooked,he stole,we cooked,we stole
+3,tvaṃ apaci,you cooked,you stole,he cooked,he stole
+4,tvaṃ paci,you cooked,you stole,he cooked,he stole
+5,ahaṃ apaciṃ,I cooked,I stole,they cooked,they stole
+6,ahaṃ paciṃ,I cooked,I stole,they cooked,they stole
+7,te apaciṃsu,they cooked,they stole,I cooked,I stole
+8,te paciṃsu,they cooked,they stole,I cooked,I stole
+9,tumhe apacittha,you cooked,you stole,he cooked,he stole
+10,tumhe pacittha,you cooked,you stole,he cooked,he stole
+11,mayaṃ apacimha,we cooked,we stole,he cooked,he stole
+12,mayaṃ pacimha,we cooked,we stole,he cooked,he stole
+13,so coresi,he stole,he cooked,we stole,we cooked
+14,so corayi,he stole,he cooked,we stole,we cooked
+15,tvaṃ coresi,you stole,you cooked,he stole,he cooked
+16,ahaṃ coresiṃ,I stole,I cooked,they stole,they cooked
+17,ahaṃ corayiṃ,I stole,I cooked,they stole,they cooked
+18,te coresuṃ,they stole,they cooked,I stole,I cooked
+19,te corayiṃsu,they stole,they cooked,Istole,I cooked
+20,tumhe corayitha,you stole,you cooked,he stole,he cooked
+21,mayaṃ corayimha,we stole,we cooked,I stole,I cooked
+22,The king wandered in the island.,Bhūpālo dīpe acari,Bhūpāla dīpe acari,Bhūpāla dīpe acara,Bhūpāla dīpo acara
+23,The king wandered in the island.,Bhūpālo dīpe cari,Bhūpāla dīpe cari,Bhūpāla dīpe cara,Bhūpāla dīpo cara
+24,The monk preached the dhamma.,Samaṇo dhammaṃ desesi,Samaṇa dhammaṃ desesi,Samaṇa dammaṃ desesi,Samaṇa dhamaṃ desesi
+25,You sold goods.,Tvaṃ bhaṇḍāni vikkiṇi ,Tvaṃ baṇḍāni vikkiṇi ,Ahaṃ baṇḍāni vikkiṇi ,Aham baṇḍāni vikkiṇi 
+26,You offered the flowers.,Tvaṃ pupphāni pūjesi,Tvaṃ puphāni pūjesi,Ahaṃ puphāni pūjesi,Aham puphāni pūjesi
+27,I climbed the mountain.,Ahaṃ pabbataṃ āruhiṃ,Ahaṃ pabataṃ āruhiṃ,Tvaṃ pabataṃ āruhiṃ,Tvam pabataṃ āruhiṃ
+28,I lit the lamp.,Ahaṃ dīpaṃ jālayiṃ ,Ahaṃ dīpo jālayiṃ ,Tvaṃ dīpo jālayiṃ ,Tvam dīpo jālayiṃ 
+29,I lit the lamp.,Ahaṃ dīpaṃ jālayiṃ ,Ahaṃ dīpo jālayiṃ ,Tvaṃ dīpo jālayiṃ ,Tvam dīpo jālayiṃ 
+30,Kings wandered in the islands.,Bhūpālā dīpesu cariṃsu,Būpālā dīpesu cariṃsu,Būpālā dīpesu cariṃso,Būpāla dīpesu cariṃso
+31,Kings wandered in the islands.,Bhūpālā dīpesu acariṃsu ,Būpālā dīpesu acariṃsu ,Būpālā dīpesu acariṃso,Būpāla dīpesu acariṃso
+32,Monks preached the dhamma.,Samaṇā dhammaṃ desayiṃsu,Samaṇā dhamaṃ desayiṃsu,Samaṇo dhamaṃ desayiṃsu,Samano dhamaṃ desayiṃsu
+33,Monks preached the dhamma.,Samaṇā dhammaṃ desesuṃ,Samaṇā dhamaṃ desesuṃ,Samaṇo dhamaṃ desesuṃ,Samano dhamaṃ desesuṃ
+34,You sold goods.,Tumhe bhaṇḍāni vikkiṇittha,Tumhe baṇḍāni vikkiṇittha,Mayaṃ baṇḍāni vikkiṇittha,Mayam baṇḍāni vikkiṇittha
+35,You offered flowers.,Tumhe pupphāni pūjayittha,Tumhe puphāni pūjayittha,Mayaṃ puphāni pūjayittha,Mayam puphāni pūjayittha
+36,We climbed mountains.,Mayaṃ pabbate āruhimha,Mayaṃ pabate āruhimha,Tumhe pabate āruhimha,Tumhe pabate āruhimho
+37,We lit lamps.,Mayaṃ dīpe jālayimha,Mayaṃ dīpo jālayimha,Tumhe dīpo jālayimha,Tumhe dīpo jālayimho
+38,kassako otari,the farmer entered,the teacher entered,the farmers entered,the teachers entered
+39,ācariyā kusumāni āhariṃsu,the teachers brought flowers,the farmer brought flowers,the teacher brought flowers,the farmers brought flowers
+40,upāsakā samaṇaṃ vandiṃsu,the lay devotees paid respect to the monk,the lay devotees paid respect to the minister,the lay devotee paid respect to the monk,the lay devotee paid respect to the minister
+41,narā gāmehi nikkhamiṃsu,the people left the villages,the monks left the villages,the people left the village,the monks left the forests
+42,Ācariyo samaṇaṃ nisīdituṃ nimantesi.,The teacher invited the monk to sit.,The king invited the monk to sit.,The teacher invited the monks to sit.,The kings invited the monk to sit.
+43,Kumāro vānare passamāno aṭṭhāsi (stood).,The boy stood watching monkeys.,The son stood watching monkeys.,The boy stood watching monkey.,The son stood watching monkey.
+44,Paṇḍito ovadi.,The wise man admonished.,The teacher admonished.,The wise men admonished.,The teachers admonished.
+45,Yācakassa puttā vikkiṇiṃsu.,The beggar's sons sold.,The merchant's sons sold.,The beggar's son sold.,The merchant's son sold.
+46,Kassako pahiṇi.,The farmer sent.,The minister sent.,The farmers sent.,The ministers sent.
+47,Amacco Buddhaṃ upasa'nkami.,The minister approached the Buddha.,The uncle approached the Buddha.,The ministers approached the Buddha.,The uncles approached the Buddha.
+48,sace tumhe gāmaṃ pāpuṇeyyātha,if you reach the village,if you reach the forest,if you reach the villages,if you reach the forests
+49,Mātulo ussahi.,The uncle tried.,The wise man tried.,The uncles tried.,The wise men tried.
+50,Vānarā bhāyiṃsu.,The monkeys got frightened.,The jackals got frightened.,The monkey got frightened.,The jackal got frightened.

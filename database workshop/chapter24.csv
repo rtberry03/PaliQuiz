@@ -1,0 +1,79 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,cow (nom-s),dhenu,"dhenū, dhenuyo",dhenuyā,"dhenūhi, (dhenūbhi)"
+2,O cow,dhenu,"dhenū, dhenuyo",dhenuyā,dhenūnaṃ
+3,cow (acc-s),dhenuṃ,"dhenū, dhenuyo",dhenuyā,dhenūnaṃ
+4,by means of the cow,dhenuyā,"dhenūhi, (dhenūbhi)","dhenuyā, dhenuyaṃ",dhenūsu
+5,from the cow,dhenuyā,"dhenūhi, (dhenūbhi)",dhenu,"dhenū, dhenuyo"
+6,for the cow,dhenuyā,dhenūnaṃ,dhenu,"dhenū, dhenuyo"
+7,of the cow,dhenuyā,dhenūnaṃ,dhenuṃ,"dhenū, dhenuyo"
+8,on the cow,"dhenuyā, dhenuyaṃ",dhenūsu,dhenuyā,"dhenūhi, (dhenūbhi)"
+9,cows (nom-p),"dhenū, dhenuyo",dhenu,"dhenūhi, (dhenūbhi)",dhenuyā
+10,O cows,"dhenū, dhenuyo",dhenu,dhenūnaṃ,dhenuyā
+11,cows (acc-p),"dhenū, dhenuyo",dhenuṃ,dhenūnaṃ,dhenuyā
+12,by means of the cows,"dhenūhi, (dhenūbhi)",dhenuyā,dhenūsu,"dhenuyā, dhenuyaṃ"
+13,from the cows,"dhenūhi, (dhenūbhi)",dhenuyā,"dhenū, dhenuyo",dhenu
+14,for the cows,dhenūnaṃ,dhenuyā,"dhenū, dhenuyo",dhenu
+15,of the cows,dhenūnaṃ,dhenuyā,"dhenū, dhenuyo",dhenuṃ
+16,on the cows,dhenūsu,"dhenuyā, dhenuyaṃ","dhenūhi, (dhenūbhi)",dhenuyā
+17,thaketi,"shuts, closes","divides, distributes",harms,throws
+18,nāseti,destroys,breaks,throws,spreads
+19,sammajjati,sweeps,"builds, creates",spreads,harms
+20,obhāseti,illuminates,harms,"divides, distributes",breaks
+21,bhajati,keeps company,throws,breaks,"builds, creates"
+22,bandhati,ties,spreads,"builds, creates","divides, distributes"
+23,vibhajati,"divides, distributes","shuts, closes",illuminates,keeps company
+24,bhañjati,breaks,destroys,keeps company,ties
+25,māpeti,"builds, creates",sweeps,ties,illuminates
+26,vihiṃsati,harms,illuminates,"shuts, closes",destroys
+27,chaḍḍeti,throws,keeps company,destroys,sweeps
+28,pattharati,spreads,ties,sweeps,"shuts, closes"
+29,gruel (nom-s),yāgu,daddu,dhātu,sassu
+30,pit (nom-s),kāsu,kaṇeru,sassu,vadhu
+31,lightning (nom-s),vijju,dhātu,vadhu,dhāte
+32,rope (nom-s),rajju,sassu,daddu,kaṇeru
+33,eczema (nom-s),daddu,vadhu,kaṇeru,dadde
+34,cow-elephant (nom-s),kaṇeru,yāgu,vijju,rajju
+35,"element, relic (nom-s)",dhātu,kāsu,rajju,vijju
+36,mother-in-law (nom-s),sassu,vijju,yāgu,kāsu
+37,daughter-in-law (nom-s),vadhu,rajju,kāsu,yāgu
+38,gruel (nom-p),yāgū,daddū,dhātū,sassū
+39,pit (nom-p),kāsū,kaṇerū,sassū,vadhū
+40,lightning (nom-p),vijjū,dhātū,vadhū,dhāte
+41,rope (nom-p),rajjū,sassū,daddū,kaṇerū
+42,eczema (nom-p),daddū,vadhū,kaṇerū,dadde
+43,cow-elephant (nom-p),kaṇerū,yāgū,vijjū,rajjū
+44,"element, relic (nom-p)",dhātū,kāsū,rajjū,vijjū
+45,mother-in-law (nom-p),sassū,vijjū,yāgū,kāsū
+46,daughter-in-law (nom-p),vadhū,rajjū,kāsū,yāgū
+47,rope (nom-s),rajju,"rajjū, rajjuyo",rajjuyā,"rajjūhi, (rajjūbhi)"
+48,O rope,rajju,"rajjū, rajjuyo",rajjuyā,rajjūnaṃ
+49,rope (acc-s),rajjuṃ,"rajjū, rajjuyo",rajjuyā,rajjūnaṃ
+50,by means of the rope,rajjuyā,"rajjūhi, (rajjūbhi)","rajjuyā, rajjuyaṃ",rajjūsu
+51,from the rope,rajjuyā,"rajjūhi, (rajjūbhi)",rajju,"rajjū, rajjuyo"
+52,for the rope,rajjuyā,rajjūnaṃ,rajju,"rajjū, rajjuyo"
+53,of the rope,rajjuyā,rajjūnaṃ,rajjuṃ,"rajjū, rajjuyo"
+54,on the rope,"rajjuyā, rajjuyaṃ",rajjūsu,rajjuyā,"rajjūhi, (rajjūbhi)"
+55,ropes (nom-p),"rajjū, rajjuyo",rajju,"rajjūhi, (rajjūbhi)",rajjuyā
+56,O ropes,"rajjū, rajjuyo",rajju,rajjūnaṃ,rajjuyā
+57,ropes (acc-p),"rajjū, rajjuyo",rajjuṃ,rajjūnaṃ,rajjuyā
+58,by means of the ropes,"rajjūhi, (rajjūbhi)",rajjuyā,rajjūsu,"rajjuyā, rajjuyaṃ"
+59,from the ropes,"rajjūhi, (rajjūbhi)",rajjuyā,"rajjū, rajjuyo",rajju
+60,for the ropes,rajjūnaṃ,rajjuyā,"rajjū, rajjuyo",rajju
+61,of the ropes,rajjūnaṃ,rajjuyā,"rajjū, rajjuyo",rajjuṃ
+62,on the ropes,rajjūsu,"rajjuyā, rajjuyaṃ","rajjūhi, (rajjūbhi)",rajjuyā
+63,pit (nom-s),kāsu,"kāsū, kāsuyo",kāsuyā,"kāsūhi, (kāsūbhi)"
+64,O pit,kāsu,"kāsū, kāsuyo",kāsuyā,kāsūnaṃ
+65,pit (acc-s),kāsuṃ,"kāsū, kāsuyo",kāsuyā,kāsūnaṃ
+66,by means of the pit,kāsuyā,"kāsūhi, (kāsūbhi)","kāsuyā, kāsuyaṃ",kāsūsu
+67,from the pit,kāsuyā,"kāsūhi, (kāsūbhi)",kāsu,"kāsū, kāsuyo"
+68,for the pit,kāsuyā,kāsūnaṃ,kāsu,"kāsū, kāsuyo"
+69,of the pit,kāsuyā,kāsūnaṃ,kāsuṃ,"kāsū, kāsuyo"
+70,on the pit,"kāsuyā, kāsuyaṃ",kāsūsu,kāsuyā,"kāsūhi, (kāsūbhi)"
+71,pits (nom-p),"kāsū, kāsuyo",kāsu,"kāsūhi, (kāsūbhi)",kāsuyā
+72,O pits,"kāsū, kāsuyo",kāsu,kāsūnaṃ,kāsuyā
+73,pits (acc-p),"kāsū, kāsuyo",kāsuṃ,kāsūnaṃ,kāsuyā
+74,by means of the pits,"kāsūhi, (kāsūbhi)",kāsuyā,kāsūsu,"kāsuyā, kāsuyaṃ"
+75,from the pits,"kāsūhi, (kāsūbhi)",kāsuyā,"kāsū, kāsuyo",kāsu
+76,for the pits,kāsūnaṃ,kāsuyā,"kāsū, kāsuyo",kāsu
+77,of the pits,kāsūnaṃ,kāsuyā,"kāsū, kāsuyo",kāsuṃ
+78,on the pits,kāsūsu,"kāsuyā, kāsuyaṃ","kāsūhi, (kāsūbhi)",kāsuyā

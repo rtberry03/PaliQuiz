@@ -1,0 +1,155 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,he who (rel nom-p-masc),yo,ko,"yamhā, yasmā","kasmā, kismā"
+2,he who (rel acc-p-masc) ,yaṃ,kaṃ,yassa,"kassa, kissa"
+3,by he who (rel ins-p-masc),yena,kena,yassa,"kassa, kissa"
+4,from he who (rel abl-p-masc),"yamhā, yasmā","kasmā, kismā","yamhi, yasmiṃ","kamhi, kasmiṃ kimhi, kismiṃ"
+5,for he who (rel dat-p-masc),yassa,"kassa, kissa",yo,ko
+6,of he who (rel gen-p-masc),yassa,"kassa, kissa",yaṃ,kaṃ
+7,on he who (rel loc-p-masc),"yamhi, yasmiṃ","kamhi, kasmiṃ kimhi, kismiṃ",yena,kena
+8,"he, that (dem nom-p-masc)",so,ko,"tamhā, tasmā","kasmā, kismā"
+9,"he, that (dem acc-p-masc) ",taṃ,kaṃ,tassa,"kassa, kissa"
+10,"by he, that (dem ins-p-masc)",tena,kena,tassa,"kassa, kissa"
+11,"from he, that (dem abl-p-masc)","tamhā, tasmā","kasmā, kismā","tamhi, tasmiṃ","kamhi, kasmiṃ kimhi, kismiṃ"
+12,"for he, that (dem dat-p-masc)",tassa,"kassa, kissa",so,ko
+13,"of he, that (dem gen-p-masc)",tassa,"kassa, kissa",taṃ,kaṃ
+14,"on he, that (dem loc-p-masc)","tamhi, tasmiṃ","kamhi, kasmiṃ kimhi, kismiṃ",tena,kena
+15,who (int nom-s-masc),ko,so,"kasmā, kismā","tamhā, tasmā"
+16,whom (int acc-s-masc) ,kaṃ,taṃ,"kassa, kissa",tassa
+17,by whom (int ins-s-masc),kena,tena,"kassa, kissa",tassa
+18,from whom (int abl-s-masc),"kasmā, kismā","tamhā, tasmā","kamhi, kasmiṃ kimhi, kismiṃ","tamhi, tasmiṃ"
+19,for whom (int dat-s-masc),"kassa, kissa",tassa,ko,so
+20,of whom (int gen-s-masc),"kassa, kissa",tassa,kaṃ,taṃ
+21,on whom (int loc-s-masc),"kamhi, kasmiṃ kimhi, kismiṃ","tamhi, tasmiṃ",kena,tena
+22,that which (rel nom-p-neut),yaṃ,kim,"yamhā, yasmā","kasmā, kismā"
+23,that which (rel acc-p-neut) ,yaṃ,kim,yassa,"kassa, kissa"
+24,by that which (rel ins-p-neut),yena,kena,yassa,"kassa, kissa"
+25,from that which (rel abl-p-neut),"yamhā, yasmā","kasmā, kismā","yamhi, yasmiṃ","kamhi, kasmiṃ kimhi, kismiṃ"
+26,for that which (rel dat-p-neut),yassa,"kassa, kissa",yaṃ,kim
+27,of that which (rel gen-p-neut),yassa,"kassa, kissa",yaṃ,kim
+28,on that which (rel loc-p-neut),"yamhi, yasmiṃ","kamhi, kasmiṃ kimhi, kismiṃ",yena,kena
+29,"it, that (dem nom-p-neut)",taṃ,yaṃ,"tamhā, tasmā","yamhā, yasmā"
+30,"it, that (dem acc-p-neut) ",taṃ,yaṃ,tassa,yassa
+31,"by it, that (dem ins-p-neut)",tena,yena,tassa,yassa
+32,"from it, that (dem abl-p-neut)","tamhā, tasmā","yamhā, yasmā","tamhi, tasmiṃ","yamhi, yasmiṃ"
+33,"for it, that (dem dat-p-neut)",tassa,yassa,taṃ,yaṃ
+34,"of it, that (dem gen-p-neut)",tassa,yassa,taṃ,yaṃ
+35,"on it, that (dem loc-p-neut)","tamhi, tasmiṃ","yamhi, yasmiṃ",tena,yena
+36,which (int nom-p-neut),kim,taṃ,"kasmā, kismā","tamhā, tasmā"
+37,which (int acc-p-neut) ,kim,taṃ,"kassa, kissa",tassa
+38,by which (int ins-p-neut),kena,tena,"kassa, kissa",tassa
+39,from which (int abl-p-neut),"kasmā, kismā","tamhā, tasmā","kamhi, kasmiṃ kimhi, kismiṃ","tamhi, tasmiṃ"
+40,for which (int dat-p-neut),"kassa, kissa",tassa,kim,taṃ
+41,of which (int gen-p-neut),"kassa, kissa",tassa,kim,taṃ
+42,on which (int loc-p-neut),"kamhi, kasmiṃ kimhi, kismiṃ","tamhi, tasmiṃ",kena,tena
+43,she who (rel nom-p-fem),yā,kā,yāya,kāya
+44,she who (rel acc-p-fem) ,yaṃ,kaṃ,"yassā, yāya","kassā, kāya"
+45,by she who (rel ins-p-fem),yāya,kāya,"yassā, yāya","kassā, kāya"
+46,from she who (rel abl-p-fem),yāya,kāya,"yassaṃ, yāyaṃ","kassaṃ, kāyaṃ"
+47,for she who (rel dat-p-fem),"yassā, yāya","kassā, kāya",yā,kā
+48,of she who (rel gen-p-fem),"yassā, yāya","kassā, kāya",yaṃ,kaṃ
+49,on she who (rel loc-p-fem),"yassaṃ, yāyaṃ","kassaṃ, kāyaṃ",yāya,kāya
+50,"she, that (dem nom-p-fem)",sā,yā,tāya,yāya
+51,"she, that (dem acc-p-fem) ",taṃ,yaṃ,"tassā, tāya","yassā, yāya"
+52,"by she, that (dem ins-p-fem)",tāya,yāya,"tassā, tāya","yassā, yāya"
+53,"from she, that (dem abl-p-fem)",tāya,yāya,"tassaṃ, tāyaṃ","yassaṃ, yāyaṃ"
+54,"for she, that (dem dat-p-fem)","tassā, tāya","yassā, yāya",sā,yā
+55,"of she, that (dem gen-p-fem)","tassā, tāya","yassā, yāya",taṃ,yaṃ
+56,"on she, that (dem loc-p-fem)","tassaṃ, tāyaṃ","yassaṃ, yāyaṃ",tāya,yāya
+57,who (int nom-s-fem),kā,sā,kāya,tāya
+58,whom (int acc-s-fem) ,kaṃ,taṃ,"kassā, kāya","tassā, tāya"
+59,by whom (int ins-s-fem),kāya,tāya,"kassā, kāya","tassā, tāya"
+60,from whom (int abl-s-fem),kāya,tāya,"kassaṃ, kāyaṃ","tassaṃ, tāyaṃ"
+61,for whom (int dat-s-fem),"kassā, kāya","tassā, tāya",kā,sā
+62,of whom (int gen-s-fem),"kassā, kāya","tassā, tāya",kaṃ,taṃ
+63,on whom (int loc-s-fem),"kassaṃ, kāyaṃ","tassaṃ, tāyaṃ",kāya,tāya
+64,they who (rel nom-p-masc),ye,ke,yehi,kehi
+65,they who (rel acc-p-masc) ,ye,ke,yesaṃ(yesānaṃ),kesaṃ (kesānaṃ)
+66,by they who (rel ins-p-masc),yehi,kehi,yesaṃ(yesānaṃ),kesaṃ (kesānaṃ)
+67,from they who (rel abl-p-masc),yehi,kehi,yesu,kesu
+68,for they who (rel dat-p-masc),yesaṃ(yesānaṃ),kesaṃ (kesānaṃ),ye,ke
+69,of they who (rel gen-p-masc),yesaṃ(yesānaṃ),kesaṃ (kesānaṃ),ye,ke
+70,on they who (rel loc-p-masc),yesu,kesu,yehi,kehi
+71,"they, those (dem nom-p-masc)",te,ye,tehi,yehi
+72,"they, those (dem acc-p-masc) ",te,ye,tesaṃ (tesānaṃ),yesaṃ(yesānaṃ)
+73,"by they, those (dem ins-p-masc)",tehi,yehi,tesaṃ (tesānaṃ),yesaṃ(yesānaṃ)
+74,"from they, those (dem abl-p-masc)",tehi,yehi,tesu,yesu
+75,"for they, those (dem dat-p-masc)",tesaṃ (tesānaṃ),yesaṃ(yesānaṃ),te,ye
+76,"of they, those (dem gen-p-masc)",tesaṃ (tesānaṃ),yesaṃ(yesānaṃ),te,ye
+77,"on they, those (dem loc-p-masc)",tesu,yesu,tehi,yehi
+78,who (int nom-p-masc),ke,te,kehi,tehi
+79,whom (int acc-p-masc) ,ke,te,kesaṃ (kesānaṃ),tesaṃ (tesānaṃ)
+80,by whom (int ins-p-masc),kehi,tehi,kesaṃ (kesānaṃ),tesaṃ (tesānaṃ)
+81,from whom (int abl-p-masc),kehi,tehi,kesu,tesu
+82,for whom (int dat-p-masc),kesaṃ (kesānaṃ),tesaṃ (tesānaṃ),ke,te
+83,of whom (int gen-p-masc),kesaṃ (kesānaṃ),tesaṃ (tesānaṃ),ke,te
+84,on whom (int loc-p-masc),kesu,tesu,kehi,tehi
+85,those which (rel nom-p-neut),"yāni, ye","kāni, ke",yehi,kehi
+86,those which (rel acc-p-neut) ,"yāni, ye","kāni, ke",yesaṃ(yesānaṃ),kesaṃ (kesānaṃ)
+87,by those which (rel ins-p-neut),yehi,kehi,yesaṃ(yesānaṃ),kesaṃ (kesānaṃ)
+88,from those which (rel abl-p-neut),yehi,kehi,yesu,kesu
+89,for those which (rel dat-p-neut),yesaṃ(yesānaṃ),kesaṃ (kesānaṃ),"yāni, ye","kāni, ke"
+90,of those which (rel gen-p-neut),yesaṃ(yesānaṃ),kesaṃ (kesānaṃ),"yāni, ye","kāni, ke"
+91,on those which (rel loc-p-neut),yesu,kesu,yehi,kehi
+92,those (dem nom-p-neut),"tāni, te","yāni, ye",tehi,yehi
+93,those (dem acc-p-neut) ,"tāni, te","yāni, ye",tesaṃ (tesānaṃ),yesaṃ(yesānaṃ)
+94,by those (dem ins-p-neut),tehi,yehi,tesaṃ (tesānaṃ),yesaṃ(yesānaṃ)
+95,from those (dem abl-p-neut),tehi,yehi,tesu,yesu
+96,for those (dem dat-p-neut),tesaṃ (tesānaṃ),yesaṃ(yesānaṃ),"tāni, te","yāni, ye"
+97,of those (dem gen-p-neut),tesaṃ (tesānaṃ),yesaṃ(yesānaṃ),"tāni, te","yāni, ye"
+98,on those (dem loc-p-neut),tesu,yesu,tehi,yehi
+99,which (int nom-p-neut),"kāni, ke","tāni, te",kehi,tehi
+100,which (int acc-p-neut) ,"kāni, ke","tāni, te",kesaṃ (kesānaṃ),tesaṃ (tesānaṃ)
+101,by which (int ins-p-neut),kehi,tehi,kesaṃ (kesānaṃ),tesaṃ (tesānaṃ)
+102,from which (int abl-p-neut),kehi,tehi,kesu,tesu
+103,for which (int dat-p-neut),kesaṃ (kesānaṃ),tesaṃ (tesānaṃ),"kāni, ke","tāni, te"
+104,of which (int gen-p-neut),kesaṃ (kesānaṃ),tesaṃ (tesānaṃ),"kāni, ke","tāni, te"
+105,on which (int loc-p-neut),kesu,tesu,kehi,tehi
+106,they who (rel nom-p-fem),"yā, yāyo","kā, kāyo",yāhi,kāhi
+107,they who (rel acc-p-fem) ,"yā, yā","kā, kāyo",yāsaṃ (yāsānaṃ),kāsaṃ(kāsānaṃ)
+108,by they who (rel ins-p-fem),yāhi,kāhi,yāsaṃ (yāsānaṃ),kāsaṃ(kāsānaṃ)
+109,from they who (rel abl-p-fem),yāhi,kāhi,yāsu,kāsu
+110,for they who (rel dat-p-fem),yāsaṃ (yāsānaṃ),kāsaṃ(kāsānaṃ),"yā, yāyo","kā, kāyo"
+111,of they who (rel gen-p-fem),yāsaṃ (yāsānaṃ),kāsaṃ(kāsānaṃ),"yā, yā","kā, kāyo"
+112,on they who (rel loc-p-fem),yāsu,kāsu,yāhi,kāhi
+113,"they, those (dem nom-p-fem)","tā, tāyo","yā, yāyo",tāhi,yāhi
+114,"they, those (dem acc-p-fem) ","yo tā, tāyo","yā, yā",tāsaṃ (tāsānaṃ),yāsaṃ (yāsānaṃ)
+115,"by they, those (dem ins-p-fem)",tāhi,yāhi,tāsaṃ (tāsānaṃ),yāsaṃ (yāsānaṃ)
+116,"from they, those (dem abl-p-fem)",tāhi,yāhi,tāsu,yāsu
+117,"for they, those (dem dat-p-fem)",tāsaṃ (tāsānaṃ),yāsaṃ (yāsānaṃ),"tā, tāyo","yā, yāyo"
+118,"of they, those (dem gen-p-fem)",tāsaṃ (tāsānaṃ),yāsaṃ (yāsānaṃ),"yo tā, tāyo","yā, yā"
+119,"on they, those (dem loc-p-fem)",tāsu,yāsu,tāhi,yāhi
+120,who (int nom-p-fem),"kā, kāyo","tā, tāyo",kāhi,tāhi
+121,whom (int acc-p-fem) ,"kā, kāyo","yo tā, tāyo",kāsaṃ(kāsānaṃ),tāsaṃ (tāsānaṃ)
+122,by whom (int ins-p-fem),kāhi,tāhi,kāsaṃ(kāsānaṃ),tāsaṃ (tāsānaṃ)
+123,from whom (int abl-p-fem),kāhi,tāhi,kāsu,tāsu
+124,for whom (int dat-p-fem),kāsaṃ(kāsānaṃ),tāsaṃ (tāsānaṃ),"kā, kāyo","tā, tāyo"
+125,of whom (int gen-p-fem),kāsaṃ(kāsānaṃ),tāsaṃ (tāsānaṃ),"kā, kāyo","yo tā, tāyo"
+126,on whom (int loc-p-fem),kāsu,tāsu,kāhi,tāhi
+127,some man:  ----- puriso,koci,kenaci,kāyaci,kāci
+128,by some man: ----- purisena,kenaci,kāci,kenci,kāyaci
+129,some fruit: ----- phalaṃ,kiñci,kāyaci,kāci,kenaci
+130,by some fruit: ----- phalena,kenaci,koci,kiñci,kenci
+131,some woman: ----- itthi,kāci,kenaci,koci,kiñci
+132,"by, to, of, on some woman: ----- itthiyā",kāyaci,kiñci,kenaci,koci
+133,(rel adv) where,yattha,tathā,kutra ,kathaṃ
+134,(rel adv) where,yatra,tasmā,kuto ,kasmā 
+135,"(rel adv) whence, where",yato ,tadā,kathaṃ,kadā
+136,"(rel adv) how, in what manner",yathā,tena,kasmā ,kutra 
+137,(rel adv) because,yasmā,tāva,kadā,kuto 
+138,(rel adv) when,yadā,kattha ,tathā,tena
+139,(rel adv) where,yena ,kutra ,tasmā,tāva
+140,(rel adv) how long,yāva,kuto ,tadā,kattha 
+141,(dem adv) there,tattha,kathaṃ,tena,tathā
+142,(dem adv) there,tatra,kasmā ,tāva,tasmā
+143,"(dem adv) thence, therefore",tato,kadā,kattha ,tadā
+144,(dem adv) in that manner,tathā,yattha,yena ,tattha
+145,(dem adv) therefore,tasmā,yatra,yāva,tatra
+146,(dem adv) then,tadā,yato ,tattha,tato
+147,(dem adv) there,tena,yathā,tatra,yena 
+148,(dem adv) so long,tāva,yasmā,tato,yāva
+149,(int adv) where,kattha ,yadā,yattha,yathā
+150,(int adv) where,kutra ,yena ,yatra,yasmā
+151,(int adv) whence,kuto ,yāva,yato ,yadā
+152,(int adv) how,kathaṃ,tattha,yathā,yattha
+153,(int adv) why,kasmā ,tatra,yasmā,yatra
+154,(int adv) when,kadā,tato,yadā,yato 

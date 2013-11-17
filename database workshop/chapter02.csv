@@ -1,0 +1,77 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,harati,"she carries, take away",she digs,he comes,he goes
+2,āharati,she brings,she shoots,he runs,he comes
+3,āruhati,"she climbs, ascends","she hits, strikes",he speaks,he runs
+4,oruhati,she descends,she protects,he cooks,he speaks
+5,yācati,she begs,"she worships, salutes",he ploughs,he cooks
+6,khaṇati,he digs,"he carries, take away",she eats,she ploughs
+7,vijjhati,he shoots,he brings,she sleeps,she eats
+8,paharati,"he hits, strikes","he climbs, ascends",she sees,she sleeps
+9,rakkhati,he protects,he descends,she cuts,she sees
+10,vandati,"he worships, salutes",he begs,she goes,she cuts
+11,Buddho dhammaṃ bhāsati.,The Buddha speaks the truth. ,The Buddhas speak the truth. ,Buddhas speak truths. ,The Buddha speaks truths.
+12,Brāhmaṇo odanaṃ bhuñjati.,The brahmin eats rice. ,The brahmins eat rice. ,The brahmin carries rice . ,Brahmins carry rice.
+13,Mitto suriyaṃ passati.,The friend sees the sun. ,The men see the sun. ,The men see the mountain. ,The man sees the mountain.
+14,Kassakā sigāle paharanti.,The farmers hit the jackals. ,The boy hits the jackals. ,The boy hits the dogs. ,Boys hit the dog.
+15,Vāṇijā bhattaṃ yācanti.,The merchants ask for rice. ,The beggar asks for rice. ,The beggar carries rice. ,The beggars carry rice.
+16,Kumārā āvāṭe khaṇanti.,The boys dig pits. ,The farmer digs  pits. ,The farmer worships mountains. ,The farmers worship the mountain.
+17,Manusso gāmaṃ āgacchati.,The man comes to the village. ,The friends come to the village. ,The friends come to the monastery. ,The friend goes to the monastery.
+18,Kumāro manusse rakkhati.,The boy protects the people. ,The kings protect the people. ,The kings protect the village. ,The king protects the village.
+19,Yācakā pabbataṃ gacchanti.,The beggars go to the mountain. ,The sons goes to the mountain. ,The sons goes to the tree. ,Sons go to the trees.
+20,Bhūpālo Buddhaṃ vandati.,The king worships the Buddha. ,The boys worship the Buddha. ,The boys worship the beggar. ,The boy worships the beggars.
+21,Puttā patte āharanti.,The sons bring bowls. ,The merchant brings bowls. ,The merchant brings rice. ,Merchants bring rice.
+22,Putto vihāraṃ gacchati.,The son goes to the monastery. ,The men go to the monastery. ,The sons go to the village. ,The man goes to the village.
+23,Sigālā pabbataṃ dhāvanti.,The jackals run to the mountain. ,The dog runs to the mountain. ,The dog runs to the tree. ,Dogs run to the tree.
+24,Kukkurā gāmaṃ āgacchanti.,The dogs come to the village. ,The jackal comes to the village. ,The jackal comes to the monastery. ,Jackals come to the monastery.
+25,Mittā sahāyake āharanti.,Friends bring friends. ,The friend brings friends. ,The brahmin brings kings. ,The brahmins bring the king.
+26,Yācakā Sugataṃ vandanti.,The beggars worship the Buddha. ,The king worships the Buddha. ,The beggars worships the king. ,The Buddha worships the kings.
+27,Bhūpālā sayanti.,The kings sleep. ,The beggar sleeps. ,The beggar begs. ,The king begs.
+28,Brāhmaṇā sunakhe haranti.,The brahmins take the dogs away.,The brahmin takes the dogs away.,The friend takes the jackals away. ,Friends take the jackals away.
+29,Puriso candaṃ passati.,The man sees the moon. ,The men see the moon. ,The sons see the pit. ,The  son sees the pit.
+30,Vāṇijā gāmaṃ dhāvanti.,The merchants run to the village. ,The farmers run to the village. ,The merchants run to the tree. ,The farmer runs to the tree.
+31,Kassako rukkhe chindati.,The farmer cuts trees. ,The merchant cuts trees. ,The farmer digs pits. ,The merchants digs the pit.
+32,Yācako sigālaṃ vijjhati.,The beggar shoots the jackal. ,The men shoot the jackal. ,The beggars shoot the dog. ,The man shoots the dog.
+33,Sahāyako odanaṃ bhuñjati.,The friend eats rice. ,The boys eat rice. ,The boys eat dogs. ,The dog eats the friend.
+34,Naro soṇaṃ paharati.,The man hits the dog. ,The beggars hit the dog. ,The men hit the boys. ,The beggar hits the boy.
+35,Kumārā pabbate āruhanti.,Boys climb mountains. ,The friend climbs mountains. ,The friend climbs trees. ,Boys climb trees.
+36,Farmers go to the monastery.,Kassakā vihāraṃ gacchanti. ,Naro vihāraṃ gacchanti. ,Narā vihāraṃ gacchati. ,Kassako vihāraṃ gacchati. 
+37,dhammo,"the doctrine, truth (nom-s)","the doctrines, truth (nom-p)","the doctrine, truth (acc-s)","doctrines, truths (acc-p)"
+38,suriyo,sun (nom-s),suns (nom-p),sun (acc-s),suns (acc-p)
+39,soṇo,dog (nom-s),dogs (nom-p),dog (acc-s),dogs (acc-p)
+40,vihāro,monastery (nom-s),monasteries (nom-p),monastery (acc-s),monasteries (acc-p)
+41,patto,bowl (nom-s),bowls (nom-p),bowl (acc-s),bowls (acc-p)
+42,āvāṭo,pit (nom-s),pits (nom-p),pit (acc-s),pits (acc-p)
+43,pabbato,mountain (nom-s),mountains (nom-p),mountain (acc-s),mountains (acc-p)
+44,yācako,beggar (nom-s),beggars (nom-p),beggar (acc-s),beggars (acc-p)
+45,sigālo,jackal (nom-s),jackals (nom-p),jackal (acc-s),jackals (acc-p)
+46,rukkho,tree (nom-s),trees (nom-p),tree (acc-s),trees (acc-p)
+47,bhattaṃ,rice (acc-s),rice (nom-p),rice (nom-s),rice (acc-p)
+48,candaṃ,moon (acc-s),moons (nom-p),moon (nom-s),moons (acc-p)
+49,soṇaṃ,dog (acc-s),dogs (nom-p),dog (nom-s),dogs (acc-p)
+50,vihāraṃ,monastery (acc-s),monasteries (nom-p),monastery (nom-s),monasteries (acc-p)
+51,pattaṃ,bowl (acc-s),bowls (nom-p),bowl (nom-s),bowls (acc-p)
+52,āvāṭaṃ,pit (acc-s),pits (nom-p),pit (nom-s),pits (acc-p)
+53,pabbataṃ,mountain (acc-s),mountains (nom-p),mountain (nom-s),mountains (acc-p)
+54,yācakaṃ,beggar (acc-s),beggars (nom-p),beggar (nom-s),beggars (acc-p)
+55,sigālaṃ,jackal (acc-s),jackals (nom-p),jackal (nom-s),jackals (acc-p)
+56,rukkhaṃ,tree (acc-s),trees (nom-p),tree (nom-s),trees (acc-p)
+57,odanā,cooked rice (nom-p),cooked rice (nom-s),cooked rice (acc-s),cooked rice (acc-p)
+58,kukkurā,dogs (nom-p),dog (nom-s),dog (acc-s),dogs (acc-p)
+59,soṇā,dogs (nom-p),dog (nom-s),dog (acc-s),dogs (acc-p)
+60,vihārā,monasteries (nom-p),monastery (nom-s),monastery (acc-s),monasteries (acc-p)
+61,pattā,bowls (nom-p),bowl (nom-s),bowl (acc-s),bowls (acc-p)
+62,āvāṭā,pits (nom-p),pit (nom-s),pit (acc-s),pits (acc-p)
+63,pabbatā,mountains (nom-p),mountain (nom-s),mountain (acc-s),mountains (acc-p)
+64,yācakā,beggars (nom-p),beggar (nom-s),beggar (acc-s),beggars (acc-p)
+65,sigālā,jackals (nom-p),jackal (nom-s),jackal (acc-s),jackals (acc-p)
+66,rukkhā,trees (nom-p),tree (nom-s),tree (acc-s),trees (acc-p)
+67,gāme,villages (acc-p),villages (nom-p),village (acc-s),village (nom-s)
+68,sunakhe,dogs (acc-p),dogs (nom-p),dog (acc-s),dog (nom-s)
+69,soṇe,dogs (acc-p),dogs (nom-p),dog (acc-s),dog (nom-s)
+70,vihāre,monasteries (acc-p),monasteries (nom-p),monastery (acc-s),monastery (nom-s)
+71,patte,bowls (acc-p),bowls (nom-p),bowl (acc-s),bowl (nom-s)
+72,āvāṭe,pits (acc-p),pits (nom-p),pit (acc-s),pit (nom-s)
+73,pabbate,mountains (acc-p),mountains (nom-p),mountain (acc-s),mountain (nom-s)
+74,yācake,beggars (acc-p),beggars (nom-p),beggar (acc-s),beggar (nom-s)
+75,sigāle,jackals (acc-p),jackals (nom-p),jackal (acc-s),jackal (nom-s)
+76,rukkhe,trees (acc-p),trees (nom-p),tree (acc-s),tree (nom-s)

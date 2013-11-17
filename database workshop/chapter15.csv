@@ -1,0 +1,72 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,paceyya,(if) he would cook,(if) you would cook,(if) you would learn,(if) you would learn
+2,paceyyāsi,(if) you would cook,(if) he would cook,(if) he would learn,(if) he would learn
+3,paceyyāmi,(if) I would cook,(if) they would cook,(if) they would learn,(if) they would learn
+4,paceyyuṃ,(if) they would cook,(if) I would cook,(if) I would learn,(if) I would learn
+5,paceyyātha,(if) you would cook,(if) we would cook,(if) we would learn,(if) we would learn
+6,paceyyāma,(if) we would cook,(if) you would cook,(if) you would learn,(if) you would learn
+7,yadi,if,"too, also",not,"like, similar"
+8,sace,if,not,"like, similar","too, also"
+9,ca,and ,"like, similar ","too, also",not
+10,pi,"too, also",if,and,not
+11,na,not,if,"too, also",and
+12,viya,"like, similar ",and ,if,not
+13,sace tvaṃ dhammaṃ suṇeyyāsi,if you would hear the dhamma,hear the dhamma,if we would hear the dhamma,if we would speak the dhamma
+14,yadi te gītāni gāyituṃ uggaṇheyyuṃ,if they would learn to sing the songs,learn to sing the songs,if he would learn to sing the songs,if he would learn to speak the truth
+15,sace tvaṃ bījāni pahiṇeyyāsi,if you would send the seeds,send the seeds,if I would send the seeds,if I would send the cloth
+16,sace tumhe padumāni ocineyyātha,if you would pick the lotuses,pick the lotuses,if I would pick the lotuses,if I would send the seeds
+17,sace tvaṃ mūlaṃ gaṇheyyāsi,if you would take the money,take the money,if we would take the money,if we would give the money
+18,yadi mayaṃ bhūpālena saha,if we discuss with the king,discuss with the king,if they discuss with the king,if they discuss with the merchants
+19,sace tumhe rukkhe ropeyyātha,if you would plant the trees,plant the trees,if we would plant the trees,if we would learn the songs
+20,sace mayaṃ sappurisā bhaveyyāma,if we become good men,become good men,if they become good men,if they become evil men
+21,sace bhūpālā dhammena dīpe pāleyyuṃ,if the kings rule the islands righteously,rule the islands righteously,if the ministers rule the islands righteously,if the ministers rule the mountains righteously
+22,sace kassako goṇaṃ vikkiṇeyya,if the farmer would sell the ox,sell the ox,if the farmers would sell the ox,if the farmers would sell the pigs
+23,sace manusse pīḷentā asappurisā gāmaṃ āgaccheyyuṃ,if the wicked men oppressing the people come to the village,come to the village,if the wicked man oppressing the people came to the village,if the wicked man oppressing the people came to the mountain
+24,yadi amaccā pāpaṃ parivajeyyuṃ,if ministers avoid evil,avoid evil,if kings avoid evil,if kings avoid the dhamma
+25,sace tumhe pabbataṃ āruheyyātha,if you climb the mountain,climb the mountain,if they climb the mountain,if they climb the tree
+26,sace tvaṃ pattena pānīyaṃ āneyyāsi,if you would bring drinking water in a bowl,bring drinking water in a bowl,if he would bring drinking water in a bowl,if he would bring rice in a bowl
+27,kusalakammāni katvā,having done good deeds,do good deeds,having done evil deeds,having sung songs
+28,sace so vejjo bhaveyya,if he is a doctor,he is a doctor,if I am a doctor,if I am a fisherman
+29,yadi putto pāpaṃ kareyya,if my son does evil,do evil,if my horse does evil,if my pig does good
+30,sace amacco paṇḍitaṃ ācariyaṃ āneyya,if the minister brings a wise teacher,bring a wise teacher,if the merchant brings a wise teacher,if the merchant brings a wise doctor
+31,sace ahaṃ hatthena suvaṃ phusituṃ ussaheyyāmi,if I try to touch the parrot with (my) hand,to touch the parrot with (my) hand,if we try to touch the parrot with (our) hands,if we try to touch the jackal with (our) hands
+32,yadi so vejjaṃ pakkosituṃ iccheyya,if he wishes to call the doctor,call the doctor,if they wish to call the doctor,if they wish to call the merchant
+33,addhā (certainly) tvaṃ Buddhassa sāvako bhaveyyāsi,you would certainly become the Buddha's disciple,he becomes the Buddha's disciple,they will certainly become the Buddha's disciples ,they will certainly become the ascetic's disciples 
+34,ahaṃ pi uggaṇheyyāmi,I would learn too,I learn,I sang,I am
+35,kassako tāni (them) khette vapeyya,the farmer would sow them in the field,the farmers sow them in the field,the farmers sow them in the forest,the farmers bring them in the fields
+36,kumārā tāni Buddhassa pūjeyyuṃ,the boys would offer them to the Buddha,the boy offers them to the Buddha,the boys offer them to the Buddha,the boys offer them to the wise men
+37,ahaṃ dussaṃ ādadeyyāmi,I would take the cloth,I give the cloth,I give the rice,I will give the rice
+38,manteyyāma amaccā na āgaccheyyuṃ,the ministers would not come,the ministers will not come,the ministers will come,the thief comes
+39,dārakā phalāni bhuñjeyyuṃ,the children would enjoy the fruits,the children would enjoy the rice,the children would enjoy the monkeys,the children would enjoy the pigs
+40,puttā pi sappurisā bhaveyyuṃ,sons would become good men too,sons would become evil men too,sons would become gods too,wise men become gods too
+41,mayaṃ bhūpālesu pasīdeyyāma,we would be pleased with them,he would be pleased with them,they would be pleased with them,they would be pleased with me
+42,vāṇijo taṃ kiṇeyya,the merchant would buy it ,the merchant would buy them,the fisherman would buy it ,the fishermen would buy it 
+43,ahaṃ te ovadeyyāmi,I would admonish them ,they would admonish me,they would admonish them,they would climb it
+44,manussā pāpaṃ na kareyyuṃ,the people would not commit evil,the people would commit evil,the people would buy oxen,the people would avoid jackals
+45,āhiṇḍante mige ca rukkhesu carante makkaṭe ca uḍḍente sakuṇe ca passeyyātha,"you would see deer roaming, monkeys moving on the trees and birds flying","you would see oxen roaming, monkeys moving on the trees and birds flying","you would see monkeys roaming, birds moving in the trees and flying","he would see monkeys roaming, birds moving in the trees and flying"
+46,pipāsito (thirsty) so piveyya,he who is thirsty would drink ,that which is thirsty will drink ,the thirsty men will drink ,the thirsty sons will drink 
+47,tumhe manussaloke uppajituṃ ussaheyyātha,you should try to be born in the human world,we should try to be born in the human world,they should try to be born in the human world,they will be born in the human world
+48,ahaṃ taṃ (him) rodantaṃ dārakaṃ passituṃ āneyyāmi,I will bring him to see the crying child,I will bring them to see the crying child,he will bring me to see the crying child,he will bring me to see the crying men
+49,ahaṃ taṃ (him) ovadeyyāmi,I would admonish him,he would admonish me,they would admonish me,they would rule me
+50,mayaṃ dhammaṃ uggaṇheyyāma,we would learn the doctrine,they will learn the doctrine,we will learn the doctrine,we will sing the songs
+51,so gehā uppateyya,it might fly out of the house ,it might fly out of the forest ,they might fly out of the forest ,it might fly out of the trees
+52,ahaṃ taṃ (him) āneyyāmi,I will bring him,I will bring them,he will bring me,he will avoid me
+53,tvaṃ suṇeyyāsi,you would hear,I would hear,I would learn,it would enjoy
+54,te uggaṇheyyuṃ,they would learn,we would learn,it would sow,we would become
+55,tvaṃ pahiṇeyyāsi,you would send,I would send,we would offer ,we would be pleased
+56,tumhe ocineyyātha,you would pick,I would pick,we would take,he would buy
+57,tvaṃ gaṇheyyāsi,you would take,I would take,it would enjoy,we would admonish
+58,tumhe ropeyyātha,you would plant,I would plant,we would become,I would learn
+59,kassako vikkiṇeyya,the farmer would sell,the merchant would sell,the sailor would be pleased,the farmers would sow
+60,tvaṃ āneyyāsi,you would bring,I would bring,he would buy,we would offer 
+61,tvaṃ bhaveyyāsi,you would become,I would become,we would admonish,we would take
+62,ahaṃ uggaṇheyyāmi,I would learn,she would learn,I would buy,sons would take
+63,kassako vapeyya,the farmer would sow,the merchant would sow,the sailor would go,farmers would plant
+64,kumārā pūjeyyuṃ,the boys would offer ,the men would offer ,we would learn,the wise men would sell
+65,ahaṃ ādadeyyāmi,I would take,we would take,I would send,I would bring
+66,dārakā bhuñjeyyuṃ,the children would enjoy,the sons would enjoy,the children would pick,the children would become
+67,puttā bhaveyyuṃ,sons would become,children would become,sons would take,children would learn
+68,mayaṃ pasīdeyyāma,we would be pleased,I would be pleased,I would plant,he would go
+69,vāṇijo kiṇeyya,the merchant would buy,the farmer would buy,the merchant would sell,the king would learn
+70,ahaṃ ovadeyyāmi,I would admonish,we would admonish,I would bring,I would send
+71,mayaṃ uggaṇheyyāma,we would learn,I would learn,I would become,they would pick

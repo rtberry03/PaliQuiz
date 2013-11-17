@@ -1,0 +1,67 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,kaññā,girl,sand,retinue,tongue
+2,dārikā,girl,box,"faith, devotion",thirst
+3,gaṅgā,river Ganges,garland,neck,hunger
+4,nāvā,ship,liquor,tongue,retinue
+5,ammā,mother,branch,thirst,"faith, devotion"
+6,paññā,wisdom,deity,hunger,neck
+7,sālā,hall,retinue,sand,liquor
+8,bhariyā,wife,"faith, devotion",box,branch
+9,sabhā,assembly,neck,garland,deity
+10,kathā,speech,tongue,liquor,sand
+11,latā,creeper,thirst,branch,box
+12,guhā,cave,hunger,deity,garland
+13,chāyā,shadow,girl,wife,creeper
+14,vālukā,sand,girl,assembly,cave
+15,mañjūsā,box,river Ganges,speech,shadow
+16,mālā,garland,ship,creeper,wife
+17,surā,liquor,mother,cave,assembly
+18,sākhā,branch,wisdom,shadow,speech
+19,devatā,deity,hall,girl,ship
+20,parisā,retinue,wife,girl,mother
+21,saddhā,"faith, devotion",assembly,river Ganges,wisdom
+22,gīvā,neck,speech,ship,hall
+23,jivhā,tongue,creeper,mother,girl
+24,pipāsā,thirst,cave,wisdom,girl
+25,khudā,hunger,shadow,hall,river Ganges
+26,sakkoti,"can, is able","salutes, worships",prevents,experiences joy
+27,parivāreti,"accompanies, surrounds","brings up, nourishes","follows, chases after","puts, places, deposits"
+28,nivāreti,prevents,tries,gets angry,prepares
+29,anubandhati,"follows, chases after",hides,experiences suffering,prevents
+30,kujjhati,gets angry,engages in conversation,experiences joy,"follows, chases after"
+31,namassati,"salutes, worships","is happy, enjoys","puts, places, deposits",gets angry
+32,poseti,"brings up, nourishes","can, is able",prepares,experiences suffering
+33,vāyamati,tries,"accompanies, surrounds","salutes, worships",engages in conversation
+34,nilīyati,hides,prevents,"brings up, nourishes","is happy, enjoys"
+35,sallapati,engages in conversation,"follows, chases after",tries,"can, is able"
+36,modati,"is happy, enjoys",gets angry,hides,"accompanies, surrounds"
+37,sukhaṃ vindati,experiences joy,experiences suffering,engages in conversation,"salutes, worships"
+38,dukkhaṃ vindati,experiences suffering,experiences joy,"is happy, enjoys","brings up, nourishes"
+39,paṭiyādeti,prepares,"puts, places, deposits","can, is able",tries
+40,pakkhipati,"puts, places, deposits",prepares,"accompanies, surrounds",hides
+41,sace sabhāyaṃ kaññāyo katheyyuṃ ,if the girls speak in the assembly,if the boys speak in the assembly,if the girl speaks in the assembly,if the boy speaks in the assembly
+42,ahaṃ pi kathessāmi,I will speak too,he will speak too,we will speak too,they will speak too
+43,Dārikāyo mālāyo kariṃsu.,The girls made garlands.,The boys made garlands.,The girls made rice.,The boys made rice.
+44,Vanitā ākaḍḍhi.,The woman dragged.,The women dragged.,The woman spoke.,The women experienced suffering.
+45,Bhariyā ṭhapesi.,The wife kept.,The wife spoke.,The wife tried.,The wife prepared.
+46,Dārikā vālukāya kīḷiṃsu.,The girls played with sand.,The girls played with rice.,The girls played with shadows.,The girls played with boys.
+47,Devatāyo dhammena jīvante manusse rakkhantu.,May the deities protect the people who live righteously.,May the deities not protect the people who live righteously.,May the deities protect the people who speak righteously.,May the deities not protect the people who speak righteously.
+48,Tumhe mā suraṃ pivatha.,"You, do not drink liquor.","You, drink the liquor.","You, do not drink water.",Let us drink the liquor.
+49,Vanitāyo modanti.,The women are happy.,The woman is happy.,The women are not happy.,The woman is not happy.
+50,Kaññāyo kumārehi saddhiṃ sallapiṃsu.,The girls chatted with the boys.,The girl chatted with the boy.,The girl chatted with the boys.,The girls chatted with the boy.
+51,woman (nom-s),vanitā,vanitāya,vanitāyo,vanite
+52,o woman (voc-s),vanite,vanitāya,vanitāyo,vanita
+53,woman (acc-s),vanitaṃ,vanitāya,vanitāyo,vanite
+54,by the woman (ins-s),vanitāya,vanitā,vanitāhi (vanitābhi),vanite
+55,from the woman (abl-s),vanitāya,vanite,vanitāhi (vanitābhi),vanita
+56,for the woman (dat-s),vanitāya,vanitaṃ,vanitānaṃ,vanite
+57,of the woman (gen-s),vanitāya,vanitāyaṃ,vanitāsu,vanite
+58,at the woman (loc-s),"vanitāya, vanitāyaṃ",vanitā,vanitāsu,vanite
+59,women (nom-p),"vanitā, vanitāyo",vanitāhi (vanitābhi),vanite,vanita
+60,o women (voc-p),"vanitā, vanitāyo",vanitāhi (vanitābhi),vanite,vanita
+61,women (acc-p),"vanitā, vanitāyo",vanitānaṃ,vanitāya,vanite
+62,by the women (ins-p),vanitāhi (vanitābhi),"vanitā, vanitāyo",vanitāya,vanite
+63,from the women (abl -p),vanitāhi (vanitābhi),"vanitā, vanitāyo",vanitāya,vanite
+64,for the women (dat-p),vanitānaṃ,"vanitā, vanitāyo",vanitāya,vanite
+65,of the women (gen-p),vanitānaṃ,vanitāsu,vanitāya,vanite
+66,at the women (loc-p),vanitāsu,vanitānaṃ,vanitāya,vanite

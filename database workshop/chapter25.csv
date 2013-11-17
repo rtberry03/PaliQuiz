@@ -1,0 +1,72 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,fire (nom-s),aggi,aggī / aggayo,agginā / aggimhā / aggismā,aggīhi (aggībhi)
+2,O fire,aggi,aggī / aggayo,aggino / aggissa,aggīnaṃ
+3,fire (acc-s),aggiṃ,aggī / aggayo,aggino / aggissa,aggīnaṃ
+4,by means of the fire,agginā,aggīhi (aggībhi),aggimhi / aggismiṃ,aggīsu
+5,from the fire,agginā / aggimhā / aggismā,aggīhi (aggībhi),aggi,aggī / aggayo
+6,for the fire,aggino / aggissa,aggīnaṃ,aggi,aggī / aggayo
+7,of the fire,aggino / aggissa,aggīnaṃ,aggiṃ,aggī / aggayo
+8,on the fire,aggimhi / aggismiṃ,aggīsu,agginā,aggīhi (aggībhi)
+9,fires (nom-p),aggī / aggayo,aggi,aggīhi (aggībhi),agginā / aggimhā / aggismā
+10,O fires,aggī / aggayo,aggi,aggīnaṃ,aggino / aggissa
+11,fires (acc-p),aggī / aggayo,aggiṃ,aggīnaṃ,aggino / aggissa
+12,by means of the fires,aggīhi (aggībhi),agginā,aggīsu,aggimhi / aggismiṃ
+13,from the fires,aggīhi (aggībhi),agginā / aggimhā / aggismā,aggī / aggayo,aggi
+14,for the fires,aggīnaṃ,aggino / aggissa,aggī / aggayo,aggi
+15,of the fires,aggīnaṃ,aggino / aggissa,aggī / aggayo,aggiṃ
+16,on the fires,aggīsu,aggimhi / aggismiṃ,aggīhi (aggībhi),agginā
+17,sage,muni / isi,vīhi,maṇi,pāṇi
+18,poet,kavi,kapi,asi,kucchi
+19,enemy,ari,ahi,rāsi,muṭṭhi
+20,king,bhūpati,dīpi,pāṇi,maṇi
+21,"husband, master",pati,ravi,kucchi,asi
+22,householder,gahapati,giri,muṭṭhi,rāsi
+23,"lord, leader",adhipati,maṇi,vīhi,dīpi
+24,guest,atithi,asi,kapi,ravi
+25,illness,vyādhi,rāsi,ahi,giri
+26,ocean,udadhi,pāṇi,dīpi,vīhi
+27,(hidden) treasure,nidhi,kucchi,ravi,kapi
+28,paddy,vīhi,muṭṭhi,giri,ahi
+29,monkey,kapi,muni / isi,gahapati,vyādhi
+30,serpent,ahi,kavi,adhipati,udadhi
+31,leopard,dīpi,ari,atithi,nidhi
+32,sun,ravi,bhūpati,vyādhi,gahapati
+33,mountain,giri,pati,udadhi,adhipati
+34,gem,maṇi,gahapati,nidhi,atithi
+35,sword,asi,adhipati,muni / isi,ari
+36,heap,rāsi,atithi,kavi,bhūpati
+37,hand,pāṇi,vyādhi,ari,pati
+38,belly,kucchi,udadhi,bhūpati,muni / isi
+39,"fist, hammer",muṭṭhi,nidhi,pati,kavi
+40,householder (nom-s),gahapati,gahapatī / gahapatayo,gahapatinā / gahapatimhā / gahapatismā,gahapatīhi (gahapatībhi)
+41,O householder,gahapati,gahapatī / gahapatayo,gahapatino / gahapatissa,gahapatīnaṃ
+42,householder (acc-s),gahapatiṃ,gahapatī / gahapatayo,gahapatino / gahapatissa,gahapatīnaṃ
+43,by means of the householder,gahapatinā,gahapatīhi (gahapatībhi),gahapatimhi / gahapatismiṃ,gahapatīsu
+44,from the householder,gahapatinā / gahapatimhā / gahapatismā,gahapatīhi (gahapatībhi),gahapati,gahapatī / gahapatayo
+45,for the householder,gahapatino / gahapatissa,gahapatīnaṃ,gahapati,gahapatī / gahapatayo
+46,of the householder,gahapatino / gahapatissa,gahapatīnaṃ,gahapatiṃ,gahapatī / gahapatayo
+47,on the householder,gahapatimhi / gahapatismiṃ,gahapatīsu,gahapatinā,gahapatīhi (gahapatībhi)
+48,householders (nom-p),gahapatī / gahapatayo,gahapati,gahapatīhi (gahapatībhi),gahapatinā / gahapatimhā / gahapatismā
+49,O householders,gahapatī / gahapatayo,gahapati,gahapatīnaṃ,gahapatino / gahapatissa
+50,householders (acc-p),gahapatī / gahapatayo,gahapatiṃ,gahapatīnaṃ,gahapatino / gahapatissa
+51,by means of the householders,gahapatīhi (gahapatībhi),gahapatinā,gahapatīsu,gahapatimhi / gahapatismiṃ
+52,from the householders,gahapatīhi (gahapatībhi),gahapatinā / gahapatimhā / gahapatismā,gahapatī / gahapatayo,gahapati
+53,for the householders,gahapatīnaṃ,gahapatino / gahapatissa,gahapatī / gahapatayo,gahapati
+54,of the householders,gahapatīnaṃ,gahapatino / gahapatissa,gahapatī / gahapatayo,gahapatiṃ
+55,on the householders,gahapatīsu,gahapatimhi / gahapatismiṃ,gahapatīhi (gahapatībhi),gahapatinā
+56,sun (nom-s),ravi,ravī / ravayo,ravinā / ravimhā / ravismā,ravīhi (ravībhi)
+57,O sun,ravi,ravī / ravayo,ravino / ravissa,ravīnaṃ
+58,sun (acc-s),raviṃ,ravī / ravayo,ravino / ravissa,ravīnaṃ
+59,by means of the sun,ravinā,ravīhi (ravībhi),ravimhi / ravismiṃ,ravīsu
+60,from the sun,ravinā / ravimhā / ravismā,ravīhi (ravībhi),ravi,ravī / ravayo
+61,for the sun,ravino / ravissa,ravīnaṃ,ravi,ravī / ravayo
+62,of the sun,ravino / ravissa,ravīnaṃ,raviṃ,ravī / ravayo
+63,on the sun,ravimhi / ravismiṃ,ravīsu,ravinā,ravīhi (ravībhi)
+64,suns (nom-p),ravī / ravayo,ravi,ravīhi (ravībhi),ravinā / ravimhā / ravismā
+65,O suns,ravī / ravayo,ravi,ravīnaṃ,ravino / ravissa
+66,suns (acc-p),ravī / ravayo,raviṃ,ravīnaṃ,ravino / ravissa
+67,by means of the suns,ravīhi (ravībhi),ravinā,ravīsu,ravimhi / ravismiṃ
+68,from the suns,ravīhi (ravībhi),ravinā / ravimhā / ravismā,ravī / ravayo,ravi
+69,for the suns,ravīnaṃ,ravino / ravissa,ravī / ravayo,ravi
+70,of the suns,ravīnaṃ,ravino / ravissa,ravī / ravayo,raviṃ
+71,on the suns,ravīsu,ravimhi / ravismiṃ,ravīhi (ravībhi),ravinā

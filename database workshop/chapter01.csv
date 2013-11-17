@@ -1,0 +1,76 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,bhāsati,he speaks,he runs,he comes,he goes
+2,pacati,he cooks,he speaks,he runs,he comes
+3,kasati,he ploughs,he cooks,he speaks,he runs
+4,bhuñjati,he eats,he ploughs,he cooks,he speaks
+5,sayati,he sleeps,he eats,he ploughs,he cooks
+6,passati,she sees,she sleeps,she eats,she ploughs
+7,chindati,she cuts,she sees,she sleeps,she eats
+8,gacchati,she goes,she cuts,she sees,she sleeps
+9,āgacchati,she comes,she goes,she cuts,she sees
+10,dhāvati,she runs,she comes,she goes,she cuts
+11,Buddho bhuñjati.,The Buddha eats.,The Buddha sleeps.,The kings eat.,The kings sleep.
+12,Vāṇijā sayanti.,The merchants sleep.,The king eats.,The son sleeps.,Kings eat.
+13,Mittā sayanti.,Friends sleep.,Kings sleep.,The sons sleep.,The friend sleeps.
+14,Bhūpālo passati.,The king sees.,The king sleeps.,The kings eat.,The kings speak.
+15,Mātulo dhāvati.,The uncle runs.,Boys run.,Kings run.,The king runs.
+16,Kumāro kasati.,The boy ploughs.,Uncles plough.,Kings plough.,The king ploughs.
+17,Kassakā bhāsanti.,The farmers speak.,Brahmins see.,The farmer sees.,The brahmin speaks.
+18,Puttā gacchanti.,The sons go.,The sons come.,The friend comes.,The friend goes.
+19,Brāhmaṇā pacanti.,The brahmins cook.,Kings cook.,Merchants cook.,Uncles cook.
+20,Sahāyako chindati.,The friend cuts.,Men cut.,Men plough.,The friend ploughs.
+21,Sahāyā dhāvanti.,Friends run.,The friends speak.,The men cook.,The friend goes.
+22,Manusso bhuñjati.,The man eats.,The friends speak.,The men cook.,The man speaks.
+23,Tathāgato sayati.,The Buddha (Thus-Gone) sleeps.,The Buddha (Thus-Gone) sees.,The Buddha (Thus-Gone) speaks.,The Buddha (Thus-Gone) goes.
+24,Naro bhāsati.,The man speaks.,The man cooks.,The men speak.,The men cook.
+25,Purisā passanti.,Men see.,Friends speak.,Friends see.,Friends sleep.
+26,Sugato gacchati.,The Buddha (Well-Gone) goes.,The Buddha (Well-Gone) sees.,The Buddha (Well-Gone) comes.,The Buddha (Well-Gone) speaks.
+27,The sons runs.,Putto dhāvati. ,Puttā dhāvanti. ,Mittā bhāsanti. ,Mittā bhāsati. 
+28,The Buddha sees.,Buddho passati. ,Mātulā passati. ,Kassako kasati. ,Kassakā kasanti. 
+29,The uncle comes.,Mātulo āgacchati. ,Buddho āgacchati. ,Vāṇijo āgacchati. ,Vāṇija āgacchati. 
+30,The merchants eat.,Vāṇijā bhuñjanti. ,Kumāro bhuñjati. ,Puttā chindanti. ,Mittā chindanti. 
+31,The boys go.,Kumārā gacchanti. ,Vāṇijo gacchati. ,Mātulā bhāsanti. ,Mātulo bhāsanti. 
+32,The farmer sleeps.,Kassako sayati. ,Manussa sayati. ,Kumāro dhāvati. ,Kumārā dhāvati. 
+33,Friends go.,Mittā gacchanti. ,Bhūpālo gacchati. ,Sahāyo bhāsati. ,Mittā bhāsanti. 
+34,The Buddha cuts.,Buddho chindati. ,Brāhmaṇa chindanti. ,Buddho passati. ,Buddhā passanti. 
+35,Kings speak.,Bhūpālā bhāsanti. ,Mittā bhāsati. ,Bhūpālo bhāsati. ,Mitto bhāsati. 
+36,The man ploughs.,Manusso kasati. ,Kassakā kasanti. ,Puttā dhāvanti. ,Putto dhāvanti. 
+37,Buddho,the Buddha (nom-s),the Buddhas (nom-p),"men, human beings (nom-p)","man, human being (nom-s)"
+38,Tathāgato,the Buddha (Thus-gone) (nom-s),the Buddhas (Thus-gone) (nom-p),"men, persons (nom-p)","man, person (nom-s)"
+39,Sugato,the Buddha (Well-gone) (nom-s),the Buddhas (Well-gone) (nom-p),"men, persons (nom-p)","man, person (nom-s)"
+40,manusso,"man, human being (nom-s)","men, human beings (nom-p)",farmers (nom-p),farmer (nom-s)
+41,naro,"man, person (nom-s)","men, persons (nom-p)",brahmins (nom-p),brahmin (nom-s)
+42,puriso,"man, person (nom-s)","men, persons (nom-p)",sons (nom-p),son (nom-s)
+43,kassako,farmer (nom-s),farmers (nom-p),uncles (nom-p),uncle (nom-s)
+44,brāhmaṇo,brahmin (nom-s),brahmins (nom-p),boys (nom-p),boy (nom-s)
+45,putto,son (nom-s),sons (nom-p),merchants (nom-p),merchant (nom-s)
+46,mātulo,uncle (nom-s),uncles (nom-p),kings (nom-p),king (nom-s)
+47,kumāro,boy (nom-s),boys (nom-p),friends (nom-p),friend (nom-s)
+48,vāṇijo,merchant (nom-s),merchants (nom-p),friends (nom-p),friend (nom-s)
+49,bhūpālo,king (nom-s),kings (nom-p),friends (nom-p),friend (nom-s)
+50,sahāyo,friend (nom-s),friends (nom-p),the Buddha (nom-s),the Buddhas (nom-p)
+51,sahāyako,friend (nom-s),friends (nom-p),the Buddha (Thus-gone) (nom-s),the Buddhas (Thus-gone) (nom-p)
+52,mitto,friend (nom-s),friends (nom-p),the Buddha (Well-gone) (nom-s),the Buddhas (Well-gone) (nom-p)
+53,manussā,"men, human beings (nom-p)","man, human being (nom-s)",friends (nom-p),friend (nom-s)
+54,narā,"men, persons (nom-p)","man, person (nom-s)",friends (nom-p),friend (nom-s)
+55,purisā,"men, persons (nom-p)","man, person (nom-s)",friends (nom-p),friend (nom-s)
+56,kassakā,farmers (nom-p),farmer (nom-s),brahmin (nom-s),brahmins (nom-p)
+57,brāhmaṇā,brahmins (nom-p),brahmin (nom-s),son (nom-s),sons (nom-p)
+58,puttā,sons (nom-p),son (nom-s),uncle (nom-s),uncles (nom-p)
+59,mātulā,uncles (nom-p),uncle (nom-s),boy (nom-s),boys (nom-p)
+60,kumārā,boys (nom-p),boy (nom-s),merchant (nom-s),merchants (nom-p)
+61,vāṇijā,merchants (nom-p),merchant (nom-s),son (nom-s),sons (nom-p)
+62,bhūpālā,kings (nom-p),king (nom-s),uncle (nom-s),uncles (nom-p)
+63,sahāyā,friends (nom-p),friend (nom-s),boy (nom-s),boys (nom-p)
+64,sahāyakā,friends (nom-p),friend (nom-s),merchant (nom-s),merchants (nom-p)
+65,mittā,friends (nom-p),friend (nom-s),king (nom-s),kings (nom-p)
+66,bhāsanti,they speak,they run,they come,they go
+67,pacanti,they cook,they speak,they run,they come
+68,kasanti,they plough,they cook,they speak,they run
+69,bhuñjanti,they eat,they plough,they cook,they speak
+70,sayanti,they sleep,they eat,they plough,they cook
+71,passanti,they see,they sleep,they eat,they plough
+72,chindanti,they cut,they see,they sleep,they eat
+73,gacchanti,they go,they cut,they see,they sleep
+74,āgacchanti,they come,they go,they cut,they see
+75,dhāvanti,they run,they come,they go,they cut

@@ -1,0 +1,67 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,virtuous... (nom-s),"guṇavā, guṇavanto","guṇavanto, guṇavantā","guṇavatā, guṇavantamhā, guṇavantasmā",guṇavantehi (guṇavantebhi)
+2,O virtuous... (voc-s),"guṇavā, guṇava, guṇavanta","guṇavanto, guṇavantā","guṇavato, guṇavantassa","guṇavataṃ, guṇavantānaṃ"
+3,virtuous... (acc-s) ,guṇavantaṃ,"guṇavanto, guṇavante","guṇavato, guṇavantassa","guṇavataṃ, guṇavantānaṃ"
+4,by means of the virtuous... (ins-s),"guṇavatā, guṇavantena",guṇavantehi (guṇavantebhi),"guṇavati, guṇavante, guṇavantamhi, guṇavantasmiṃ",guṇavantesu
+5,from the virtuous... (abl-s),"guṇavatā, guṇavantamhā, guṇavantasmā",guṇavantehi (guṇavantebhi),"guṇavā, guṇavanto","guṇavanto, guṇavantā"
+6,for the virtuous... (dat-s),"guṇavato, guṇavantassa","guṇavataṃ, guṇavantānaṃ","guṇavā, guṇava, guṇavanta","guṇavanto, guṇavantā"
+7,of the virtuous... (gen-s),"guṇavato, guṇavantassa","guṇavataṃ, guṇavantānaṃ",guṇavantaṃ,"guṇavanto, guṇavante"
+8,on the virtuous... (loc-s),"guṇavati, guṇavante, guṇavantamhi, guṇavantasmiṃ",guṇavantesu,"guṇavatā, guṇavantena",guṇavantehi (guṇavantebhi)
+9,virtuous... (nom-p),"guṇavanto, guṇavantā","guṇavā, guṇavanto",guṇavantehi (guṇavantebhi),"guṇavatā, guṇavantamhā, guṇavantasmā"
+10,O virtuous... (voc-p),"guṇavanto, guṇavantā","guṇavā, guṇava, guṇavanta","guṇavataṃ, guṇavantānaṃ","guṇavato, guṇavantassa"
+11,virtuous... (acc-p) ,"guṇavanto, guṇavante",guṇavantaṃ,"guṇavataṃ, guṇavantānaṃ","guṇavato, guṇavantassa"
+12,by means of the virtuous... (ins-p),guṇavantehi (guṇavantebhi),"guṇavatā, guṇavantena",guṇavantesu,"guṇavati, guṇavante, guṇavantamhi, guṇavantasmiṃ"
+13,from the virtuous... (abl-p),guṇavantehi (guṇavantebhi),"guṇavatā, guṇavantamhā, guṇavantasmā","guṇavanto, guṇavantā","guṇavā, guṇavanto"
+14,for the virtuous... (dat-p),"guṇavataṃ, guṇavantānaṃ","guṇavato, guṇavantassa","guṇavanto, guṇavantā","guṇavā, guṇava, guṇavanta"
+15,of the virtuous... (gen-p),"guṇavataṃ, guṇavantānaṃ","guṇavato, guṇavantassa","guṇavanto, guṇavante",guṇavantaṃ
+16,on the virtuous... (loc-p),guṇavantesu,"guṇavati, guṇavante, guṇavantamhi, guṇavantasmiṃ",guṇavantehi (guṇavantebhi),"guṇavatā, guṇavantena"
+17,nourishing... (nom-s),ojavantaṃ,"ojavanto, ojavantā","ojavatā, ojavantamhā, ojavantasmā",ojavantehi (ojavantebhi)
+18,O nourishing... (voc-s),"ojavā, ojava, ojavanta","ojavanto, ojavantā","ojavato, ojavantassa","ojavataṃ, ojavantānaṃ"
+19,nourishing... (acc-s) ,ojavantaṃ,"ojavanto, ojavante","ojavato, ojavantassa","ojavataṃ, ojavantānaṃ"
+20,by means of the nourishing... (ins-s),"ojavatā, ojavantena",ojavantehi (ojavantebhi),"ojavati, ojavante, ojavantamhi, ojavantasmiṃ",ojavantesu
+21,from the nourishing... (abl-s),"ojavatā, ojavantamhā, ojavantasmā",ojavantehi (ojavantebhi),"ojavā, ojavanto","ojavanto, ojavantā"
+22,for the nourishing... (dat-s),"ojavato, ojavantassa","ojavataṃ, ojavantānaṃ","ojavā, ojava, ojavanta","ojavanto, ojavantā"
+23,of the nourishing... (gen-s),"ojavato, ojavantassa","ojavataṃ, ojavantānaṃ",ojavantaṃ,"ojavanto, ojavante"
+24,on the nourishing... (loc-s),"ojavati, ojavante, ojavantamhi, ojavantasmiṃ",ojavantesu,"ojavatā, ojavantena",ojavantehi (ojavantebhi)
+25,nourishing... (nom-p),ojavantāni,"ojavā, ojavanto",ojavantehi (ojavantebhi),"ojavatā, ojavantamhā, ojavantasmā"
+26,O nourishing... (voc-p),"ojavanto, ojavantā","ojavā, ojava, ojavanta","ojavataṃ, ojavantānaṃ","ojavato, ojavantassa"
+27,nourishing... (acc-p) ,ojavantāni,ojavantaṃ,"ojavataṃ, ojavantānaṃ","ojavato, ojavantassa"
+28,by means of the nourishing... (ins-p),ojavantehi (ojavantebhi),"ojavatā, ojavantena",ojavantesu,"ojavati, ojavante, ojavantamhi, ojavantasmiṃ"
+29,from the nourishing... (abl-p),ojavantehi (ojavantebhi),"ojavatā, ojavantamhā, ojavantasmā","ojavanto, ojavantā","ojavā, ojavanto"
+30,for the nourishing... (dat-p),"ojavataṃ, ojavantānaṃ","ojavato, ojavantassa","ojavanto, ojavantā","ojavā, ojava, ojavanta"
+31,of the nourishing... (gen-p),"ojavataṃ, ojavantānaṃ","ojavato, ojavantassa","ojavanto, ojavante",ojavantaṃ
+32,on the nourishing... (loc-p),ojavantesu,"ojavati, ojavante, ojavantamhi, ojavantasmiṃ",ojavantehi (ojavantebhi),"ojavatā, ojavantena"
+33,rich,dhanavantu,balavantu,sotavantu,himavantu
+34,"the Fortunate one, the Buddha",Bhagavantu,paññavantu,sīlavantu,vaṇṇavantu
+35,famous,yasavantu,puññavantu,saddhāvantu,bhānumantu
+36,of good family,kulavantu,phalavantu,satimantu,buddhimantu
+37,"attentive, having ears",sotavantu,himavantu,cakkhumantu,bandhumantu
+38,virtuous,sīlavantu,vaṇṇavantu,dhanavantu,balavantu
+39,devoted,saddhāvantu,bhānumantu,Bhagavantu,paññavantu
+40,mindful,satimantu,buddhimantu,yasavantu,puññavantu
+41,having eyes,cakkhumantu,bandhumantu,kulavantu,phalavantu
+42,powerful,balavantu,dhanavantu,himavantu,sotavantu
+43,wise,paññavantu,Bhagavantu,vaṇṇavantu,sīlavantu
+44,"fortunate, meritorious",puññavantu,yasavantu,bhānumantu,saddhāvantu
+45,fruitful,phalavantu,kulavantu,buddhimantu,satimantu
+46,"Himalayas, possessor of snow",himavantu,sotavantu,bandhumantu,cakkhumantu
+47,colourful,vaṇṇavantu,sīlavantu,balavantu,dhanavantu
+48,"sun, radiant",bhānumantu,saddhāvantu,paññavantu,Bhagavantu
+49,intelligent,buddhimantu,satimantu,puññavantu,yasavantu
+50,having relations,bandhumantu,cakkhumantu,phalavantu,kulavantu
+51,mindful... (nom-s),"satimā, satimanto","satimanto, satimantā","satimatā, satimantamhā, satimantasmā",satimantehi (satimantebhi)
+52,O mindful... (voc-s),"satimā, satima, satimanta","satimanto, satimantā","satimato, satimantassa","satimataṃ, satimantānaṃ"
+53,mindful... (acc-s) ,satimantaṃ,"satimanto, satimante","satimato, satimantassa","satimataṃ, satimantānaṃ"
+54,by means of the mindful... (ins-s),"satimatā, satimantena",satimantehi (satimantebhi),"satimati, satimante, satimantamhi, satimantasmiṃ",satimantesu
+55,from the mindful... (abl-s),"satimatā, satimantamhā, satimantasmā",satimantehi (satimantebhi),"satimā, satimanto","satimanto, satimantā"
+56,for the mindful... (dat-s),"satimato, satimantassa","satimataṃ, satimantānaṃ","satimā, satima, satimanta","satimanto, satimantā"
+57,of the mindful... (gen-s),"satimato, satimantassa","satimataṃ, satimantānaṃ",satimantaṃ,"satimanto, satimante"
+58,on the mindful... (loc-s),"satimati, satimante, satimantamhi, satimantasmiṃ",satimantesu,"satimatā, satimantena",satimantehi (satimantebhi)
+59,mindful... (nom-p),"satimanto, satimantā","satimā, satimanto",satimantehi (satimantebhi),"satimatā, satimantamhā, satimantasmā"
+60,O mindful... (voc-p),"satimanto, satimantā","satimā, satima, satimanta","satimataṃ, satimantānaṃ","satimato, satimantassa"
+61,mindful... (acc-p) ,"satimanto, satimante",satimantaṃ,"satimataṃ, satimantānaṃ","satimato, satimantassa"
+62,by means of the mindful... (ins-p),satimantehi (satimantebhi),"satimatā, satimantena",satimantesu,"satimati, satimante, satimantamhi, satimantasmiṃ"
+63,from the mindful... (abl-p),satimantehi (satimantebhi),"satimatā, satimantamhā, satimantasmā","satimanto, satimantā","satimā, satimanto"
+64,for the mindful... (dat-p),"satimataṃ, satimantānaṃ","satimato, satimantassa","satimanto, satimantā","satimā, satima, satimanta"
+65,of the mindful... (gen-p),"satimataṃ, satimantānaṃ","satimato, satimantassa","satimanto, satimante",satimantaṃ
+66,on the mindful... (loc-p),satimantesu,"satimati, satimante, satimantamhi, satimantasmiṃ",satimantehi (satimantebhi),"satimatā, satimantena"

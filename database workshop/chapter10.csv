@@ -1,0 +1,82 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,Dārakā kukkurehi saddhiṃ kīḷituṃ uyyānaṃ gacchanti.,Children go to the park to play with their dogs.,Friends go to the park to play with their dogs.,Children go to the palace to play with their dogs.,Friends go to the palace to play with their dogs.
+2,Kassakā puttehi saha nagare gehesu vasituṃ icchanti.,Farmers wish to live in houses in the city with their sons.,Men wish to live in houses in the city with their sons.,Farmers wish to live in palaces in the city with their sons.,Men wish to live in palaces in the city with their sons.
+3,Mittā udakaṃ oruyha nahāyituṃ icchanti.,Friends wish to get down to the water and bathe.,Children wish to get down to the water and bathe.,Uncles wish to get down to the water and bathe.,Lay devotees wish to get down to the water and bathe.
+4,Ajā araññaṃ pavisituṃ gāmasmā dhāvanti.,Goats run from the village to enter the forest.,Pigs run from the village to enter the forest.,Goats run from the village to enter the park.,Pigs run from the village to enter the park.
+5,Sāṭakaṃ labhitvā ācariyasmā dārako pāsidati.,Having received a garment from the teacher the child is pleased.,Having received a garment from the teacher the doctor is pleased.,Having received a garment from the teacher the uncle is pleased.,Having received a garment from the uncle the doctor is pleased.
+6,Āsanasmā uṭṭhāya upāsako samaṇena saha bhāsituṃ icchati.,Having risen from the seat the lay devotee wishes to speak with the monk.,Having risen from the seat the good man wishes to speak with the monk.,Having risen from the seat the minister wishes to speak with the monk.,Having risen from the seat the good man wishes to speak with the minister.
+7,Pāsāṇamhi ṭhatvā vejjo rukkhesu pupphāni passati.,"Having stood on the rock, the doctor sees flowers on the trees.","Having stood on the rock, the child sees flowers on the trees.","Having stood on the rock, the doctor sees flowers on the mountains.","Having stood on the rock, the child sees flowers on the mountains."
+8,hanati,he kills,she collects,she descends,"he becomes glad, is pleased with"
+9,jīvati,he lives,to cross (water),"he hits, strikes",to drink
+10,kasati,he ploughs,to stand,to hit,she enters
+11,rakkhati,he protects,she goes,she brings,he speaks
+12,akkosati,he scolds,to cook,to collect,to live
+13,vijjhati,he shoots,he dances,to cut,he scolds
+14,sayati,he sleeps,she laughs,he scolds,he walks
+15,bhāsati,he speaks,to call,she stands,to touch
+16,carati,he walks,to drink,"to pay respect, worship",he cries
+17,dhovati,he washes,it drinks,she begs,to stand
+18,vandati,"he worships, salutes",to dig,it breaks,she brings
+19,ākaḍḍhati,it drags,he advises,he cries,"to pay respect, worship"
+20,pivati,it drinks,he washes,she takes,it sprinkles
+21,viharati,it dwells,to get,she cuts,to pull
+22,uppatati,"it flies, jumps up",she eats,to sprinkle,to give
+23,kīḷati,it plays,"to pay respect, worship",she sees,she descends
+24,nikkhipati,it puts,she takes,she runs,to plough
+25,āsiñcati,it sprinkles,to abandon,to cross (water),she opens
+26,phusati,it touches,he bites,it bathes,"she wishes, desires"
+27,Upāsakā piṭake ādāya dārakānaṃ phalāni saṃharituṃ araññaṃ gacchanti,Lay devotees take baskets and go to the forest to collect fruits for their children.,Men take baskets and go to the forest to collect fruits for their children.,Lay devotees take baskets and go to the mountain to collect fruits for their children.,Men take baskets and go to the mountain to collect fruits for their children.
+28,Manussā Buddhaṃ vandituṃ viharamhi sannipatanti.,Men assemble in the monastery to worship the Buddha.,Lay devotees assemble in the monastery to worship the Buddha.,Men assemble in the village to worship the Buddha.,Lay devotees assemble in the village to worship the Buddha.
+29,Manussā kassakānaṃ khettāni pavisituṃ araññasmā nikkhamanti.,Men leave the forest to enter the farmers' fields.,Jackals leave the forest to enter the farmers' fields.,Men leave the village to enter the farmers' fields.,Jackals leave the mountains to enter the farmers' fields.
+30,Manussā goṇe labhituṃ icchanti; vāṇijā asse labhituṃ icchanti.,Men wish to get oxen; merchants wish to get horses.,Farmers wish to get oxen; merchants wish to get horses.,Men wish to get oxen; merchants wish to get pigs.,Farmers wish to get oxen; merchants wish to get pigs.
+31,Sūkarā paṇṇāni khāditvā udakaṃ pātuṃ uyyāne āhiṇḍanti.,Pigs roam in the park to eat leaves and drink water.,Goats roam in the park to eat leaves and drink water.,Dogs roam in the park to eat leaves and drink water.,Horses roam in the park to eat leaves and drink water.
+32,nikkhamati,"she leaves, sets out",she begs,it touches,"he gives up, abandons"
+33,vasati,she lives,to play,to eat,she wanders
+34,vivarati,she opens,to bathe,he bites,to instruct
+35,pucchati,she questions,to wash,she comes,to sprinkle
+36,dhāvati,she runs,she drinks,she opens,to cross (water)
+37,passati,she sees,it breaks,he digs,to wash
+38,nisīdati,she sits,she comes,he washes,she eats
+39,tiṭṭhati,she stands,to plough,it sprinkles,he bites
+40,ādadāti,she takes,it puts,to touch,she stands
+41,āhiṇḍati,she wanders,it descends,he protects,"he worships, salutes"
+42,icchati,"she wishes, desires",it crosses (water),to cook,to drink
+43,Sappuriso gehaṃ āgamma putte anusāsituṃ icchati.,The good man wishes to come home and instruct his sons.,The lay devotee wishes to come home and instruct his sons.,The farmer wishes to come home and instruct his sons.,The hunter wishes to come home and instruct his sons.
+44,Luddako goṇānaṃ tiṇāni chindituṃ araññasmiṃ āhiṇḍati.,The hunter wanders in the forest to cut grass for his oxen.,The farmer wanders in the forest to cut grass for his oxen.,The hunter wanders in the forest to cut grass for his horses.,The farmer wanders in the forest to cut grass for his horses.
+45,Bhūpālo vihāraṃ gantvā Buddhena saha bhāsituṃ icchati.,The king wishes to go to the monastery and speak to the Buddha.,The deity wishes to go to the monastery and speak to the Buddha.,The king wishes to go to the palace and speak to the Buddha.,The deity wishes to go to the palace and speak to the Buddha.
+46,Amacco mātulassa mitānaṃ bhattaṃ pacituṃ icchati.,The minister wishes to cook rice for his uncle's friends.,The boy wishes to cook rice for his uncle's friends.,The minister wishes to cook rice for his son's friends.,The minister wishes to cook rice for his uncle's friends.
+47,Nāviko dhīvaraṃ pakkosituṃ gehasmā nikkhamati.,The sailor comes out of the house to call the fisherman.,The uncle comes out of the house to call the fisherman.,The sailor comes out of the house to call the washerman.,The uncle comes out of the house to call the washerman.
+48,Mātulo samuddaṃ tarituṃ vāṇije pakkosati.,The uncle calls merchants to cross the sea.,The sailor calls merchants to cross the sea.,The uncle calls hunters to cross the sea.,The sailor calls hunters to cross the sea.
+49,pajahituṃ ,to abandon,it sprinkles,he ploughs,to bathe
+50,nahāyituṃ  ,to bathe,she opens,to enter,to hit
+51,āharituṃ ,to bring,she descends,she questions,she gets up
+52,pakkosituṃ ,to call,he speaks,she eats,she runs
+53,saṃharituṃ ,to collect,to kill,it drags,he eats
+54,pacituṃ,to cook,he scolds,"she carries, take away","he gets, receives"
+55,tarituṃ ,to cross (water),he lives,to instruct,to cut
+56,chindituṃ  ,to cut,she enters,to live,to collect
+57,khaṇituṃ ,to dig,"he worships, salutes","he becomes glad, is pleased with",to sit
+58,pātuṃ,to drink,he walks,to play,he kills
+59,pātuṃ,to drink,she cuts,"he gets, receives",to kill
+60,bhuñjituṃ ,to eat,she falls,"he worships, salutes",he protects
+61,khādituṃ,to eat,it comes out (of water),"he calls, summons",it puts
+62,pavisituṃ ,to enter,he gives,he dances,she laughs
+63,labhituṃ ,to get,it dwells,to drink,he cooks
+64,dātuṃ,to give,to touch,to shoot,it crosses (water)
+65,gantuṃ,to go,he cries,to sit,to call
+66,paharituṃ ,to hit,to instruct,"she wishes, desires",he dances
+67,anusāsituṃ ,to instruct,to hit,he sleeps,he shoots
+68,hantuṃ ,to kill,to collect,it descends,she sees
+69,vasituṃ ,to live,"he gets, receives",he walks,it drags
+70,vandituṃ ,"to pay respect, worship",it plays,he eats,to bring
+71,kīḷituṃ ,to play,she lives,to see,it descends
+72,kasituṃ ,to plough,she stands,"he gives up, abandons",to enter
+73,ākaḍḍhituṃ  ,to pull,he cooks,she collects,she lives
+74,passituṃ ,to see,he eats,to dig,she goes
+75,vijjhituṃ ,to shoot,it bathes,he gives,he instructs
+76,nisīdituṃ  ,to sit,she brings,to wash,to eat
+77,bhāsituṃ ,to speak,"he becomes glad, is pleased with","it flies, jumps up",she drinks
+78,āsiñcituṃ  ,to sprinkle,"he calls, summons",to stand,she begs
+79,ṭhātuṃ,to stand,he ploughs,"she climbs, ascends",he gives
+80,phusituṃ ,to touch,to give,to bathe,he lives
+81,dhovituṃ  ,to wash,she questions,it puts,to abandon

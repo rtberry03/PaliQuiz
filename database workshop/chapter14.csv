@@ -1,0 +1,75 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,(so) pacissati,he will cook,I will cook,they will cook,we will cook
+2,(tvaṃ) pacissasi,you will cook,I will cook,we will cook,he will cook
+3,(ahaṃ) pacissāmi,I will cook,we will cook,you (pl) will cook,she will cook
+4,(te) pacissanti,they will cook,she will cook,you will cook,you (pl) will cook
+5,(tumhe) pacissatha,you (pl) will cook,I will cook,she will cook,we will cook
+6,(mayaṃ) pacissāma,we will cook,they will cook,you will cook,he will cook
+7,(so) coressati,he will steal,we will steal,they will steal,we will steal
+8,(tvaṃ) coressasi,you will steal,we will steal,I will steal,they will steal
+9,(ahaṃ) coressāmi,I will steal,we will steal,you (pl) will steal,you will steal
+10,(so) kiṇissati,he will buy,we will buy,they will buy,I will buy
+11,(tvaṃ) kiṇissasi,you will buy,she will buy,I will buy,we will buy
+12,(ahaṃ) kiṇissāmi,I will buy,we will buy,you will buy,you (pl) will buy
+13,(te) coressanti,they will steal,we will steal,I will steal,you will steal
+14,(tumhe) coressatha,you (pl) will steal,I will steal,we will steal,they will steal
+15,(mayaṃ) coressāma,we will steal,they will steal,I will steal,you will steal
+16,(te) kiṇissanti,they will buy,we will buy,he will buy,you will buy
+17,(tumhe) kiṇissatha,you (pl) will buy,you will buy,we will buy,I will buy
+18,(mayaṃ) kiṇissāma,we will buy,he will buy,they will buy,I will buy
+19,gamissati,he will go,we will go,they will go,I will go
+20,āgamissati,he will come,we will come,they will come,I will come
+21,dassati,he will give,we will give,they will give,I will give
+22,dadissati,he will give,we will give,they will give,I will give
+23,ṭhassati,he will stand,we will stand,they will stand,I will stand
+24,karissati,he will do,we will do,they will do,I will do
+25,āruhissati,he will climb,we will climb,they will climb,I will climb
+26,mantessati,he will discuss,we will discuss,they will discuss,I will discuss
+27,vikkiṇissāmi,I will sell,we will sell,they will sell,you will sell
+28,passissatha,you (pl) will see,you (s) will see,I will see,we will see
+29,āgamissati,he will come,we will come,they will come,I will come
+30,ānessasi,you will bring,I will bring,we will bring,they will bring
+31,ovadissatha,you (pl) will advise,I will advise,we will advise,you (s) will advise
+32,dassāmi,I will give,we will give,they will give,you (pl) will give
+33,pālessāma,we will rule,I will rule,you (s) will rule,they will rule
+34,akkosāmi,I scold,we scold,you (pl) scold,you (s) scold
+35,uggaṇhissāma,we will learn,I will learn,they will learn,you (pl) will learn
+36,ānesi,you bring,I bring,we bring,they bring
+37,passituṃ āka'nkhati,he hopes to see,I hope to see,we hope to see,they hope to see
+38,uppajjati,he is born,I am born,we are born,they are born
+39,vandati,he worships,I worship,we worship,they worship
+40,pariyesāma,we search,I will search,he will search,they will search
+41,asmi,I am,we are,they are,you are
+42,atthi,this is ,I am ,it is ,she is 
+43,olokessāma,we will see,I will see,they will see,he will see
+44,pūjessanti,they will honor,I will honor,she will honor,it will honor
+45,bhavissanti,they will become,I will become,we will become,you (pl) will become
+46,dassasi,you will give,I will give,he will give,they will give
+47,upasa'nkamissāmi,I will approach,we will approach,she will approach,it  will approach
+48,nisīdāmi,I sit,we sit,it sits,they sit
+49,anusāsanti,they admonish,I admonish,we admonish,you (pl) admonish
+50,so āruhissati.,he will climb,we will climb,I will climb,they will climb
+51,bhūpālo mantessati,the king will discuss,the king discusses,the minister will discuss,the minister discusses
+52,ahaṃ vikkiṇissāmi,I will sell,I sell,we sell,we will sell
+53,tumhe passissatha,you will see,he will see,I will see,they will see
+54,kassako āgamissati,the farmer will come,the merchant will come,the farmer comes,the merchant comes
+55,tvaṃ ānessasi,you will bring,he will bring,I will bring,she will bring
+56,tumhe ovadissatha,you will advise,we will advise,I will advise,I advise
+57,ahaṃ dassāmi,I will give,I give,we give,we will give
+58,mayaṃ bhūpālā pālessāma,we kings will rule,we kings rule,the kings will rule,the kings rule
+59,ahaṃ akkosāmi,I scold,we scold,you scold,he will scold
+60,mayaṃ uggaṇhissāma,we will learn,we learn,I will learn,you (pl) will learn
+61,tvaṃ ānesi,you bring,we bring,you will bring,they will bring
+62,tāpaso āka'nkhati,the ascetic hopes,the lay devotee hopes,the ascetics hope,the lay devotees hope
+63,upāsako uppajjati,the lay devotee is born,the king is born,the lay devotee will be born,the king will be born
+64,brāhmaṇo vandati,the brahmin worships,the brahmin will worship,the minister worships,the ministers worship
+65,mayaṃ pariyesāma,we search,I search,they search,he will search
+66,bhūpālo ahaṃ asmi,I am the king,he is the king,I will be the king,he will be the king
+67,vāṇijānaṃ dhanaṃ atthi,this is the merchants' money,this is the fishermen' money,this will be merchant's money,this is the fisherman's money
+68,mayaṃ olokessāma,we will see,we see,they will see,they see
+69,devā pūjessanti,gods will honor,gods honor,god honors,god will honor
+70,paṇḍitā upāsakā bhavissanti,the wise men will become lay devotees,the wise man will become a lay devotee,the lay devotees will become wise men,the lay devotee will become a wise man
+71,tvaṃ dassasi,you will give,he will give,I will give,they will give
+72,samaṇaṃ ahaṃ upasa'nkamissāmi,I approach the monk,I will approach the monk,he approaches the monk,we will approach the monk
+73,ahaṃ mañcasmiṃ nisīdāmi,I sit on the bed,I will sit on the bed,we sit on the bed,we will sit on the bed
+74,samaṇā manusse anusāsanti,the monks admonish the people,the monk will admonish the people,the monks will admonish the people,the people admonish the monks

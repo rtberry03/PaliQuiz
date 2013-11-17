@@ -1,0 +1,86 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,teacher (nom-s),garu,"garū, garavo",garunā,garūhi (garūbhi)
+2,O teacher,garu,"garū, garavo","garuno, garussa",garūnaṃ
+3,teacher (acc-s),garuṃ,"garū, garavo","garuno, garussa",garūnaṃ
+4,by means of the teacher,garunā,garūhi (garūbhi),"garumhi, garusmiṃ",garūsu
+5,from the teacher,garunā,garūhi (garūbhi),garu,"garū, garavo"
+6,for the teacher,"garuno, garussa",garūnaṃ,garu,"garū, garavo"
+7,of the teacher,"garuno, garussa",garūnaṃ,garuṃ,"garū, garavo"
+8,on the teacher,"garumhi, garusmiṃ",garūsu,garunā,garūhi (garūbhi)
+9,teachers (nom-p),"garū, garavo",garu,garūhi (garūbhi),garunā
+10,O teachers,"garū, garavo",garu,garūnaṃ,"garuno, garussa"
+11,teachers (acc-p),"garū, garavo",garuṃ,garūnaṃ,"garuno, garussa"
+12,by means of the teachers,garūhi (garūbhi),garunā,garūsu,"garumhi, garusmiṃ"
+13,from the teachers,garūhi (garūbhi),garunā,"garū, garavo",garu
+14,for the teachers,garūnaṃ,"garuno, garussa","garū, garavo",garu
+15,of the teachers,garūnaṃ,"garuno, garussa","garū, garavo",garuṃ
+16,on the teachers,garūsu,"garumhi, garusmiṃ",garūhi (garūbhi),garunā
+17,wise man (nom-s),vidū,"vidū, viduno",vidunā,vidūhi (vidūbhi)
+18,O wise man,vidū,"vidū, viduno","viduno, vidussa",vidūnaṃ
+19,wise man (acc-s),viduṃ,"vidū, viduno","viduno, vidussa",vidūnaṃ
+20,by means of the wise man,vidunā,vidūhi (vidūbhi),"vidumhi, vidusmiṃ",vidūsu
+21,from the wise man,vidunā,vidūhi (vidūbhi),vidū,"vidū, viduno"
+22,for the wise man,"viduno, vidussa",vidūnaṃ,vidū,"vidū, viduno"
+23,of the wise man,"viduno, vidussa",vidūnaṃ,viduṃ,"vidū, viduno"
+24,on the wise man,"vidumhi, vidusmiṃ",vidūsu,vidunā,vidūhi (vidūbhi)
+25,wise men (nom-p),"vidū, viduno",vidū,vidūhi (vidūbhi),vidunā
+26,O wise men,"vidū, viduno",vidū,vidūnaṃ,"viduno, vidussa"
+27,wise men (acc-p),"vidū, viduno",viduṃ,vidūnaṃ,"viduno, vidussa"
+28,by means of the wise men,vidūhi (vidūbhi),vidunā,vidūsu,"vidumhi, vidusmiṃ"
+29,from the wise men,vidūhi (vidūbhi),vidunā,"vidū, viduno",vidū
+30,for the wise men,vidūnaṃ,"viduno, vidussa","vidū, viduno",vidū
+31,of the wise men,vidūnaṃ,"viduno, vidussa","vidū, viduno",viduṃ
+32,on the wise men,vidūsu,"vidumhi, vidusmiṃ",vidūhi (vidūbhi),vidunā
+33,monk,bhikkhu,sattu,sabbaññū,vadaññū
+34,relation,bandhu,setu,viññū,atthaññū
+35,tree,taru,ketu,vadaññū,mattaññū
+36,arm,bahu,susu,atthaññū,sabbaññū
+37,sea,sindhu,pabhū,mattaññū,viññū
+38,axe,pharasu,sabbaññū,sattu,susu
+39,beast,pasu,viññū,setu,pabhū
+40,rat,ākhu,vadaññū,ketu,sattu
+41,sugar cane,ucchu,atthaññū,susu,setu
+42,bamboo,veḷu,mattaññū,pabhū,ketu
+43,spoon,kaṭacchu,bhikkhu,pasu,veḷu
+44,enemy,sattu,bandhu,ākhu,kaṭacchu
+45,bridge,setu,taru,ucchu,pasu
+46,banner,ketu,bahu,veḷu,ākhu
+47,young one,susu,sindhu,kaṭacchu,ucchu
+48,eminent person,pabhū,pharasu,bhikkhu,bahu
+49,omniscient one,sabbaññū,pasu,bandhu,sindhu
+50,wise man,viññū,ākhu,taru,pharasu
+51,philanthropist,vadaññū,ucchu,bahu,bhikkhu
+52,benevolent man,atthaññū,veḷu,sindhu,bandhu
+53,moderate or abstemious man,mattaññū,kaṭacchu,pharasu,taru
+54,monk (nom-s),bhikkhu,"bhikkhū, bhikkhavo",bhikkhunā,bhikkhūhi (bhikkhūbhi)
+55,O monk,bhikkhu,"bhikkhū, bhikkhavo","bhikkhuno, bhikkhussa",bhikkhūnaṃ
+56,monk (acc-s),bhikkhuṃ,"bhikkhū, bhikkhavo","bhikkhuno, bhikkhussa",bhikkhūnaṃ
+57,by means of the monk,bhikkhunā,bhikkhūhi (bhikkhūbhi),"bhikkhumhi, bhikkhusmiṃ",bhikkhūsu
+58,from the monk,bhikkhunā,bhikkhūhi (bhikkhūbhi),bhikkhu,"bhikkhū, bhikkhavo"
+59,for the monk,"bhikkhuno, bhikkhussa",bhikkhūnaṃ,bhikkhu,"bhikkhū, bhikkhavo"
+60,of the monk,"bhikkhuno, bhikkhussa",bhikkhūnaṃ,bhikkhuṃ,"bhikkhū, bhikkhavo"
+61,on the monk,"bhikkhumhi, bhikkhusmiṃ",bhikkhūsu,bhikkhunā,bhikkhūhi (bhikkhūbhi)
+62,monks (nom-p),"bhikkhū, bhikkhavo",bhikkhu,bhikkhūhi (bhikkhūbhi),bhikkhunā
+63,O monks,"bhikkhū, bhikkhavo",bhikkhu,bhikkhūnaṃ,"bhikkhuno, bhikkhussa"
+64,monks (acc-p),"bhikkhū, bhikkhavo",bhikkhuṃ,bhikkhūnaṃ,"bhikkhuno, bhikkhussa"
+65,by means of the monks,bhikkhūhi (bhikkhūbhi),bhikkhunā,bhikkhūsu,"bhikkhumhi, bhikkhusmiṃ"
+66,from the monks,bhikkhūhi (bhikkhūbhi),bhikkhunā,"bhikkhū, bhikkhavo",bhikkhu
+67,for the monks,bhikkhūnaṃ,"bhikkhuno, bhikkhussa","bhikkhū, bhikkhavo",bhikkhu
+68,of the monks,bhikkhūnaṃ,"bhikkhuno, bhikkhussa","bhikkhū, bhikkhavo",bhikkhuṃ
+69,on the monks,bhikkhūsu,"bhikkhumhi, bhikkhusmiṃ",bhikkhūhi (bhikkhūbhi),bhikkhunā
+70,omniscient one (nom-s),sabbaññū,"sabbaññū, sabbaññuno",sabbaññunā,sabbaññūhi (sabbaññūbhi)
+71,O omniscient one,sabbaññū,"sabbaññū, sabbaññuno","sabbaññuno, sabbaññussa",sabbaññūnaṃ
+72,omniscient one (acc-s),sabbaññuṃ,"sabbaññū, sabbaññuno","sabbaññuno, sabbaññussa",sabbaññūnaṃ
+73,by means of the omniscient one,sabbaññunā,sabbaññūhi (sabbaññūbhi),"sabbaññumhi, sabbaññusmiṃ",sabbaññūsu
+74,from the omniscient one,sabbaññunā,sabbaññūhi (sabbaññūbhi),sabbaññū,"sabbaññū, sabbaññuno"
+75,for the omniscient one,"sabbaññuno, sabbaññussa",sabbaññūnaṃ,sabbaññū,"sabbaññū, sabbaññuno"
+76,of the omniscient one,"sabbaññuno, sabbaññussa",sabbaññūnaṃ,sabbaññuṃ,"sabbaññū, sabbaññuno"
+77,on the omniscient one,"sabbaññumhi, sabbaññusmiṃ",sabbaññūsu,sabbaññunā,sabbaññūhi (sabbaññūbhi)
+78,omniscient ones (nom-p),"sabbaññū, sabbaññuno",sabbaññū,sabbaññūhi (sabbaññūbhi),sabbaññunā
+79,O omniscient ones,"sabbaññū, sabbaññuno",sabbaññū,sabbaññūnaṃ,"sabbaññuno, sabbaññussa"
+80,omniscient ones (acc-p),"sabbaññū, sabbaññuno",sabbaññuṃ,sabbaññūnaṃ,"sabbaññuno, sabbaññussa"
+81,by means of the omniscient ones,sabbaññūhi (sabbaññūbhi),sabbaññunā,sabbaññūsu,"sabbaññumhi, sabbaññusmiṃ"
+82,from the omniscient ones,sabbaññūhi (sabbaññūbhi),sabbaññunā,"sabbaññū, sabbaññuno",sabbaññū
+83,for the omniscient ones,sabbaññūnaṃ,"sabbaññuno, sabbaññussa","sabbaññū, sabbaññuno",sabbaññū
+84,of the omniscient ones,sabbaññūnaṃ,"sabbaññuno, sabbaññussa","sabbaññū, sabbaññuno",sabbaññuṃ
+85,on the omniscient ones,sabbaññūsu,"sabbaññumhi, sabbaññusmiṃ",sabbaññūhi (sabbaññūbhi),sabbaññunā

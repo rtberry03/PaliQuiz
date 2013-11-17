@@ -38,7 +38,14 @@ public class Constants {
 	public static final int CH_28 = 28;
 	public static final int CH_29 = 29;
 	public static final int CH_30 = 30;
-	public static final int CH_61 = 61;
+	public static final int CH_31 = 31;
+	public static final int CH_32 = 32;
+	public static final int CH_061 = 61;
+	public static final int CH_111 = 111;
+	public static final int CH_131 = 131;
+	public static final int CH_291 = 291;
+	public static final int CH_321 = 321;
+	public static final int CH_322 = 322;
 
 	
 	public static final int PLAYBUTTON = Menu.FIRST;

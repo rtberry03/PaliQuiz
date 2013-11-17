@@ -1,0 +1,51 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,I (nom-s),ahaṃ,"tvaṃ, tuvaṃ","mayaṃ, amhe",tumhe
+2,me (acc-s) ,"maṃ, mamaṃ","taṃ, tavaṃ, tuvaṃ","amhe, amhākaṃ, no","tumhe, tumhākaṃ, vo"
+3,by me (ins-s),"mayā, me","tvayā, tayā, te","amhehi, no","tumhehi, vo"
+4,from me (abl-s),mayā,"tvayā, tayā",amhehi,"tumhehi, vo"
+5,for me (dat-s),"mama, mayhaṃ, mamaṃ, me","tava,tuyhaṃ, te","amhaṃ, amhākaṃ, no","tumhaṃ, tumhākaṃ, vo"
+6,of me (gen-s),"mama, mayhaṃ, mamaṃ, me","tava, tuyhaṃ, te","amhaṃ, amhākaṃ, no","tumhaṃ, tumhākaṃ, vo"
+7,on me (loc-s),mayi,"tvayi, tayi",amhesu,tumhesu
+8,we (nom-p),"mayaṃ, amhe",tumhe,ahaṃ,"tvaṃ, tuvaṃ"
+9,us (acc-p) ,"amhe, amhākaṃ, no","tumhe, tumhākaṃ, vo","maṃ, mamaṃ","taṃ, tavaṃ, tuvaṃ"
+10,by us (ins-p),"amhehi, no","tumhehi, vo","mayā, me","tvayā, tayā, te"
+11,from us (abl-p),amhehi,"tumhehi, vo",mayā,"tvayā, tayā"
+12,for us (dat-p),"amhaṃ, amhākaṃ, no","tumhaṃ, tumhākaṃ, vo","mama, mayhaṃ, mamaṃ, me","tava,tuyhaṃ, te"
+13,of us (gen-p),"amhaṃ, amhākaṃ, no","tumhaṃ, tumhākaṃ, vo","mama, mayhaṃ, mamaṃ, me","tava, tuyhaṃ, te"
+14,on us (loc-p),amhesu,tumhesu,mayi,"tvayi, tayi"
+15,you (nom-s),"tvaṃ, tuvaṃ",ahaṃ,tumhe,"mayaṃ, amhe"
+16,you  (acc-s) ,"taṃ, tavaṃ, tuvaṃ","maṃ, mamaṃ","tumhe, tumhākaṃ, vo","amhe, amhākaṃ, no"
+17,by you (ins-s),"tvayā, tayā, te","mayā, me","tumhehi, vo","amhehi, no"
+18,from you (abl-s),"tvayā, tayā",mayā,"tumhehi, vo",amhehi
+19,for you (dat-s),"tava,tuyhaṃ, te","mama, mayhaṃ, mamaṃ, me","tumhaṃ, tumhākaṃ, vo","amhaṃ, amhākaṃ, no"
+20,of you (gen-s),"tava, tuyhaṃ, te","mama, mayhaṃ, mamaṃ, me","tumhaṃ, tumhākaṃ, vo","amhaṃ, amhākaṃ, no"
+21,on you (loc-s),"tvayi, tayi",mayi,tumhesu,amhesu
+22,you (nom-p),tumhe,"mayaṃ, amhe","tvaṃ, tuvaṃ",ahaṃ
+23,you (acc-p) ,"tumhe, tumhākaṃ, vo","amhe, amhākaṃ, no","taṃ, tavaṃ, tuvaṃ","maṃ, mamaṃ"
+24,by you (ins-p),"tumhehi, vo","amhehi, no","tvayā, tayā, te","mayā, me"
+25,from you (abl-p),"tumhehi, vo",amhehi,"tvayā, tayā",mayā
+26,for you (dat-p),"tumhaṃ, tumhākaṃ, vo","amhaṃ, amhākaṃ, no","tava,tuyhaṃ, te","mama, mayhaṃ, mamaṃ, me"
+27,of you (gen-p),"tumhaṃ, tumhākaṃ, vo","amhaṃ, amhākaṃ, no","tava, tuyhaṃ, te","mama, mayhaṃ, mamaṃ, me"
+28,on you (loc-p),tumhesu,amhesu,"tvayi, tayi",mayi
+29,mama ācariyo,my teacher,your teacher,our teachers,our teacher
+30,mayhaṃ bhaginī,my sister,your sister,our sister,our sisters
+31,amhe bhojāpesuṃ,fed us,fed you,fed me,feed me
+32,tumhākaṃ dhītaro,your daughters,our daughters,my daughters,my daughter
+33,amhākaṃ dhītaro ,our daughters,my daughters,our daughter,my daughter
+34,amhaṃ kammāni karontā,doing work for us,doing work for me,doing work for you,doing our work
+35,amhehi katāni puññān,merit done by us,merit done by you,merit done by me,merit done for us
+36,tayā kītāni bhaṇḍāni,the goods bought by you,the goods bought to you,the goods bought for you,the goods bought by us
+37,tava dhītā,your daughter ,our daughter ,your daughters ,our daughters
+38,amhākaṃ bhattāro,our husbands,your husbands,our husband,your husband
+39,amhaṃ bhūpatayo,our kings,your kings,our king,your king
+40,tumhākaṃ nattāro,your grandsons,our grandsons,your grandson,our grandson
+41,mama bhātaro,my brothers,our brothers,your brothers,my brother
+42,Ahaṃ tava na kujjhāmi.,I am not angry with you.,I am angry with you.,You are not angry with me.,You are angry with me.
+43,Tvaṃ me kujjhasi.,You are angry with me.,You are not angry with me.,I am angry with me.,I am angry with you.
+44,amhākaṃ sattuno,our enemy,your enemy,myr enemy,our enemies
+45,Ahaṃ tayā saddhiṃ kathetuṃ na sakkomi.,I am not able to speak with you.,I am able to speak with you.,I am not able to see you.,I am able to see you.
+46,Ahaṃ tava chāyaṃ passituṃ sakkomi.,I can see your shadow.,You can see my shadow.,I can see my shadow.,You can see your shadow.
+47,Mayaṃ sappiṃ labhāma.,We get ghee.,We get milk.,We get curds.,We get nothing.
+48,amhe passitvā,having seen us,having seen me,having seen you,seen by us
+49,tumhehi āhaṭāni cīvarāni,robes brought by you,robes brought for you,robes brought for me,robes brought by me
+50,bhātuno puttā,brother's sons,brother's son,sister's sons,brothers' son

@@ -1,0 +1,90 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,So coreti ,she steals,she covers,she thinks,she speaks
+2,Tvaṃ coresi ,you steal,you cover,you think,you speak
+3,Ahaṃ coremi ,I steal,I cover,I think,I speak
+4,Te corenti ,they steal,they cover,they think,they speak
+5,Tumhe coretha ,you (pl) steal,you (pl) cover,you (pl) think,you (pl) speak
+6,Mayaṃ corema ,we steal,we cover,we think,we speak
+7,So corayati ,she steals,she covers,she thinks,she speaks
+8,Tvaṃ corayasi ,you steal,you cover,you think,you speak
+9,Ahaṃ corayāmi ,I steal,I cover,I think,I speak
+10,Te corayanti ,they steal,they cover,they think,they speak
+11,Tumhe corayatha ,you (pl) steal,you (pl) cover,you (pl) think,you (pl) speak
+12,Mayaṃ corayāma ,we steal,we cover,we think,we speak
+13,deseti,he preaches,he looks at,he keeps,he avoids
+14,cinteti,he thinks,he kindles,he fells,he illuminates
+15,pūjeti,"he honours, offers",he covers,"he rules, governs",he gives
+16,pūreti,he fills,he kills,he avoids,he keeps
+17,pīḷeti,he oppresses,"he leads, takes away",he illuminates,he fells
+18,katheti,he speaks,he brings,he gives,"he rules, governs"
+19,uḍḍeti,he flies,he keeps,he looks at,he kills
+20,udeti,he (sun or moon) rises,he fells,he kindles,"he leads, takes away"
+21,ropeti,he plants,"he rules, governs",he covers,he brings
+22,manteti,"he discusses, takes counsel",he avoids,he kills,he looks at
+23,āmanteti,he addresses,he illuminates,"he leads, takes away",he kindles
+24,nimanteti,he invites,he gives,he brings,he covers
+25,oloketi,he looks at,he preaches,he flies,"he discusses, takes counsel"
+26,jāleti,he kindles,he covers,he (sun or moon) rises,he addresses
+27,chādeti,he covers,"he honours, offers",he plants,he invites
+28,māreti,he kills,he fills,"he discusses, takes counsel",he flies
+29,neti,"he leads, takes away",he oppresses,he addresses,he (sun or moon) rises
+30,āneti,he brings,he speaks,he invites,he plants
+31,ṭhapeti,he keeps,he flies,he preaches,he fills
+32,pāteti,he fells,he (sun or moon) rises,he covers,he oppresses
+33,pāleti,"he rules, governs",he plants,"he honours, offers",he speaks
+34,parivajjeti,he avoids,"he discusses, takes counsel",he fills,he preaches
+35,obhāseti,he illuminates,he addresses,he oppresses,he covers
+36,deti,he gives,he invites,he speaks,"he honours, offers"
+37,dadāti,he gives,he invites,he speaks,"he honours, offers"
+38,So kiṇāti ,he buys,he wins,he sells,he takes
+39,Tvaṃ kiṇāsi ,you buy,you win,you sell,you take
+40,Ahaṃ kiṇāmi ,I buy,I win,I sell,I take
+41,Te kiṇanti ,they buy,they win,they sell,they take
+42,Tumhe kiṇātha ,you (pl) buy,you (pl) win,you (pl) sell,you (pl) take
+43,Mayaṃ kiṇāma ,we buy,we win,we sell,we take
+44,vikkiṇāti,she sells,she knows,she reaches,"she picks, collects"
+45,suṇāti,she hears,she wins,"she picks, collects",she sends
+46,mināti,she measures,she reaches,she sends,we reach
+47,gaṇhāti,she takes,"she picks, collects",she knows,she wins
+48,uggaṇhāti,she learns,she sends,she wins,she knows
+49,jānāti,she knows,she sells,she measures,she takes
+50,jināti,she wins,she hears,she takes,she learns
+51,pāpuṇāti / pappoti,she reaches,they measure,she learns,she measures
+52,ocināti,"she picks, collects",she takes,she sells,she hears
+53,pahiṇāti,she sends,she learns,she hears,she sells
+54,ñatvā,having known,she knows,having reached,he reaches
+55,jānitvā ,having known,she knows,having reached,he reaches
+56,sutvā,having heard,he hears,having taken,it iakes
+57,suṇitvā ,having heard,he hears,having taken,it takes
+58,patvā,having reached,he reaches,having known,she knows
+59,pāpuṇitvā ,having reached,he reaches,having known,she knows
+60,gahetvā,having taken,it iakes,having heard,he hears
+61,gaṇhitvā ,having taken,it takes,having heard,he hears
+62,ñātuṃ ,to know,he knows,to reach,he reaches
+63,sotuṃ,to hear,she hears,to reach,she reaches
+64,suṇituṃ ,to hear,it hears,to take,it takes
+65,pāpuṇituṃ,to reach,he reaches,to take,he takes
+66,pappotuṃ ,to reach,she reaches,to know,he knows
+67,gahetuṃ,to take,it takes,to hear,she hears
+68,gaṇhituṃ ,to take,he takes,to hear,it hears
+69,bhavitvā,having been,he was,to be,he is
+70,hutvā ,having been,she was,to be,she is
+71,katvā ,having done,it did,to do,it does
+72,bhavituṃ,to be,he is,having been,he was
+73,hotuṃ ,to be,she is,having been,she was
+74,kātuṃ ,to do,it does,having done,it did
+75,atthi ,he is,she does,they do,she reaches
+76,asi ,you are,you do,you (pl) do,it takes
+77,asmi / amhi ,I am,I do,we do,he takes
+78,santi ,they are,they do,she does,he knows
+79,attha ,you (pl) are,you (pl) do,you do,she hears
+80,asma / amha ,we are,we do,I do,it hears
+81,karoti ,she does,he is,they are,he was
+82,karosi ,you do,you are,you (pl) are,she is
+83,karomi ,I do,I am,we are,it does
+84,karonti ,they do,they are,he is,he was
+85,karotha ,you (pl) do,you (pl) are,you are,she was
+86,karoma ,we do,we are,I am,it did
+87,hoti,it is,it was,it did,it hears
+88,bhavati,it is,it was,it did,it hears
+89,karoti ,it does,it did,it was,it ihears

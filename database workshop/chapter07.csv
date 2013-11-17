@@ -1,0 +1,82 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,āhiṇḍati,she wanders,he lives,it crosses (water),it comes out (of water)
+2,carati,he walks,she stands,it comes out (of water),"he becomes glad, is pleased with"
+3,nisīdati,she sits,"it flies, jumps up","he becomes glad, is pleased with",it crosses (water)
+4,sannipatati,he assembles,it crosses (water),he lives,she stands
+5,viharati,it dwells,it comes out (of water),she stands,"it flies, jumps up"
+6,vasati,she lives,"he becomes glad, is pleased with","it flies, jumps up",he lives
+7,jīvati,he lives,she wanders,he assembles,it dwells
+8,tiṭṭhati,she stands,he walks,it dwells,she lives
+9,uppatati,"it flies, jumps up",she sits,she lives,he assembles
+10,tarati,it crosses (water),he assembles,she wanders,he walks
+11,uttarati,it comes out (of water),it dwells,he walks,she sits
+12,pasīdati,"he becomes glad, is pleased with",she lives,she sits,she wanders
+13,Buddhassa sāvakā dīpasmiṃ sannipatanti.,Disciples of the Buddha assemble on the island.,Disciples of the Buddha assemble in the monastery.,Disciples of the Buddha come from the island.,Disciples of the Buddha come from the monastery.
+14,Luddako amaccānaṃ sāṭake dhovati.,The hunter washes the garments of the ministers.,The washerman washes the garments of the ministers.,The hunter washes the minister's garment.,The washerman washes the minister's garment.
+15,Kākā ākāsamhi uppatanti.,Crows fly in the sky.,Birds fly in the sky.,Crows fly to the tree.,Birds fly to the tree.
+16,Asappuriso nāvikena saha samuddamhā uttarati.,The wicked man comes out of the sea together with the sailor.,The virtuous man comes out of the sea together with the sailor.,The wicked man comes out of the sea together with the fisherman.,The virtuous man comes out of the sea together with the fisherman.
+17,Bhūpālā Buddhassa sāvakesu pasīdanti.,Kings are pleased with the Buddha's disciples.,Deities are pleased with the Buddha's disciples.,Ministers are pleased with the Buddha's disciples.,Messengers are pleased with the Buddha's disciples.
+18,Sakuṇā nāvikehi saha samuddaṃ taranti.,Birds cross the sea together with sailors.,Merchants cross the sea together with sailors.,Birds cross the sea together with messengers.,Merchants cross the sea together with messengers.
+19,Vejjo sappamhā kukkuraṃ rakkhati.,The doctor protects the dog from the serpent.,The good man protects the dog from the serpent.,The doctor protects the parrot from the serpent.,The good man protects the parrot from the serpent.
+20,Sakuṇā pabbatasmiṃ rukkehi uppatanti.,Birds fly from trees in the mountain.,Crows fly from trees in the mountain.,Birds perch in trees in the mountain.,Crows perch in trees in the mountain.
+21,Vānaro dhīvarassa piṭakasmā macchaṃ ākaḍḍhati.,The monkey pulls a fish from the fisherman's basket.,The pig pulls a fish from the fisherman's basket.,The monkey pulls a fish from the merchant's basket.,The pig pulls a fish from the merchant's basket.
+22,Suriyassa āloko lokamhi asappurisesu patati.,The light of the sun falls on the wicked men in the world.,The light of the sun falls on the men in the world.,The light of the sun falls on the virtuous men in the world.,The light of the sun falls on the children in the world.
+23,Kākā ākāsena gacchanti.,Crows go through the sky.,Deities go through the sky.,Birds go through the sky.,Parrots go through the sky.
+24,Sigālā kukkurena saddhiṃ maggasmiṃ kīḷanti.,Jackals play with the dog on the road.,Children play with the dog on the road.,Jackals play with the dog on the mountain.,Children play with the dog on the mountain.
+25,Sappuriso rukkhamhā makkaṭaṃ ākaḍḍhati.,The virtuous man drags a monkey from the tree.,The wicked man drags a monkey from the tree.,The virtuous man drags a parrot from the tree.,The wicked man drags a parrot from the tree.
+26,Mātulassa dūto assasmā oruhati.,The uncle's messenger gets down from the horse.,The king's messenger gets down from the horse.,The uncle's messengers get down from the horses.,The king's messengers get down from the horses.
+27,nāviko,sailor (nom-s),crow (nom-s),wicked man (nom-s),messenger (nom-s)
+28,ākāso,sky (nom-s),house (nom-s),body (nom-s),"ox, bull (nom-s)"
+29,samuddo,"ocean, sea (nom-s)",virtuous man (nom-s),messenger (nom-s),wicked man (nom-s)
+30,devo,"deity, god (nom-s)",wicked man (nom-s),"ox, bull (nom-s)",body (nom-s)
+31,suro,"deity, god (nom-s)",body (nom-s),crow (nom-s),house (nom-s)
+32,loko,world (nom-s),messenger (nom-s),house (nom-s),"ox, bull (nom-s)"
+33,āloko,light (nom-s),"ox, bull (nom-s)",virtuous man (nom-s),crow (nom-s)
+34,sakuṇo,bird (nom-s),sailor (nom-s),"deity, god (nom-s)",light (nom-s)
+35,kāko,crow (nom-s),sky (nom-s),world (nom-s),bird (nom-s)
+36,nivāso,house (nom-s),"ocean, sea (nom-s)",light (nom-s),"deity, god (nom-s)"
+37,sappuriso,virtuous man (nom-s),"deity, god (nom-s)",bird (nom-s),world (nom-s)
+38,asappuriso,wicked man (nom-s),"deity, god (nom-s)",sailor (nom-s),"ocean, sea (nom-s)"
+39,kāyo,body (nom-s),world (nom-s),sky (nom-s),"deity, god (nom-s)"
+40,dūto,messenger (nom-s),light (nom-s),"ocean, sea (nom-s)",sailor (nom-s)
+41,goṇo,"ox, bull (nom-s)",bird (nom-s),"deity, god (nom-s)",sky (nom-s)
+42,nāvike,at the sailor (loc-s),in the crow (loc-s),at the wicked man (loc-s),at the messenger (loc-s)
+43,ākāse,in the sky (loc-s),in the house (loc-s),on the body (loc-s),"at the ox, bull (loc-s)"
+44,samudde,"in the ocean, sea (loc-s)",at the virtuous man (loc-s),at the messenger (loc-s),at the wicked man (loc-s)
+45,deve,"at the deity, god (loc-s)",at the wicked man (loc-s),"at the ox, bull (loc-s)",on the body (loc-s)
+46,sure,"at the deity, god (loc-s)",on the body (loc-s),at the crow (loc-s),in the house (loc-s)
+47,loke,in the world (loc-s),at the messenger (loc-s),in the house (loc-s),"at the ox, bull (loc-s)"
+48,āloke,in the light (loc-s),"at the ox, bull (loc-s)",at the virtuous man (loc-s),at the crow (loc-s)
+49,sakuṇe,at the bird (loc-s),at the sailor (loc-s),"at the deity, god (loc-s)",in the light (loc-s)
+50,kāke,at the crow (loc-s),in the sky (loc-s),in the world (loc-s),at the bird (loc-s)
+51,nivāse,in the house (loc-s),"in the ocean, sea (loc-s)",at the light (loc-s),"at the deity, god (loc-s)"
+52,lokamhi,in the world (loc-s),at the messenger (loc-s),in the house (loc-s),"at the ox, bull (loc-s)"
+53,ālokamhi,in the light (loc-s),"at the ox, bull (loc-s)",at the virtuous man (loc-s),at the crow (loc-s)
+54,sakuṇamhi,at the bird (loc-s),at the sailor (loc-s),"at the deity, god (loc-s)",in the light (loc-s)
+55,kākamhi,at the crow (loc-s),in the sky (loc-s),in the world (loc-s),at the bird (loc-s)
+56,nivāsamhi,in the house (loc-s),"in the ocean, sea (loc-s)",at the light (loc-s),"at the deity, god (loc-s)"
+57,sappurisamhi,on the virtuous man (loc-s),"at the deity, god (loc-s)",at the bird (loc-s),in the world (loc-s)
+58,asappurisamhi,at the wicked man (loc-s),"at the deity, god (loc-s)",at the sailor (loc-s),"in the ocean, sea (loc-s)"
+59,kāyamhi,in  the body (loc-s),in the world (loc-s),in the sky (loc-s),"at the deity, god (loc-s)"
+60,dūtamhi,at the messenger (loc-s),at the light (loc-s),"on the ocean, sea (loc-s)",at the sailor (loc-s)
+61,goṇamhi,"on the ox, bull (loc-s)",on the bird (loc-s),"on the deity, god (loc-s)",in the sky (loc-s)
+62,nāvikasmiṃ,at the sailor (loc-s),in the crow (loc-s),at the wicked man (loc-s),at the messenger (loc-s)
+63,ākāsasmiṃ,in the sky (loc-s),in the house (loc-s),on the body (loc-s),"at the ox, bull (loc-s)"
+64,samuddasmiṃ,"in the ocean, sea (loc-s)",at the virtuous man (loc-s),at the messenger (loc-s),at the wicked man (loc-s)
+65,devasmiṃ,"at the deity, god (loc-s)",at the wicked man (loc-s),"at the ox, bull (loc-s)",on the body (loc-s)
+66,surasmiṃ,"at the deity, god (loc-s)",on the body (loc-s),at the crow (loc-s),in the house (loc-s)
+67,sappurisasmiṃ,on the virtuous man (loc-s),"at the deity, god (loc-s)",at the bird (loc-s),in the world (loc-s)
+68,asappurisasmiṃ,at the wicked man (loc-s),"at the deity, god (loc-s)",at the sailor (loc-s),"in the ocean, sea (loc-s)"
+69,kāyasmiṃ,in  the body (loc-s),in the world (loc-s),in the sky (loc-s),"at the deity, god (loc-s)"
+70,dūtasmiṃ,at the messenger (loc-s),at the light (loc-s),"on the ocean, sea (loc-s)",at the sailor (loc-s)
+71,goṇasmiṃ,"on the ox, bull (loc-s)",on the bird (loc-s),"on the deity, god (loc-s)",in the sky (loc-s)
+72,nāvikesu,at the sailors (loc-p),in the crows (loc-p),at the wicked men (loc-p),at the messengers (loc-p)
+73,ākāsesu,in the skies (loc-p),in the houses (loc-p),on the bodies (loc-p),"at the oxen, bulls (loc-p)"
+74,samuddesu,"in the oceans, seas (loc-p)",at the virtuous men (loc-p),at the messengers (loc-p),at the wicked men (loc-p)
+75,devesu,"at the deities, gods (loc-p)",at the wicked men (loc-p),"at the oxen, bulls (loc-p)",on the bodies (loc-p)
+76,suresu,"at the deities, gods (loc-p)",on the bodies (loc-p),at the crows (loc-p),in the houses (loc-p)
+77,lokesu,in the worlds (loc-p),at the messengers (loc-p),in the houses (loc-p),"at the oxen, bulls (loc-p)"
+78,ālokesu,in the lights (loc-p),"at the oxen, bulls (loc-p)",at the virtuous men (loc-p),at the crows (loc-p)
+79,sakuṇesu,at the birds (loc-p),at the sailors (loc-p),"at the deitys, gods (loc-p)",in the lights (loc-p)
+80,kākesu,at the crows (loc-p),in the skies (loc-p),in the worlds (loc-p),at the birds (loc-p)
+81,nivāsesu,in the houses (loc-p),"in the oceans, seas (loc-p)",at the lights (loc-p),at the deities gods (loc-p)

@@ -1,0 +1,63 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,bird (nom-s),pakkhī,pakkhī / pakkhino,pakkhinā / pakkhimhā / pakkhismā,pakkhīhi (pakkhībhi)
+2,O bird,pakkhī,pakkhī / pakkhino,pakkhino / pakkhissa,pakkhīnaṃ
+3,bird (acc-s),pakkhinaṃ / pakkhiṃ,pakkhī / pakkhino,pakkhino / pakkhissa,pakkhīnaṃ
+4,by means of the bird,pakkhinā,pakkhīhi (pakkhībhi),pakkhini / pakkhimhi / pakkhismiṃ,pakkhīsu
+5,from the bird,pakkhinā / pakkhimhā / pakkhismā,pakkhīhi (pakkhībhi),pakkhī,pakkhī / pakkhino
+6,for the bird,pakkhino / pakkhissa,pakkhīnaṃ,pakkhī,pakkhī / pakkhino
+7,of the bird,pakkhino / pakkhissa,pakkhīnaṃ,pakkhinaṃ / pakkhiṃ,pakkhī / pakkhino
+8,on the bird,pakkhini / pakkhimhi / pakkhismiṃ,pakkhīsu,pakkhinā,pakkhīhi (pakkhībhi)
+9,birds (nom-p),pakkhī / pakkhino,pakkhī,pakkhīhi (pakkhībhi),pakkhinā / pakkhimhā / pakkhismā
+10,O birds,pakkhī / pakkhino,pakkhī,pakkhīnaṃ,pakkhino / pakkhissa
+11,birds (acc-p),pakkhī / pakkhino,pakkhinaṃ / pakkhiṃ,pakkhīnaṃ,pakkhino / pakkhissa
+12,by means of the birds,pakkhīhi (pakkhībhi),pakkhinā,pakkhīsu,pakkhini / pakkhimhi / pakkhismiṃ
+13,from the birds,pakkhīhi (pakkhībhi),pakkhinā / pakkhimhā / pakkhismā,pakkhī / pakkhino,pakkhī
+14,for the birds,pakkhīnaṃ,pakkhino / pakkhissa,pakkhī / pakkhino,pakkhī
+15,of the birds,pakkhīnaṃ,pakkhino / pakkhissa,pakkhī / pakkhino,pakkhinaṃ / pakkhiṃ
+16,on the birds,pakkhīsu,pakkhini / pakkhimhi / pakkhismiṃ,pakkhīhi (pakkhībhi),pakkhinā
+17,elephant,hatthī / karī,dāṭhī,vaḍḍhakī,kuṭṭhī
+18,"lord, husband",sāmī,dīghajīvī,sārathī,pāpakārī
+19,banker,seṭṭhī,balī,kuṭṭhī,vaḍḍhakī
+20,one who is happy,sukhī,vaḍḍhakī,pāpakārī,sārathī
+21,minister,mantī,sārathī,dāṭhī,balī
+22,peacock,sikhī,kuṭṭhī,dīghajīvī,dāṭhī
+23,living being,pāṇī,pāpakārī,balī,dīghajīvī
+24,tusker,dāṭhī,hatthī / karī,sukhī,sikhī
+25,one with long life,dīghajīvī,sāmī,mantī,pāṇī
+26,powerful one,balī,seṭṭhī,sikhī,sukhī
+27,carpenter,vaḍḍhakī,sukhī,pāṇī,mantī
+28,charioteer,sārathī,mantī,hatthī / karī,seṭṭhī
+29,leper,kuṭṭhī,sikhī,sāmī,hatthī / karī
+30,evil doer,pāpakārī,pāṇī,seṭṭhī,sāmī
+31,tusker (nom-s),dāṭhī,dāṭhī / dāṭhino,dāṭhinā / dāṭhimhā / dāṭhismā,dāṭhīhi (dāṭhībhi)
+32,O tusker,dāṭhī,dāṭhī / dāṭhino,dāṭhino / dāṭhissa,dāṭhīnaṃ
+33,tusker (acc-s),dāṭhinaṃ / dāṭhiṃ,dāṭhī / dāṭhino,dāṭhino / dāṭhissa,dāṭhīnaṃ
+34,by means of the tusker,dāṭhinā,dāṭhīhi (dāṭhībhi),dāṭhini / dāṭhimhi / dāṭhismiṃ,dāṭhīsu
+35,from the tusker,dāṭhinā / dāṭhimhā / dāṭhismā,dāṭhīhi (dāṭhībhi),dāṭhī,dāṭhī / dāṭhino
+36,for the tusker,dāṭhino / dāṭhissa,dāṭhīnaṃ,dāṭhī,dāṭhī / dāṭhino
+37,of the tusker,dāṭhino / dāṭhissa,dāṭhīnaṃ,dāṭhinaṃ / dāṭhiṃ,dāṭhī / dāṭhino
+38,on the tusker,dāṭhini / dāṭhimhi / dāṭhismiṃ,dāṭhīsu,dāṭhinā,dāṭhīhi (dāṭhībhi)
+39,tuskers (nom-p),dāṭhī / dāṭhino,dāṭhī,dāṭhīhi (dāṭhībhi),dāṭhinā / dāṭhimhā / dāṭhismā
+40,O tuskers,dāṭhī / dāṭhino,dāṭhī,dāṭhīnaṃ,dāṭhino / dāṭhissa
+41,tuskers (acc-p),dāṭhī / dāṭhino,dāṭhinaṃ / dāṭhiṃ,dāṭhīnaṃ,dāṭhino / dāṭhissa
+42,by means of the tuskers,dāṭhīhi (dāṭhībhi),dāṭhinā,dāṭhīsu,dāṭhini / dāṭhimhi / dāṭhismiṃ
+43,from the tuskers,dāṭhīhi (dāṭhībhi),dāṭhinā / dāṭhimhā / dāṭhismā,dāṭhī / dāṭhino,dāṭhī
+44,for the tuskers,dāṭhīnaṃ,dāṭhino / dāṭhissa,dāṭhī / dāṭhino,dāṭhī
+45,of the tuskers,dāṭhīnaṃ,dāṭhino / dāṭhissa,dāṭhī / dāṭhino,dāṭhinaṃ / dāṭhiṃ
+46,on the tuskers,dāṭhīsu,dāṭhini / dāṭhimhi / dāṭhismiṃ,dāṭhīhi (dāṭhībhi),dāṭhinā
+47,evil doer (nom-s),pāpakārī,pāpakārī / pāpakārino,pāpakārinā / pāpakārimhā / pāpakārismā,pāpakārīhi (pāpakārībhi)
+48,O evil doer,pāpakārī,pāpakārī / pāpakārino,pāpakārino / pāpakārissa,pāpakārīnaṃ
+49,evil doer (acc-s),pāpakārinaṃ / pāpakāriṃ,pāpakārī / pāpakārino,pāpakārino / pāpakārissa,pāpakārīnaṃ
+50,by means of the evil doer,pāpakārinā,pāpakārīhi (pāpakārībhi),pāpakārini / pāpakārimhi / pāpakārismiṃ,pāpakārīsu
+51,from the evil doer,pāpakārinā / pāpakārimhā / pāpakārismā,pāpakārīhi (pāpakārībhi),pāpakārī,pāpakārī / pāpakārino
+52,for the evil doer,pāpakārino / pāpakārissa,pāpakārīnaṃ,pāpakārī,pāpakārī / pāpakārino
+53,of the evil doer,pāpakārino / pāpakārissa,pāpakārīnaṃ,pāpakārinaṃ / pāpakāriṃ,pāpakārī / pāpakārino
+54,on the evil doer,pāpakārini / pāpakārimhi / pāpakārismiṃ,pāpakārīsu,pāpakārinā,pāpakārīhi (pāpakārībhi)
+55,evil doers (nom-p),pāpakārī / pāpakārino,pāpakārī,pāpakārīhi (pāpakārībhi),pāpakārinā / pāpakārimhā / pāpakārismā
+56,O evil doers,pāpakārī / pāpakārino,pāpakārī,pāpakārīnaṃ,pāpakārino / pāpakārissa
+57,evil doers (acc-p),pāpakārī / pāpakārino,pāpakārinaṃ / pāpakāriṃ,pāpakārīnaṃ,pāpakārino / pāpakārissa
+58,by means of the evil doers,pāpakārīhi (pāpakārībhi),pāpakārinā,pāpakārīsu,pāpakārini / pāpakārimhi / pāpakārismiṃ
+59,from the evil doers,pāpakārīhi (pāpakārībhi),pāpakārinā / pāpakārimhā / pāpakārismā,pāpakārī / pāpakārino,pāpakārī
+60,for the evil doers,pāpakārīnaṃ,pāpakārino / pāpakārissa,pāpakārī / pāpakārino,pāpakārī
+61,of the evil doers,pāpakārīnaṃ,pāpakārino / pāpakārissa,pāpakārī / pāpakārino,pāpakārinaṃ / pāpakāriṃ
+62,on the evil doers,pāpakārīsu,pāpakārini / pāpakārimhi / pāpakārismiṃ,pāpakārīhi (pāpakārībhi),pāpakārinā

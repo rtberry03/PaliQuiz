@@ -1,0 +1,65 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,āhiṇḍati,she wanders,he lives,it crosses (water),it comes out (of water)
+2,carati,he walks,she stands,it comes out (of water),"he becomes glad, is pleased with"
+3,nisīdati,she sits,"it flies, jumps up","he becomes glad, is pleased with",it crosses (water)
+4,sannipatati,he assembles,it crosses (water),he lives,she stands
+5,viharati,it dwells,it comes out (of water),she stands,"it flies, jumps up"
+6,vasati,she lives,"he becomes glad, is pleased with","it flies, jumps up",he lives
+7,jīvati,he lives,she wanders,he assembles,it dwells
+8,tiṭṭhati,she stands,he walks,it dwells,she lives
+9,uppatati,"it flies, jumps up",she sits,she lives,he assembles
+10,tarati,it crosses (water),he assembles,she wanders,he walks
+11,uttarati,it comes out (of water),it dwells,he walks,she sits
+12,pasīdati,"he becomes glad, is pleased with",she lives,she sits,she wanders
+13,vivarati,she opens,she collects,it breaks,he advises
+14,naccati,he dances,it sprinkles,she drinks,it breaks
+15,nikkhipati,it puts,he scolds,it drinks,she drinks
+16,uṭṭhahati,she gets up,it breaks,she collects,he scolds
+17,phusati,it touches,she drinks,it sprinkles,she collects
+18,anusāsati,he instructs,it drinks,he scolds,it sprinkles
+19,ovadati,he advises,she opens,it touches,it drinks
+20,saṃharati,she collects,he dances,he instructs,it touches
+21,āsiñcati,it sprinkles,it puts,he advises,he instructs
+22,akkosati,he scolds,she gets up,she opens,it puts
+23,bhindati,it breaks,it touches,he dances,she gets up
+24,pibati,she drinks,he instructs,it puts,she opens
+25,pivati,it drinks,he advises,she gets up,he dances
+26,pariyesati,"he searches, seeks",she fears,she throws,he hopes
+27,ārabhati,she begins,"it departs, dies",it sows,she sews
+28,ussahati,it tries,he is born,he hopes,she throws
+29,upasaṅkamati,he approaches,she throws,she sews,it sows
+30,adhigacchati,"she understands, attains",it sows,she fears,he is born
+31,gāyati,it sings,he hopes,"it departs, dies",she fears
+32,āmasati,"he touches, strokes",she sews,he is born,"it departs, dies"
+33,bhāyati,she fears,"he searches, seeks","she understands, attains",it sings
+34,cavati,"it departs, dies",she begins,it sings,"he touches, strokes"
+35,uppajjati,he is born,it tries,"he touches, strokes","she understands, attains"
+36,khipati,she throws,he approaches,"he searches, seeks",it tries
+37,vapati,it sows,"she understands, attains",she begins,he approaches
+38,ākaṅkhati,he hopes,it sings,it tries,"he searches, seeks"
+39,sibbati,she sews,"he touches, strokes",he approaches,she begins
+40,deseti,he preaches,he looks at,he keeps,he avoids
+41,cinteti,he thinks,he kindles,he fells,he illuminates
+42,pūjeti,"he honours, offers",he covers,"he rules, governs",he gives
+43,pūreti,he fills,he kills,he avoids,he keeps
+44,pīḷeti,he oppresses,"he leads, takes away",he illuminates,he fells
+45,katheti,he speaks,he brings,he gives,"he rules, governs"
+46,uḍḍeti,he flies,he keeps,he looks at,he kills
+47,udeti,he (sun or moon) rises,he fells,he kindles,"he leads, takes away"
+48,ropeti,he plants,"he rules, governs",he covers,he brings
+49,manteti,"he discusses, takes counsel",he avoids,he kills,he looks at
+50,āmanteti,he addresses,he illuminates,"he leads, takes away",he kindles
+51,nimanteti,he invites,he gives,he brings,he covers
+52,oloketi,he looks at,he preaches,he flies,"he discusses, takes counsel"
+53,jāleti,he kindles,he covers,he (sun or moon) rises,he addresses
+54,chādeti,he covers,"he honours, offers",he plants,he invites
+55,māreti,he kills,he fills,"he discusses, takes counsel",he flies
+56,neti,"he leads, takes away",he oppresses,he addresses,he (sun or moon) rises
+57,āneti,he brings,he speaks,he invites,he plants
+58,ṭhapeti,he keeps,he flies,he preaches,he fills
+59,pāteti,he fells,he (sun or moon) rises,he covers,he oppresses
+60,pāleti,"he rules, governs",he plants,"he honours, offers",he speaks
+61,parivajjeti,he avoids,"he discusses, takes counsel",he fills,he preaches
+62,obhāseti,he illuminates,he addresses,he oppresses,he covers
+63,deti,he gives,he invites,he speaks,"he honours, offers"
+64,dadāti,he gives,he invites,he speaks,"he honours, offers"

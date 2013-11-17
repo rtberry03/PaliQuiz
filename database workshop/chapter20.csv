@@ -1,0 +1,66 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,aṅguli,finger,woman,banana,queen
+2,aṭavi,forest,woman,brahmin woman,queen
+3,ratti,night,young woman,cow,girl
+4,doṇi,boat,sister,queen,banana
+5,yuvati,maiden,tank,queen,brahmin woman
+6,yaṭṭhi,walking stick,pond,girl,cow
+7,asani,thunderbolt,banana,woman,sister
+8,nāḷi,unit of measure,brahmin woman,woman,tank
+9,rasmi,ray,cow,young woman,pond
+10,iddhi,psychic power,queen,sister,woman
+11,sammajjani,broom,queen,tank,woman
+12,nadī,river,girl,pond,young woman
+13,nārī,woman,finger,thunderbolt,psychic power
+14,itthī,woman,forest,unit of measure,broom
+15,taruṇī,young woman,night,ray,river
+16,bhaginī,sister,boat,psychic power,thunderbolt
+17,vāpī,tank,maiden,broom,unit of measure
+18,pokkharaṇī,pond,walking stick,river,ray
+19,kadalī,banana,thunderbolt,finger,boat
+20,brāhmaṇī,brahmin woman,unit of measure,forest,maiden
+21,gāvī,cow,ray,night,walking stick
+22,rājinī,queen,psychic power,boat,finger
+23,devī,queen,broom,maiden,forest
+24,kumārī,girl,river,walking stick,night
+25,vyākaroti,explains,takes out,conceals,wraps
+26,pattheti,aspires,sends,wraps,harasses
+27,vissajjeti,spends,conceals,harasses,sends
+28,āroceti,informs,wraps,takes out,sends
+29,muñcati,releases,harasses,sends,takes out
+30,nīhareti,takes out,explains,informs,releases
+31,peseti,sends,aspires,releases,informs
+32,paṭiccādeti,conceals,spends,explains,wraps
+33,veṭheti,wraps,informs,aspires,explains
+34,viheṭheti,harasses,releases,spends,aspires
+35,bhūpālo rājiniyā saddhiṃ nāvāya nadiṃ taranto,"the king, crossing the river by boat with (his) queen...","the king, crossing the sea by boat with (his) queen...","the minister, crossing the sea by boat with (his) king...","the minister, crossing the sea by boat with (his) daughter..."
+36,pāniyaṃ pivitvā dārikāya bhūmiyaṃ nikkhitto patto,the bowl placed on the ground by the girl after drinking water...,the bowl placed on the table by the girl after drinking water...,the bowl placed on the ground by the queen after drinking water...,the bowl placed on the ground by the queen after drinking milk...
+37,kassakānaṃ gāviyo aṭaviyaṃ āhiṇḍitvā...,"having roamed in the forest, the farmers' cows...","having roamed in the forest, the farmers' horses...","having roamed by the pond, the farmers' cows...","having roamed by the pond, the farmers' dogs..."
+38,rattiyā samuddasmiṃ patitā candassa rasmiyo oloketvā taruṇiyo,"the young women, having seen the moonlight falling on the sea at night...","the young women, having seen the moonlight falling on the river at night...","the young women, having seen the moonlight falling on the pond at night...","the brahmin woman, having seen the thunderbolts falling on the pond at night..."
+39,iddhiyā ākāse gacchantaṃ tāpasaṃ disvā,having seen the ascetic going through the sky by psychic power...,having seen the brahmin woman going through the sky by psychic power...,having seen the brahmin women going through the sky by psychic power...,having seen the brahmins going through the sky by psychic power...
+40,bhaginiyā saddhiṃ pokkharaṇiyā tīre (bank) ṭhatvā ,having stood on the bank of the pond with sister...,having stood on the bank of the pond with mother...,having stood on the bank of the sea with sister...,having stood on the bank of the pond with the queens...
+41,Nāriyo na icchiṃsu.,The women did not wish.,The young women did not wish.,The queen did not wish.,The queens did not wish.
+42,yuvatiyā puṭṭhaṃ pañhaṃ vyākātuṃ asakkonto ,unable to explain the question asked by the maiden...,unable to explain the question asked by the sister...,unable to reveal the broom concealed by the maiden...,unable to reveal the broom concealed by the maidens...
+43,ammā na ussahi,mother did not try,the queen did not try,mother tried,mother explained
+44,bhaginiyā dussena veṭhetvā mañcasmiṃ ṭhapitaṃ bhaṇḍaṃ,the goods wrapped in cloth and kept on the bed by sister,the goods wrapped in cloth and kept on the bed by the queen,the goods concealed in cloth and kept on the bed by sister,the walking stick concealed in cloth and kept on the bed by sister
+45,Tumhe magge sayantaṃ kukkuraṃ viheṭhetha.,Harass the dog sleeping on the road.,Harass the cow sleeping on the road.,Release the dog sleeping on the road.,Release the dogs sleeping on the road.
+46,Sappuriso amacco bhūpālaṃ ārocesi.,The virtuous minister informed the king.,The virtuous girl informed the king.,The virtuous minister informed the queen.,The virtuous ministers informed the king.
+47,kumāro suvaṃ hatthamhā muñcitvā,"having released the parrot from (his) hand, the boy...","having released the parrot from (her) hand, the girl...","having harassed the parrot with (his) hand, the boy...","having harassed the parrots with (their) hands, the girls..."
+48,saddhāya dānaṃ dadamānā kusalaṃ karontā,giving alms with faith and doing meritorious deeds...,sending alms with faith and doing meritorious deeds...,sending alms with faith and not doing meritorious deeds...,giving alms without faith and doing meritorious deeds...
+49,kumāro mañjūsaṃ vivaritvā,"the boy, having opened the box...","the young woman, having opened the box...","the boy, having concealed the box...","the boys, having concealed the box..."
+50,earth (nom-s),bhūmi,bhūmiyā,"bhūmī, bhūmiyo",bhūmīsu
+51,o earth (voc-s),bhūmi,bhūmiyā,"bhūmī, bhūmiyo",bhūmīsu
+52,earth (acc-s),bhūmiṃ,bhūmiyā,"bhūmī, bhūmiyo",bhūmīsu
+53,by the earth (ins-s),bhūmiyā,bhūmi,"bhūmīhi, (bhūmībhi)",bhūmīsu
+54,from the earth (abl-s),bhūmiyā,bhūmi,"bhūmīhi, (bhūmībhi)",bhūmīsu
+55,for the earth (dat-s),bhūmiyā,bhūmi,bhūmīnaṃ,bhūmīsu
+56,of the earth (gen-s),bhūmiyā,bhūmiṃ,bhūmīnaṃ,bhūmīsu
+57,at the earth (loc-s),"bhūmiyā, bhūmiyaṃ",bhūmi,bhūmīsu,bhūmīsa
+58,earth (nom-p),"bhūmī, bhūmiyo","bhūmīhi, (bhūmībhi)",bhūmiyā,bhūmīsu
+59,o earth (voc-p),"bhūmī, bhūmiyo",bhūmīnaṃ,bhūmiyā,bhūmīsu
+60,earth (acc-p),"bhūmī, bhūmiyo",bhūmīnaṃ,bhūmiṃ,bhūmīsu
+61,by the earth (ins-p),"bhūmīhi, (bhūmībhi)",bhūmīsu,bhūmiyā,bhūmīsa
+62,from the earth (abl -p),"bhūmīhi, (bhūmībhi)","bhūmī, bhūmiyo",bhūmiyā,bhūmīsu
+63,for the earth (dat-p),bhūmīnaṃ,"bhūmī, bhūmiyo",bhūmiyā,bhūmīsu
+64,of the earth (gen-p),bhūmīnaṃ,"bhūmī, bhūmiyo",bhūmiyā,bhūmīsu
+65,at the earth (loc-p),bhūmīsu,"bhūmīhi, (bhūmībhi)","bhūmiyā, bhūmiyaṃ",bhūmīsa

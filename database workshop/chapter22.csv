@@ -1,0 +1,51 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,The mother kept the (raw) rice which is to be cooked in the basket.,Ammā pacitabbaṃ taṇḍulaṃ (raw rice) piṭake ṭhapesi.,Amma pacitabbaṃ taṇḍulaṃ (raw rice) piṭake ṭhapesi.,Ammā pacitabbaṃ taṇḍulaṃ (raw rice) piṭake ṭhapese.,Ammā pacitabbam taṇḍulam (raw rice) piṭake ṭhapesi.
+2,The mother kept the (raw) rice which is to be cooked in the basket.,Ammā pacanīyaṃ taṇḍulaṃ (raw rice) piṭake ṭhapesi.,Amma pacanīyaṃ taṇḍulaṃ (raw rice) piṭake ṭhapesi.,Ammā pacanīyaṃ taṇḍulaṃ (raw rice) piṭake ṭhapese.,Ammā pacanīyam taṇḍulam (raw rice) piṭake ṭhapesi.
+3,I will not eat the rice which should be eaten by the girl.,Dārikāya bhuñjitabbaṃ odanaṃ ahaṃ na bhuñjissāmi.,Dārikāyā bhuñjitabbaṃ odanaṃ ahaṃ na bhuñjissāmi.,Dārikāya bhuñjitabbaṃ odanaṃ ahaṃ na bhuñjissāme.,Dārikāya bhuñjitabbam odanam ahaṃ na bhuñjissāmi.
+4,I will not eat the rice which should be eaten by the girl.,Dārikāya bhojanīyaṃ odanaṃ ahaṃ na bhuñjissāmi.,Dārikāyā bhojanīyaṃ odanaṃ ahaṃ na bhuñjissāmi.,Dārikāya bhojanīyaṃ odanaṃ ahaṃ na bhuñjissāme.,Dārikāya bhojanīyam odanam ahaṃ na bhuñjissāmi.
+5,You wish to do the work that should be done by the farmer.,Kassakena kātabbaṃ kammaṃ kātuṃ tvaṃ icchasi. ,Kassakenā kātabbaṃ kammaṃ kātuṃ tvaṃ icchasi. ,Kassakena kātabbaṃ kammaṃ kātuṃ tvaṃ icchase. ,Kassakena kātabbam kammam kātuṃ tvaṃ icchasi. 
+6,You wish to do the work that should be done by the farmer.,Kassakena karaṇīyaṃ kammaṃ kātuṃ tvaṃ icchasi. ,Kassakenā karaṇīyaṃ kammaṃ kātuṃ tvaṃ icchasi. ,Kassakena karaṇīyaṃ kammaṃ kātuṃ tvaṃ icchase. ,Kassakena karaṇīyam kammam kātuṃ tvaṃ icchasi. 
+7,upāsakehi,by lay devotees,by people,by the robber,by the park
+8,... samaṇā vanditabbā honti,monks are to be honoured...,the dhamma should be learned...,monks are to be searched for...,trees are to be cut...
+9,samaṇā vanditabbā,monks to be honoured,truth to be realised,trees to be planted,trees to be cut
+10,mañjūsāyaṃ,in the box,by the girls,to be cut,by the robber
+11,mā mañcasmiṃ ṭhapehi,do not leave on the bed,do not sprinkle with water,plant in the park,search for
+12,mañjūsāyaṃ nikkhipitabbaṃ suvaṇṇaṃ,the gold which should be kept in the box,the wealth of sister,the gold kept by the people,the flowers brought by the girls
+13,sappurisā pūjanīye pūjenti,good men honour those worthy of honour,good men do not honour the robber,the dhamma should be learned by the people,flowers are to be sprinkled with water
+14,asappurisā tathā (likewise) na karonti,wicked men do not do likewise,truth is not to be searched for,the truth is to be realised,wicked men do not search for truth
+15,sappurisā... pūjenti,good men honour...,the trees planted...,the flowers brought...,people honor...
+16,rakkhitabbaṃ dīpaṃ,the island which should be protected,flowers which are not to be cut,trees which are to be sprinkled with water,the dhamma should be learned
+17,bhūpālena rakkhitabbaṃ dīpaṃ,the island which should be protected by the king,The trees planted in the park are to be cut.,The islands should be protected by the king.,the truth is to be realised
+18,... amaccā na sammā (well) pālenti,the ministers do not govern well...,lay devotees to not protect well...,good men do not honour well...,the kings to not protect well...
+19,manussehi,by people,by monks,by wicked men,by islands
+20,manussehi dhammo uggaṇhitabbo,the dhamma should be learned by the people,the dhamma should be learned by the monks,the dhamma should be learned by the kings,the dhamma should be learned by the ministers
+21,saccaṃ adhigantabbaṃ hoti,the truth is to be realised,the gold is in the box,the island is to be protected,good men are to honour the truth
+22,kumārīhi āhaṭāni pupphāni,the flowers brought by the girls,the flowers left on the bed,the island protected by the king,the flowers left by the girls
+23,... udakena āsiñcitabbāni honti,... are to be sprinkled with water,... are to be kept in the box,... are to be  governed well,... are to be honoured
+24,bhaginiyā dhanaṃ,the wealth of sister,those worthy of honour,by lay devotees,the box of the mother
+25,... corena gahitaṃ,... taken by the robber,... taken by wicked men,... given to monks,... left on the bed
+26,... pariyesitabbaṃ hoti,... is to be searched for,good men honour...,monks to be honoured,... is to be kept in the box
+27,uyyāne ropitā rukkhā,the trees planted in the park,the island which should be protected,the trees sprinkled with water,the lay devotees going to the park
+28,... chinditabbā na honti,... are not to be cut,... are to be protected by the king,... are not to be left on the bed,... are not to be honoured
+29,Uyyāne ropitā rukkhā chinditabbā honti.,The trees planted in the park are to be cut.,The ministers do not govern well.,The gold should be kept in the box.,The trees planted on the island are to be cut.
+30,Samaṇehi ovaditabbā ----- vihāraṃ na gamiṃsu.,kumārā,paṇḍitehi,akkositabbā,akkositabbo
+31,Kassakena kasitabbaṃ ----- vikkiṇituṃ vāṇijo ussahi.,khettaṃ,pañho,parivajjetabbā,parivajjetabbi
+32,Āpaṇesu ṭhapitāni vikkiṇitabbāni ----- kiṇituṃ te na icchiṃsu.,bhandāni,uyyāne,bhavissatha,bhavissathi
+33,Ammā khādanīyāni ca bhojanīyāni ca paṭiyādetvā ----- deti.,dārakānaṃ,akkositabbā,manussā,manusso
+34,"Manussehi dānāni dātabbāni, sīlāni rakkhitabbāni, ----- kātabbāni.",puññāni,parivajjetabbā,paṇḍitehi,paṇḍiteho
+35,Goṇānaṃ ----- tiṇāni kassako khettamhā āhari.,dātabbāni,bhavissatha,pañho,pañhe
+36,Migā pānīyaṃ udakaṃ pariyesantā ----- āhiṇḍiṃsu.,aṭaviyaṃ,manussā,uyyāne,uyyāni
+37,Darikāya dātuṃ phalāni āpaṇasmā vā (or) khettamhā vā āharitabbāni -----.,honti,kumārā,puññāni,puññāne
+38,Tumhe bhūpālā amaccehi ca ----- ca samaṇehi ca anusāsitabbā hotha.,paṇḍitehi,khettaṃ,dātabbāni,dātabbāno
+39,Upāsakena puṭṭho ----- paṇḍitena vyākātabbo hoti.,pañho,bhandāni,aṭaviyaṃ,aṭaviya
+40,Bhūpālassa ----- vasantā migā ca sakunā ca luddakehi na hantabbā honti.,uyyāne,dārakānaṃ,honti,honto
+41,"Kusalaṃ ajānitvā pāpaṃ karontā kumārā na -----, te samaṇehi ca paṇḍehi ca sappurisehi ca anusāsitabbā.",akkositabbā,puññāni,kumārā,kumāro
+42,"Asappurisā -----, mā tumhe tehi saddhiṃ (with them) gāme āhiṇḍatha.",parivajjetabbā,dātabbāni,khettaṃ,khetti
+43,"Surā na pātabbā, sace piveyyātha tumhe gilānā -----.",bhavissatha,aṭaviyaṃ,bhandāni,bhandāno
+44,Dhammena jīvantā ----- devehi rakkhitabbā honti.,manussā,honti,dārakānaṃ,dārakāno
+45,Upāsakehi samaṇā ----- honti.,vanditabbā,pūjanīye,dhammo,dhammaṃ
+46,Mañjūsāyaṃ nikkhipitabbaṃ ----- mā mañcasmiṃ ṭhapehi.,suvaṇṇaṃ,amaccā,pūjanīye,pūjanīyo
+47,"Sappurisā ----- pūjenti, asappurisā tathā (likewise) na karonti.",pūjanīye,dhammo,amaccā,amacca
+48,Bhūpālena rakkhitabbaṃ dīpaṃ ----- na sammā (well) pālenti.,amaccā,vanditabbaṃ,suvaṇṇaṃ,suvaṇṇo
+49,"Manussehi ----- uggaṇhitabbo, saccaṃ adhigantabbaṃ hoti.",dhammo,suvaṇṇaṃ,vanditabbaṃ,vanditabbi
+50,Kumārīhi āhaṭāni ----- udakena āsiñcitabbāni honti. ,pupphāni,pupphāne,pupphānā,pupphāno

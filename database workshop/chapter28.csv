@@ -1,0 +1,76 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,brother (nom-s),satthā,satthāro,satthārā,"satthārehi, satthūhi"
+2,O brother,"satthā, sattha",satthāro,"satthu, satthuno, satthussa","satthārānaṃ, satthūnaṃ"
+3,brother (acc-s),satthāraṃ,satthāro,"satthu, satthuno, satthussa","satthārānaṃ, satthūnaṃ"
+4,by means of the brother,satthārā,"satthārehi, satthūhi",satthari,"satthāresu, satthūsu"
+5,from the brother,satthārā,"satthārehi, satthūhi",satthā,satthāro
+6,for the brother,"satthu, satthuno, satthussa","satthārānaṃ, satthūnaṃ","satthā, sattha",satthāro
+7,of the brother,"satthu, satthuno, satthussa","satthārānaṃ, satthūnaṃ",satthāraṃ,satthāro
+8,on the brother,satthari,"satthāresu, satthūsu",satthārā,"satthārehi, satthūhi"
+9,brothers (nom-p),satthāro,satthā,"satthārehi, satthūhi",satthārā
+10,O brothers,satthāro,"satthā, sattha","satthārānaṃ, satthūnaṃ","satthu, satthuno, satthussa"
+11,brothers (acc-p),satthāro,satthāraṃ,"satthārānaṃ, satthūnaṃ","satthu, satthuno, satthussa"
+12,by means of the brothers,"satthārehi, satthūhi",satthārā,"satthāresu, satthūsu",satthari
+13,from the brothers,"satthārehi, satthūhi",satthārā,satthāro,satthā
+14,for the brothers,"satthārānaṃ, satthūnaṃ","satthu, satthuno, satthussa",satthāro,"satthā, sattha"
+15,of the brothers,"satthārānaṃ, satthūnaṃ","satthu, satthuno, satthussa",satthāro,satthāraṃ
+16,on the brothers,"satthāresu, satthūsu",satthari,"satthārehi, satthūhi",satthārā
+17,doer,kattu,jetu,bhattu,nattu
+18,goer,gantu,vinetu,nattu,bhattu
+19,hearer,sotu,viññātu,jetu,sottu
+20,giver,dātu,bhattu,vinetu,jetu
+21,leader,netu,nattu,viññātu,vinetu
+22,sayer,vattu,kattu,dātu,vatu
+23,victor,jetu,gantu,netu,dātu
+24,disciplinarian,vinetu,sotu,vattu,netu
+25,knower,viññātu,dātu,kattu,sotu
+26,husband,bhattu,netu,gantu,kattu
+27,grandson,nattu,vattu,sotu,gantu
+28,father (nom-s),pitā,pitaro,pitarā,"pitarehi, pitūhi"
+29,O father,"pitā, pita",pitaro,"pitu, pituno",pitarānaṃ
+30,father (acc-s),pitaraṃ,pitaro,pitussa,pitūnaṃ
+31,by means of the father,pitarā,"pitarehi, pitūhi",pitari,"pitaresu, pitūsu"
+32,from the father,pitarā,"pitarehi, pitūhi",pitā,pitaro
+33,for the father,"pitu, pituno",pitarānaṃ,"pitā, pita",pitaro
+34,of the father,pitussa,pitūnaṃ,pitaraṃ,pitaro
+35,on the father,pitari,"pitaresu, pitūsu",pitarā,"pitarehi, pitūhi"
+36,fathers (nom-p),pitaro,pitā,"pitarehi, pitūhi",pitarā
+37,O fathers,pitaro,"pitā, pita",pitarānaṃ,"pitu, pituno"
+38,fathers (acc-p),pitaro,pitaraṃ,pitūnaṃ,pitussa
+39,by means of the fathers,"pitarehi, pitūhi",pitarā,"pitaresu, pitūsu",pitari
+40,from the fathers,"pitarehi, pitūhi",pitarā,pitaro,pitā
+41,for the fathers,pitarānaṃ,"pitu, pituno",pitaro,"pitā, pita"
+42,of the fathers,pitūnaṃ,pitussa,pitaro,pitaraṃ
+43,on the fathers,"pitaresu, pitūsu",pitari,"pitarehi, pitūhi",pitarā
+44,brother (nom-s),bhātā,bhātaro,bhātarā,"bhātarehi,bhātūhi"
+45,O brother,"bhātā, bhāta",bhātaro,"bhātu, bhātuno",bhātarānaṃ
+46,brother (acc-s),bhātaraṃ,bhātaro,bhātussa,bhātūnaṃ
+47,by means of the brother,bhātarā,"bhātarehi,bhātūhi",bhātari,"bhātaresu,bhātūsu"
+48,from the brother,bhātarā,"bhātarehi,bhātūhi",bhātā,bhātaro
+49,for the brother,"bhātu, bhātuno",bhātarānaṃ,"bhātā, bhāta",bhātaro
+50,of the brother,bhātussa,bhātūnaṃ,bhātaraṃ,bhātaro
+51,on the brother,bhātari,"bhātaresu,bhātūsu",bhātarā,"bhātarehi,bhātūhi"
+52,brothers (nom-p),bhātaro,bhātā,"bhātarehi,bhātūhi",bhātarā
+53,O brothers,bhātaro,"bhātā, bhāta",bhātarānaṃ,"bhātu, bhātuno"
+54,brothers (acc-p),bhātaro,bhātaraṃ,bhātūnaṃ,bhātussa
+55,by means of the brothers,"bhātarehi,bhātūhi",bhātarā,"bhātaresu,bhātūsu",bhātari
+56,from the brothers,"bhātarehi,bhātūhi",bhātarā,bhātaro,bhātā
+57,for the brothers,bhātarānaṃ,"bhātu, bhātuno",bhātaro,"bhātā, bhāta"
+58,of the brothers,bhātūnaṃ,bhātussa,bhātaro,bhātaraṃ
+59,on the brothers,"bhātaresu,bhātūsu",bhātari,"bhātarehi,bhātūhi",bhātarā
+60,mother (nom-s),mātā,mātaro,"mātarā, mātuyā","mātarehi, mātūhi"
+61,O mother,"mātā, māta, māte",mātaro,"mātu, mātuyā, mātāya","mātarānaṃ, mātūnaṃ,mātānaṃ"
+62,mother (acc-s),mātaraṃ,mātaro,"mātu, mātuyā, mātāya","mātarānaṃ, mātūnaṃ,mātānaṃ"
+63,by means of the mother,"mātarā, mātuyā","mātarehi, mātūhi","mātari, mātuyā, mātuyaṃ","mātaresu, mātūsu"
+64,from the mother,"mātarā, mātuyā","mātarehi, mātūhi",mātā,mātaro
+65,for the mother,"mātu, mātuyā, mātāya","mātarānaṃ, mātūnaṃ,mātānaṃ","mātā, māta, māte",mātaro
+66,of the mother,"mātu, mātuyā, mātāya","mātarānaṃ, mātūnaṃ,mātānaṃ",mātaraṃ,mātaro
+67,on the mother,"mātari, mātuyā, mātuyaṃ","mātaresu, mātūsu","mātarā, mātuyā","mātarehi, mātūhi"
+68,mothers (nom-p),mātaro,mātā,"mātarehi, mātūhi","mātarā, mātuyā"
+69,O mothers,mātaro,"mātā, māta, māte","mātarānaṃ, mātūnaṃ,mātānaṃ","mātu, mātuyā, mātāya"
+70,mothers (acc-p),mātaro,mātaraṃ,"mātarānaṃ, mātūnaṃ,mātānaṃ","mātu, mātuyā, mātāya"
+71,by means of the mothers,"mātarehi, mātūhi","mātarā, mātuyā","mātaresu, mātūsu","mātari, mātuyā, mātuyaṃ"
+72,from the mothers,"mātarehi, mātūhi","mātarā, mātuyā",mātaro,mātā
+73,for the mothers,"mātarānaṃ, mātūnaṃ,mātānaṃ","mātu, mātuyā, mātāya",mātaro,"mātā, māta, māte"
+74,of the mothers,"mātarānaṃ, mātūnaṃ,mātānaṃ","mātu, mātuyā, mātāya",mātaro,mātaraṃ
+75,on the mothers,"mātaresu, mātūsu","mātari, mātuyā, mātuyaṃ","mātarehi, mātūhi","mātarā, mātuyā"

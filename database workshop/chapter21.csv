@@ -1,0 +1,51 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,... cooking rice (nom-s),pacantī,pacantiyā,pacantiyo,pacantiya
+2,o... cooking rice (voc-s),pacantī,pacantiyā,pacantiyo,pacantiya
+3,... cooking rice (acc-s),pacantiṃ,pacantiyā,pacantiyo,pacantiya
+4,by the... cooking rice (ins-s),pacantiyā,pacantiyaṃ,pacantīhi (pacantībhi),pacantiya
+5,from the... cooking rice (abl-s),pacantiyā,pacantī,pacantīhi (pacantībhi),pacantiya
+6,for the... cooking rice (dat-s),pacantiyā,pacantī,pacantīnaṃ,pacantiya
+7,of the... cooking rice (gen-s),pacantiyā,pacantiṃ,pacantīnaṃ,pacantiya
+8,at the... cooking rice (loc-s),"pacantiyā, pacantiyaṃ",pacantī,pacantīsu,pacantiya
+9,... cooking rice (nom-p),"pacantī, pacantiyo",pacantīhi (pacantībhi),pacantīsu,pacantiya
+10,o... cooking rice (voc-p),"pacantī, pacantiyo",pacantīnaṃ,pacantīsu,pacantiya
+11,cooking rice (acc-p),"pacantī, pacantiyo",pacantīnaṃ,pacantiṃ,pacantiya
+12,by the... cooking rice (ins-p),pacantīhi (pacantībhi),pacantīsu,pacantiyā,pacantiya
+13,from the... cooking rice (abl -p),pacantīhi (pacantībhi),"pacantī, pacantiyo",pacantiyā,pacantiya
+14,for the... cooking rice (dat-p),pacantīnaṃ,"pacantī, pacantiyo",pacantiyā,pacantiya
+15,of the... cooking rice (gen-p),pacantīnaṃ,"pacantī, pacantiyo",pacantiyā,pacantiya
+16,at the... cooking rice (loc-p),pacantīsu,pacantīhi (pacantībhi),"pacantiyā, pacantiyaṃ",pacantiya
+17,ammā bhattaṃ pacantī,cooking rice the mother...,... by the mother cooking rice,... from the mother cooking rice,... for the mother cooking rice
+18,bhattaṃ pacantiṃ ammaṃ,... the mother cooking rice,... by the mother cooking rice,... from the mother cooking rice,... for the mother cooking rice
+19,bhattaṃ pacantiyā ammāya,... to the mother cooking rice,cooking rice the mother...,o mother cooking rice...,cooking rice the mothers...
+20,bhattaṃ pacantiyo ammāyo ,cooking rice mothers...,... by the mothers cooking rice,... from the mothers cooking rice,... for the mothers cooking rice
+21,bhattaṃ pacantiyo ammāyo ,... mothers cooking rice,... by the mothers cooking rice,... from the mothers cooking rice,... for the mothers cooking rice
+22,bhattaṃ pacantīnaṃ ammānaṃ ,... to mothers cooking rice,cooking rice the mother...,o mothers cooking rice...,cooking rice the mothers...
+23,khette phalāni corentī dārikā,the girl stealing fruits in the field,the girl stealing fruit in the field,the girl stealing rice in the field,the girl stealing rice in the forest
+24,Buddhassa sāvakena desitaṃ dhammaṃ,the dhamma preached by the Buddha's disciple,the dhamma preached by the Buddha's disciples,the deeds performed by the Buddha's disciples,the deeds performed by the Buddha's disciple
+25,sayantaṃ sunakhaṃ āmasantī kumārī,the girl touching the sleeping dog,the girl touching the sleeping dogs,the girls touching the sleeping dog,the girls touching the sleeping dogs
+26,sākhāyo ākaḍḍhantiyo itthiyo,the women dragging the branches,the women dragging the branch,the woman dragging the branches,the women cutting the branches
+27,sace tvaṃ mulaṃ vissajjetuṃ iccheyyāsi,if you wish to spend the money,if you wish to spend the monies,if we wish to spend the monies,if they wish to spend the monies
+28,mā vatthaṃ kiṇāhi,do not buy a cloth,sell cloth,do not sell cloth,do not sell rice
+29,sace tumhe bhūpālassa dūtaṃ pesetha,if you send a messenger to the king,if you send a messenger to the kings,if we send a messenger to the kings,if they send a messenger to the kings
+30,amacce pi ārocetha,inform the ministers too,inform the minister too,do not inform the minister,do not ask the minister
+31,pokkaraṇiyā tīre (bank) ṭhatvā kadaliphalaṃ khādantī,standing at the bank of the pond and eating a plantain,standing at the bank of the pond and eating plantains,standing at the bank of the river and eating plantains,walking along at the bank of the river and eating plantains
+32,kaññā bhaginiyā dinnaṃ padumaṃ gaṇhi,the girl took the lotus given by (her) sister,the girl took the lotus given by (her) sisters,the girl took the plantains given by (her) sisters,the girl took the lotus given by (her) brothers
+33,rattiyā gehā nikkhamituṃ bhāyantī kaññā dvāraṃ na vivari,being afraid to leave the house at night,being afraid to enter the house at night,being afraid to enter the palace at night,being afraid to depart the palace at night
+34,kaññā dvāraṃ na vivari,the girl did not open the door,the girl did not open the doors,the girls opened the doors,the motherss opened the doors
+35,sace tvaṃ yaṭṭhiyā kukkuraṃ pahareyyāsi,if you hit the dog with the walking stick,if you hit the dog with walking sticks,if we hit the dog with walking sticks,if they hit the dog with walking sticks
+36,so ḍaseyya,it would bite,they would bite,we will bite,he will bite
+37,sappurisā bhavituṃ āka'nkhamānā,hoping to become good men,hoping to become a good man,hoping to become a wicked man,not hoping to become a wicked man
+38,pāpakammehi anubandhitā asappurisā corā,"the wicked robbers, being followed by (their) evil deeds","the wicked robber, being followed by (his) evil deed","the wicked men, being followed by (their) evil deed","the good men, being followed by (their) good deeds"
+39,niraye (purgatory) uppajjitvā dukkhaṃ vindanti,"having been born in purgatory, experience suffering","having been born in heaven, experience suffering","having not been born in heaven, experience suffering","having been born in heaven, do not experience suffering"
+40,mā puññaṃ parivajjetvā pāpaṃ karotha,do not avoid merit and do evil,avoid merit and do evil,avoid merit and do good,do not avoid merit and do good
+41,sace tumhe sagge uppajjitvā modituṃ patthetha,If you aspire to be happy being born in heaven,If you aspire to be happy being born in purgatory,If you aspire to be unhappy being born in purgatory,If we aspire to be unhappy being born in purgatory
+42,puññāni karotha,do meritorious deeds,avoid meritorious deeds,do wicked deeds,avoid wicked deeds
+43,saccaṃ ñātuṃ ussahantā,trying to know the truth,trying to preach the truth,trying to perform merit,trying to learn the dhamma
+44,brāhmaṇā sahāyakehi saha mantayiṃsu,the brahmins discussed with friends,the brahmins discussed with wise men,the brahmins asked wise men,the brahmins are wise men
+45,goṇaṃ viheṭhetuṃ na icchanto,not wishing to harass the ox,not wishing to harass the pig,wishing to harass the pig,wishing to harass the deer
+46,Aṭaviyaṃ viharantā migā sīhamhā bhāyanti.,The deer living in the the forest fear the lion.,The monkeys living in the the forest fear the lion.,The monkeys living in the the forest fear the lions.,The monkeys living in the the forest fear the jackals.
+47,rattiyā doṇi nadiṃ taritvā,the boat setting out in the night crossed the river,the boat setting out in the night crossed the sea,the boats setting out in the night crossed the sea,the boats setting out in the night crossed the river
+48,kassako āpaṇaṃ gato hoti,the farmer has gone to the market,the farmers have gone to the market ,the farmer have gone to the markets,the merchant have gone to the market
+49,uḍḍente kāke disvā,having seen the crows flying,having seen the pigs flying,having seen the parrots flying,having seen the parrot flying
+50,vālukāya ca udakena ca kīḷantī dārikā hasamānā dhāvi.,the girl playing with sand and water ran laughing,the girls playing with sand and water ran laughing,the girls playing with birds and dogs ran laughing,the girl playing with birds and dogs ran laughing

@@ -1,0 +1,45 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,(so) pacatu,let him cook,let him come,let him go,may the Buddha learn the dhamma
+2,(tvaṃ) paca,"you, cook","you, come","you, go",may we preach
+3,(tvaṃ) pacāhi,you (s) cook,you (s) come,you (s) go,may we be born
+4,(ahaṃ) pacāmi,let me cook,let me come,let me go,may wenot be born
+5,(te) pacantu,let them cook,let them come,let them go,may we kill
+6,(tumhe) pacatha,you (p) cook,you (p) come,you (p) go,may the ministers not kill
+7,(mayaṃ) pacāma,let us cook,let us come,let us go,may we touch
+8,so vāṇijānaṃ bhattaṃ pacatu,let him cook rice for the merchants,let him cook rice for the boys,let him cook rice for the uncles,may they not touch the dog
+9,tvaṃ rathena nagaraṃ gaccha,you (s) go to the city in the vehicle,you (s) go to the island in the vehicle,you (s) go to the forest in the vehicle,may you preach the dhamma
+10,tvaṃ rathena nagaraṃ gacchāhi,you (s) go to the city in the vehicle ,you (s) go to the island in the vehicle ,you (s) go to the forest in the vehicle ,let us look
+11,ahaṃ dhammaṃ uggaṇhāmi,let me learn the dhamma,let us teach the dhamma,let us learn the dhamma,may we admonish
+12,te vāṇijānaṃ bhattaṃ pacantu,let them cook rice for the merchants,let them cook rice for the sons,let them cook rice for the uncles,may we admonish the wicked men
+13,tumhe rathena nagaraṃ gacchatha,you (p) go to the city in the vehicle,you (p) go to the island in the vehicle,you (p) go to the forest in the vehicle,may we approach
+14,mayaṃ dhammaṃ uggaṇhāma,let us learn the dhamma,let me treach the dhamma,let me learn the dhamma,let us not approach
+15,mā tumhe saccaṃ parivajjetha,you do not avoid the truth,you do not learn the truth,you do not teach the truth,if I try to speak the truth
+16,mā te uyyānamhi pupphāni ocinantu,let them not pick flowers in the park,let them pick flowers in the forest,let them not pick flowers in the forest,I will become a good man
+17,pālentu,may they rule,may we learn,may we rule,if I throw stones
+18,bhūpālā pālentu,may kings rule,may ministers teach,may ministers rule,the crows and birds will fly into the forest
+19,mā manusso bhāyatu,let the man not fear,let the men not go,let the men not fear,"child, do not break the bowl"
+20,bhāsatu,may he speak,may we come,may we speak,may we you break
+21,ovadatha,"you, admonish",may she preach,may she admonish,scold (your) sons
+22,tumhe putte ovadatha,"you, admonish the sons",may she admonish the men,may she admonish the sons,do not admonish (your) sons
+23,sugato dhammaṃ desetu,may the Buddha preach the dhamma,may the Buddha teach the dhamma,may the Buddha learn the dhamma,let him go
+24,desetu,may she preach,may we learn,may we preach,"you, go"
+25,uppajjantu,may they be born,may we come,may we be born,you (s) go
+26,mā te uppajjantu,may they not be born,may we not go,may we not be born,let me go
+27,mārentu,may they kill,may we cook,may we kill,let them go
+28,mā corā mārentu,may the robbers not kill,may the ministers not cook,may the ministers not kill,you (p) go
+29,āmasāhi,"you, touch",may we come,may we touch,let us go
+30,mā tvaṃ sunakhaṃ āmasāhi,"you, do not touch the dog",may they not cook the dog,may they not touch the dog,let him cook rice for the uncles
+31,tumhe dīpe jāletvā,may you light the lamps,may you hear the dhamma,may you preach the dhamma,you (s) go to the forest in the vehicle
+32,oloketha,let you look,let us pick,let us look,you (s) go to the forest in the vehicle 
+33,anusāsatha,may you admonish,may we rule,may we admonish,let uslearn the dhamma
+34,tumhe asappurise anusāsatha,may you admonish the wicked men,may we rule the wicked men,may we admonish the wicked men,let them cook rice for the uncles
+35,upasa'nkama,may you approach,may we throw,may we approach,you (p) go to the forest in the vehicle
+36,mā tvaṃ upasa'nkama,do not approach,let us not throw,let us not approach,let me learn the dhamma
+37,sace tumhe saccaṃ bhāsituṃ ussaheyyātha,if you try to speak the truth,if I try to speak the dhamma,if I try to speak the truth,you do not teach the truth
+38,tumhe sappurisā bhaveyyātha,you will become good men,I will become a wicked man,I will become a good man,let them not pick flowers in the forest
+39,sace tvaṃ pāsāṇe khipeyyāsi,if you throw stones,if I cook rice,if I throw stones,may we rule
+40,kākā ca sakuṇā ca ākāsaṃ uppateyyuṃ,the crows and birds will fly into the sky,the crows and birds will fly from the forest,the crows and birds will fly into the forest,may ministers rule
+41,mā dāraka pattaṃ bhinda.,"child, do not break the bowl","child, do not break the bowls","children, do not break the bowl",let the men not fear
+42,bhinda,"you, break",may she break,may we go,may we speak
+43,mā putte akkosāji,do not scold (your) sons,scold the boys,scold (your) sons,may she admonish
+44,putte anusāsāhi,admonish (your) sons,do not admonish the boys,do not admonish (your) sons,may she admonish the sons

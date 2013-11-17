@@ -1,0 +1,288 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,Buddha,the Buddha ,son ,"man, person ",king 
+2,Tathāgata,the Buddha (Thus-gone) ,uncle ,"man, person ",friend 
+3,Sugata,the Buddha (Well-gone) ,boy ,farmer ,friend 
+4,manussa,"man, human being ",merchant ,brahmin ,friend 
+5,nara,"man, person ",king ,the Buddha ,son 
+6,purisa,"man, person ",friend ,the Buddha (Thus-gone) ,uncle 
+7,kassaka,farmer ,friend ,the Buddha (Well-gone) ,boy 
+8,brāhmaṇa,brahmin ,friend ,"man, human being ",merchant 
+9,putta,son ,the Buddha ,king ,"man, person "
+10,mātula,uncle ,the Buddha (Thus-gone) ,friend ,"man, person "
+11,kumāra,boy ,the Buddha (Well-gone) ,friend ,farmer 
+12,vāṇija,merchant ,"man, human being ",friend ,brahmin 
+13,bhūpāla,king ,"man, person ",son ,the Buddha 
+14,sahāya ,friend ,"man, person ",uncle ,the Buddha (Thus-gone) 
+15,sahāyaka,friend ,farmer ,boy ,the Buddha (Well-gone) 
+16,mitta,friend ,brahmin ,merchant ,"man, human being "
+17,dhamma,"the doctrine, truth",monastery,sun,beggar
+18,bhatta,rice,bowl,moon,jackal
+19,odana,cooked rice,pit,dog,tree
+20,gāma,village,mountain,"the doctrine, truth",monastery
+21,suriya,sun,beggar,rice,bowl
+22,canda,moon,jackal,cooked rice,pit
+23,kukkura / sunakha / soṇa,dog,tree,village,mountain
+24,vihāra,monastery,"the doctrine, truth",beggar,sun
+25,patta,bowl,rice,jackal,moon
+26,āvāṭa,pit,cooked rice,tree,dog
+27,pabbata,mountain,village,monastery,"the doctrine, truth"
+28,yācaka,beggar,sun,bowl,rice
+29,sigāla,jackal,moon,pit,cooked rice
+30,rukkha,tree,dog,mountain,village
+31,ratha,"vehicle, chariot ",horse ,path ,saw 
+32,sakaṭa,cart ,deer ,"island, lamp ",sword 
+33,hattha,hand ,arrow ,disciple ,thief 
+34,pāda,foot ,"rock, stone ","recluse, monk ",wise man 
+35,magga,path ,saw ,"vehicle, chariot ",horse 
+36,dīpa,"island, lamp ",sword ,cart ,deer 
+37,sāvaka,disciple ,thief ,hand ,arrow 
+38,samaṇa,"recluse, monk ",wise man ,foot ,"rock, stone "
+39,sagga,heaven ,"vehicle, chariot ",saw ,"island, lamp "
+40,assa,horse ,cart ,sword ,disciple 
+41,miga,deer ,hand ,thief ,"recluse, monk "
+42,sara,arrow ,foot ,wise man ,heaven 
+43,pāsāṇa,"rock, stone ",path ,heaven ,"vehicle, chariot "
+44,kakaca,saw ,"island, lamp ",horse ,cart 
+45,khagga,sword ,disciple ,deer ,hand 
+46,cora,thief ,"recluse, monk ",arrow ,foot 
+47,paṇḍita,wise man ,heaven ,"rock, stone ",path 
+48,dhīvara,fisherman ,washerman ,parrot ,pig 
+49,maccha,fish ,serpent ,stairway ,pig 
+50,piṭaka,basket ,question ,pig ,parrot 
+51,amacca,minister ,parrot ,pig ,stairway 
+52,upāsaka,lay devotee ,parrot ,washerman ,question 
+53,pāsāda,palace ,stairway ,serpent ,parrot 
+54,dāraka,child ,pig ,question ,washerman 
+55,sāṭaka,garment ,pig ,parrot ,serpent 
+56,rajaka,washerman ,fisherman ,lay devotee ,child 
+57,sappa,serpent ,fish ,palace ,garment 
+58,pañha,question ,basket ,child ,lay devotee 
+59,suka,parrot ,minister ,garment ,palace 
+60,suva,parrot ,lay devotee ,fisherman ,basket 
+61,sopāna,stairway ,palace ,fish ,minister 
+62,sūkara,pig ,child ,basket ,fisherman 
+63,varāha,pig ,garment ,minister ,fish 
+64,tāpasa,hermit ,goat ,profit ,hoe 
+65,ācariya,teacher ,monkey ,bed ,profit 
+66,vejja,doctor ,profit ,hoe ,bed 
+67,sīha,lion ,bed ,goat ,monkey 
+68,luddaka,hunter ,hoe ,monkey ,goat 
+69,aja,goat ,hermit ,doctor ,hunter 
+70,vānara,monkey ,teacher ,lion ,doctor 
+71,makkaṭa,monkey ,teacher ,lion ,doctor 
+72,lābha,profit ,doctor ,hunter ,lion 
+73,mañca,bed ,lion ,hermit ,teacher 
+74,kuddāla,hoe ,hunter ,teacher ,hermit 
+75,nāvika,sailor ,crow ,wicked man ,messenger 
+76,ākāsa,sky ,house ,body ,"ox, bull "
+77,samudda,"ocean, sea ",virtuous man ,messenger ,wicked man 
+78,deva ,"deity, god ",wicked man ,"ox, bull ",body 
+79,sura,"deity, god ",body ,crow ,house 
+80,loka,world ,messenger ,house ,"ox, bull "
+81,āloka,light ,"ox, bull ",virtuous man ,crow 
+82,sakuṇa,bird ,sailor ,"deity, god ",light 
+83,kāka,crow ,sky ,world ,bird 
+84,nivāsa,house ,"ocean, sea ",light ,"deity, god "
+85,sappurisa,virtuous man ,"deity, god ",bird ,world 
+86,asappurisa,wicked man ,"deity, god ",sailor ,"ocean, sea "
+87,kāya,body ,world ,sky ,"deity, god "
+88,dūta,messenger ,light ,"ocean, sea ",sailor 
+89,goṇa,"ox, bull ",bird ,"deity, god ",sky 
+90,nayana,eye ,grass ,"virtue, precept ",flower 
+91,locana,eye ,milk ,"alms, charity ",flower 
+92,udaka,water ,"city, town ",object ,house 
+93,jala,water ,park ,door ,house 
+94,arañña,forest ,field ,cloth ,seat 
+95,vana,forest ,goods ,fruit ,leaf 
+96,puppha,flower ,"virtue, precept ",grass ,eye 
+97,kusuma,flower ,"alms, charity ",milk ,eye 
+98,geha,house ,object ,"city, town ",water 
+99,ghara,house ,door ,park ,water 
+100,āsana,seat ,cloth ,field ,forest 
+101,paṇṇa,leaf ,fruit ,goods ,forest 
+102,tiṇa,grass ,eye ,flower ,"virtue, precept "
+103,khīra,milk ,eye ,flower ,"alms, charity "
+104,nagara,"city, town ",water ,house ,object 
+105,uyyāna,park ,water ,house ,door 
+106,khetta,field ,forest ,seat ,cloth 
+107,bhaṇḍa,goods ,forest ,leaf ,fruit 
+108,sīla,"virtue, precept ",flower ,eye ,grass 
+109,dāna,"alms, charity ",flower ,eye ,milk 
+110,rūpa,object ,house ,water ,"city, town "
+111,dvāra,door ,house ,water ,park 
+112,vattha,cloth ,seat ,forest ,field 
+113,āpaṇa,"shop, bazaar ","root, money ",gold ,truth 
+114,puñña,merit ,foot of a tree ,gold ,drinking water 
+115,pāpa,"evil, sin ",beak ,truth ,mind 
+116,kamma,"deed, action ","wage, pay ",drinking water ,gold 
+117,kusala,good ,lotus ,mind ,gold 
+118,akusala,evil ,song ,"root, money ","wage, pay "
+119,dhana,wealth ,gold ,foot of a tree ,lotus 
+120,dhañña,corn ,gold ,beak ,song 
+121,bīja,seed ,truth ,"wage, pay ","root, money "
+122,dussa,cloth ,drinking water ,lotus ,foot of a tree 
+123,cīvara,robe ,mind ,song ,beak 
+124,mūla,"root, money ","shop, bazaar ",evil ,seed 
+125,rukkhamūla,foot of a tree ,merit ,wealth ,cloth 
+126,tuṇḍa,beak ,"evil, sin ",corn ,robe 
+127,vetana,"wage, pay ","deed, action ",seed ,evil 
+128,paduma,lotus ,good ,cloth ,wealth 
+129,gīta,song ,evil ,robe ,corn 
+130,suvaṇṇa,gold ,wealth ,"shop, bazaar ","evil, sin "
+131,hirañña,gold ,corn ,merit ,"deed, action "
+132,sacca,truth ,seed ,"evil, sin ",good 
+133,pānīya,drinking water ,cloth ,"deed, action ","shop, bazaar "
+134,citta,mind ,robe ,good ,merit 
+135,kaññā,girl,sand,retinue,tongue
+136,dārikā,girl,box,"faith, devotion",thirst
+137,gaṅgā,river Ganges,garland,neck,hunger
+138,nāvā,ship,liquor,tongue,retinue
+139,ammā,mother,branch,thirst,"faith, devotion"
+140,paññā,wisdom,deity,hunger,neck
+141,sālā,hall,retinue,sand,liquor
+142,bhariyā,wife,"faith, devotion",box,branch
+143,sabhā,assembly,neck,garland,deity
+144,kathā,speech,tongue,liquor,sand
+145,latā,creeper,thirst,branch,box
+146,guhā,cave,hunger,deity,garland
+147,chāyā,shadow,girl,wife,creeper
+148,vālukā,sand,girl,assembly,cave
+149,mañjūsā,box,river Ganges,speech,shadow
+150,mālā,garland,ship,creeper,wife
+151,surā,liquor,mother,cave,assembly
+152,sākhā,branch,wisdom,shadow,speech
+153,devatā,deity,hall,girl,ship
+154,parisā,retinue,wife,girl,mother
+155,saddhā,"faith, devotion",assembly,river Ganges,wisdom
+156,gīvā,neck,speech,ship,hall
+157,jivhā,tongue,creeper,mother,girl
+158,pipāsā,thirst,cave,wisdom,girl
+159,khudā,hunger,shadow,hall,river Ganges
+160,aṅguli,finger,woman,banana,queen
+161,aṭavi,forest,woman,brahmin woman,queen
+162,ratti,night,young woman,cow,girl
+163,doṇi,boat,sister,queen,banana
+164,yuvati,maiden,tank,queen,brahmin woman
+165,yaṭṭhi,walking stick,pond,girl,cow
+166,asani,thunderbolt,banana,woman,sister
+167,nāḷi,unit of measure,brahmin woman,woman,tank
+168,rasmi,ray,cow,young woman,pond
+169,iddhi,psychic power,queen,sister,woman
+170,sammajjani,broom,queen,tank,woman
+171,nadī,river,girl,pond,young woman
+172,nārī,woman,finger,thunderbolt,psychic power
+173,itthī,woman,forest,unit of measure,broom
+174,taruṇī,young woman,night,ray,river
+175,bhaginī,sister,boat,psychic power,thunderbolt
+176,vāpī,tank,maiden,broom,unit of measure
+177,pokkharaṇī,pond,walking stick,river,ray
+178,kadalī,banana,thunderbolt,finger,boat
+179,brāhmaṇī,brahmin woman,unit of measure,forest,maiden
+180,gāvī,cow,ray,night,walking stick
+181,rājinī,queen,psychic power,boat,finger
+182,devī,queen,broom,maiden,forest
+183,kumārī,girl,river,walking stick,night
+184,yāgu,gruel,cow-elephant,lightning,mother-in-law
+185,kāsu,pit,"element, relic",rope,daughter-in-law
+186,vijju,lightning,mother-in-law,eczema,cow
+187,rajju,rope,daughter-in-law,gruel,cow-elephant
+188,daddu,eczema,cow,pit,"element, relic"
+189,kaṇeru,cow-elephant,gruel,mother-in-law,lightning
+190,dhātu,"element, relic",pit,daughter-in-law,rope
+191,sassu,mother-in-law,lightning,cow,eczema
+192,vadhu,daughter-in-law,rope,cow-elephant,gruel
+193,dhenu ,cow,eczema,"element, relic",pit
+194,aggi,fire,paddy,householder,gem
+195,muni / isi,sage,monkey,"lord, leader",sword
+196,kavi,poet,serpent,guest,heap
+197,ari,enemy,leopard,illness,hand
+198,bhūpati,king,sun,ocean,belly
+199,pati,"husband, master",mountain,(hidden) treasure,"fist, hammer"
+200,gahapati,householder,gem,fire,paddy
+201,adhipati,"lord, leader",sword,sage,monkey
+202,atithi,guest,heap,poet,serpent
+203,vyādhi,illness,hand,enemy,leopard
+204,udadhi,ocean,belly,king,sun
+205,nidhi,(hidden) treasure,"fist, hammer","husband, master",mountain
+206,vīhi,paddy,fire,gem,householder
+207,kapi,monkey,sage,sword,"lord, leader"
+208,ahi,serpent,poet,heap,guest
+209,dīpi,leopard,enemy,hand,illness
+210,ravi,sun,king,belly,ocean
+211,giri,mountain,"husband, master","fist, hammer",(hidden) treasure
+212,maṇi,gem,householder,paddy,fire
+213,asi,sword,"lord, leader",monkey,sage
+214,rāsi,heap,guest,serpent,poet
+215,pāṇi,hand,illness,leopard,enemy
+216,kucchi,belly,ocean,sun,king
+217,muṭṭhi,"fist, hammer",(hidden) treasure,mountain,"husband, master"
+218,pakkhī ,bird,philanthropist,tree,daughter
+219,hatthī / karī,elephant,benevolent man,arm,"bone, seed"
+220,sāmī,"lord, husband",moderate or abstemious man,sea,water
+221,seṭṭhī,banker,teacher,axe,eye
+222,sukhī,one who is happy,doer,beast,ghee
+223,mantī,minister,goer,rat,curds
+224,sikhī,peacock,hearer,sugar cane,flame
+225,pāṇī,living being,giver,bamboo,thigh
+226,dāṭhī,tusker,leader,spoon,eye
+227,dīghajīvī,one with long life,sayer,enemy,bow
+228,balī,powerful one,victor,bridge,honey
+229,vaḍḍhakī,carpenter,disciplinarian,banner,tear
+230,sārathī,charioteer,knower,young one,knee
+231,kuṭṭhī,leper,husband,wise man,firewood
+232,pāpakārī,evil doer,grandson,eminent person,water
+233,garu,teacher,father,omniscient one,wealth
+234,bhikkhu,monk,brother,wise man,"ground, base, site, estate"
+235,bandhu,relation,mother,bird,philanthropist
+236,taru,tree,daughter,elephant,benevolent man
+237,bahu,arm,"bone, seed","lord, husband",moderate or abstemious man
+238,sindhu,sea,water,banker,teacher
+239,pharasu,axe,eye,one who is happy,doer
+240,pasu,beast,ghee,minister,goer
+241,ākhu,rat,curds,peacock,hearer
+242,ucchu,sugar cane,flame,living being,giver
+243,veḷu,bamboo,thigh,tusker,leader
+244,kaṭacchu,spoon,eye,one with long life,sayer
+245,sattu,enemy,bow,powerful one,victor
+246,setu,bridge,honey,carpenter,disciplinarian
+247,ketu,banner,tear,charioteer,knower
+248,susu,young one,knee,leper,husband
+249,vidū ,wise man,firewood,evil doer,grandson
+250,pabhū,eminent person,water,teacher,father
+251,sabbaññū,omniscient one,wealth,monk,brother
+252,viññū,wise man,"ground, base, site, estate",relation,mother
+253,vadaññū,philanthropist,bird,daughter,tree
+254,atthaññū,benevolent man,elephant,"bone, seed",arm
+255,mattaññū,moderate or abstemious man,"lord, husband",water,sea
+256,satthu / satthar,teacher,banker,eye,axe
+257,kattu,doer,one who is happy,ghee,beast
+258,gantu,goer,minister,curds,rat
+259,sotu,hearer,peacock,flame,sugar cane
+260,dātu,giver,living being,thigh,bamboo
+261,netu,leader,tusker,eye,spoon
+262,vattu,sayer,one with long life,bow,enemy
+263,jetu,victor,powerful one,honey,bridge
+264,vinetu,disciplinarian,carpenter,tear,banner
+265,viññātu,knower,charioteer,knee,young one
+266,bhattu,husband,leper,firewood,wise man
+267,nattu,grandson,evil doer,water,eminent person
+268,pitu / pitar,father,teacher,wealth,omniscient one
+269,bhātu / bhātar,brother,monk,"ground, base, site, estate",wise man
+270,mātu / mātar,mother,relation,philanthropist,bird
+271,dhītu / duhitu,daughter,tree,benevolent man,elephant
+272,"Aṭṭhi = bone, seed","bone, seed",arm,moderate or abstemious man,"lord, husband"
+273,vāri,water,sea,teacher,banker
+274,akkhi,eye,axe,doer,one who is happy
+275,sappi,ghee,beast,goer,minister
+276,dadhi,curds,rat,hearer,peacock
+277,acci,flame,sugar cane,giver,living being
+278,satthi,thigh,bamboo,leader,tusker
+279,cakkhu,eye,spoon,sayer,one with long life
+280,dhanu,bow,enemy,victor,powerful one
+281,madhu,honey,bridge,disciplinarian,carpenter
+282,assu,tear,banner,knower,charioteer
+283,jāṇu / jaṇṇu,knee,young one,husband,leper
+284,dāru,firewood,wise man,grandson,evil doer
+285,ambu,water,eminent person,father,teacher
+286,vasu,wealth,omniscient one,brother,monk
+287,vatthu,"ground, base, site, estate",wise man,mother,relation

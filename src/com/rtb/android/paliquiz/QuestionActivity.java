@@ -175,6 +175,46 @@ public void setFont(TextView name, String path, int res)
 			//return true; 
 					
 		case KeyEvent.KEYCODE_SEARCH :
+			//String the_answer = currentQ.getAnswer();
+			
+			//LayoutInflater inflater = getLayoutInflater();
+			//View layout = inflater.inflate(R.layout.toast_layout,
+			//                               (ViewGroup) findViewById(R.id.toast_layout_root));
+
+			//TextView text = (TextView) layout.findViewById(R.id.text);
+			//text.setText(Utility.capitalise(the_answer));
+			
+	        //Typeface font = Typeface.createFromAsset(this.getAssets(), "Verajjab.ttf"); 
+	        //text.setTypeface(font);
+			
+			    
+	        //Toast toast = new Toast(getApplicationContext());
+			//toast.setGravity(Gravity.TOP|Gravity.CENTER, 0, 35);
+			//toast.setDuration(Toast.LENGTH_LONG);
+			//toast.setView(layout);
+			//toast.show();
+			
+			return true;
+		
+
+	}
+		
+		
+		
+		return super.onKeyDown(keyCode, event);
+	}
+
+
+	/**
+	 * Check if a checkbox has been selected, and if it
+	 * has then check if its correct and update gamescore
+	 */
+	private boolean checkAnswer() {
+		String answer = getSelectedAnswer();
+		if (answer==null){
+			//Log.d("Questions", "No Checkbox selection made - returning");
+			
+			
 			String the_answer = currentQ.getAnswer();
 			
 			LayoutInflater inflater = getLayoutInflater();
@@ -194,21 +234,12 @@ public void setFont(TextView name, String path, int res)
 			toast.setView(layout);
 			toast.show();
 			
-			return true;
-		}
-		
-		return super.onKeyDown(keyCode, event);
-	}
-
-
-	/**
-	 * Check if a checkbox has been selected, and if it
-	 * has then check if its correct and update gamescore
-	 */
-	private boolean checkAnswer() {
-		String answer = getSelectedAnswer();
-		if (answer==null){
-			//Log.d("Questions", "No Checkbox selection made - returning");
+			
+			
+			
+			
+			
+			
 			return false;
 		}
 		else {

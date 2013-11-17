@@ -1,0 +1,44 @@
+_id,question,answer,incorrect1,incorrect2,incorrect3
+1,got... to admonish,anusāsāpesi ,gāhāpetvā ,vijjāpeti ,pātesi 
+2,having got... assembled,sannipātāpetvā ,ākaḍḍhāpetvā ,desāpessanti ,kārāpesi 
+3,got... to pick,ocināpesi ,vandāpesi ,pātesi ,vijjāpeti 
+4,got... to descend,otarāpesi ,bhojāpesuṃ ,kārāpesi ,desāpessanti 
+5,got... to be sprinkled,āsiñcāpesuṃ ,vijjāpeti ,gāhāpetvā ,vandāpesi 
+6,got... to be killed,mārāpesi ,desāpessanti ,ākaḍḍhāpetvā ,bhojāpesuṃ 
+7,got... to teach,uggaṇhāpesi ,pātesi ,vandāpesi ,gāhāpetvā 
+8,got... to sleep,sayāpesi ,kārāpesi ,bhojāpesuṃ ,ākaḍḍhāpetvā 
+9,having got... to carry,gāhāpetvā ,anusāsāpesi ,āsiñcāpesuṃ ,uggaṇhāpesi 
+10,having got... to drag,ākaḍḍhāpetvā ,sannipātāpetvā ,mārāpesi ,sayāpesi 
+11,got... to honor,vandāpesi ,ocināpesi ,uggaṇhāpesi ,āsiñcāpesuṃ 
+12,got... to eat,bhojāpesuṃ ,otarāpesi ,sayāpesi ,mārāpesi 
+13,gets... to shoot,vijjāpeti ,āsiñcāpesuṃ ,anusāsāpesi ,ocināpesi 
+14,get... to preach,desāpessanti ,mārāpesi ,sannipātāpetvā ,otarāpesi 
+15,caused... to fall,pātesi ,uggaṇhāpesi ,ocināpesi ,anusāsāpesi 
+16,got... to build,kārāpesi ,sayāpesi ,otarāpesi ,sannipātāpetvā 
+17,Mother gets the sister to cook rice.,Ammā bhaginiṃ bhattaṃ pacāpeti. ,Ammā bhaginesi bhattesi pacāpeti. ,Ammā bhaginiṃ bhattaṃ pacāpetva. ,Ammā baginiṃ bhattaṃ pacāpeti. 
+18,The king fed the recluses and beggars.,Bhūpālo samaṇe ca yācake ca bhojāpesi. ,Bhūpālo samaṇo ca yācako ca bhojāpesi. ,Bhūpālo samaṇe ca yācake ca bhojāpevi. ,Bhūpālo samaṇe ca yācake ca bojāpesi. 
+19,The thief ran having got a friend to steal a saw.,Coro mittena kakacaṃ corāpetvā vanaṃ dhāvi.,Coro mittesi kakacaṃ corāpetvā vanaṃ dhāvi.,Coro mittena kakacaṃ corāpetvā vanaṃ dhāsi.,Coro mittena kakacaṃ corāpetvā vanaṃ dāvi.
+20,The doctor got his son to buy milk from the market.,Vejjo puttena āpaṇamhā khīraṃ kiṇāpesi. ,Vejjo putteno āpaṇamhā khīraṃ kiṇāpesi. ,Vejjo puttena āpaṇamhā khīraṃ kiṇāpesu. ,Vejjo puttena āpaṇamhā kīraṃ kiṇāpesi. 
+21,Lay devotees got the minister to build a monastery for the monks.,Upāsakā amaccena samaṇānaṃ vihāraṃ kārāpesuṃ. ,Upāsakā amaccesi samaṇānaṃ vihāraṃ kārāpesuṃ. ,Upāsakā amaccena samaṇānaṃ vihāraṃ kārāpesu. ,Upāsakā amacena samaṇānaṃ vihāraṃ kārāpesuṃ. 
+22,The maiden got the sister to give money to the teacher and learnt an art.,Yuvati bhaginiyā ācariyassa mūlaṃ dāpetvā sippaṃ uggaṇhi. ,Yuvati bhaginiyo ācariyassa mūlaṃ dāpetvā sippaṃ uggaṇhi. ,Yuvati bhaginiyā ācariyassa mūlaṃ dāpetvā sippaṃ uggaṇti. ,Yuvati baginiyā ācariyassa mūlaṃ dāpetvā sippaṃ uggaṇhi. 
+23,The brahmin tried to make the thief speak the truth.,Brāhmaṇo coraṃ / corena saccaṃ bhāsāpetuṃ vāyami. ,Brāhmaṇo coraṃ / corena saccaṃ bhāsāpetesi vāyami. ,Brāhmaṇo coraṃ / corena saccaṃ bhāsāpetuṃ vāyamsi. ,Brāhmaṇo coraṃ / corena saccaṃ bāsāpetuṃ vāyami. 
+24,ammā samaṇehi... anusāsāpesi,the mother got the monks to admonish...,the mother got the monk to admonish...,the mother got the monks to teach...,the mothers got the monk to teach...
+25,tumhe... core āmantāpetvā,you get the robbers... summoned,you get the robbers... summoned,we get the robbers... to go,you get the robbers... to go
+26,vāṇijo kassakena rukkhe chindāpetvā,the merchant got the farmer to cut the trees,the merchant got the farmers to cut the trees,the merchant got the farmer to drag the trees,the merchant got the farmers to drag the trees
+27,samaṇo upāsake sannipātāpetvā ,the monk got the lay devotees assembled,the monks got the lay devotees assembled,the lay devotee got the monks assembled,the lay devotees got the monks assembled
+28,mātulo kumārehi... ocināpesi,the uncle got the boys to pick...,the uncles got the boys to pick...,the uncle got the boy to pick...,the boys got the uncle to pick...
+29,dārikā sunakhaṃ... otarāpesi,the girl made the dog descend...,the girl made the dog drag...,the girls made the dog drag...,the girl made the dog eat...
+30,amacco vāṇije ca kassake ca pakkosāpetvā...,"the minister, having summoned the merchants and farmers...","the minister, having admonished the merchants and farmers...","the minister, having taught the merchants and farmers...","the minister, having killed the merchants and farmers..."
+31,... vanitāyo āsiñcāpesuṃ,women got... to be sprinkled,women got... to be killed,women got... to be built,women got... to be eaten
+32,bhariyāya kātabbaṃ... ahaṃ karomi,I do... which should be done by a wife,I do... which should be done by a son,I do... which should be done by a mother,I do... which should be done by a daughter
+33,... mittena migaṃ vijjhitvā mārāpesi,... got the deer shot and killed by a friend,... got the deer shot and killed by a farmer,... got the jackal shot and killed by a friend,... got the jackal shot and killed by a farmer
+34,... ācāriyena... dhammaṃ uggaṇhāpesi,... got a teacher to teach the dhamma...,... got a minister to teach the dhamma...,... got a monk to learn the dhamma...,... got a minister to learn the dhamma...
+35,... dārikaṃ... mañce sayāpesi.,... got the girl to... sleep on the bed,... got the girls to... sleep on the bed,... got the daughter to... sleep on the bed,... got the daughters to... sleep on the bed
+36,vāṇijā assehi bhaṇḍāni gāhāpetvā...,the merchants made the horses carry the goods...,the farmers made the horses carry the goods...,the merchants made the horses drag the goods...,the farmers made the horses drag the goods...
+37,vanitā sahāyakena... ākaḍḍhāpetvā,the woman got a friend to drag...,the woman got a friend to carry...,the women got a friend to drag...,the women got a friend to carry...
+38,ammā puttena... samaṇaṃ vandāpesi,the mother got (her) son to honour the monk...,the mother got (her) son to kill the monk...,the mother got (her) son to shoot the monk...,the mother got the monk son to teach (her) son...
+39,upāsakā samaṇe... bhojāpesuṃ,the lay devotees got the monks... to eat,the lay devotees got the monks... to teach,the lay devotees got the monks... to sleep,the lay devotees got the monks... to descend
+40,bhaginī... rodantī gehadvāre aṭṭhāsi,... the sister stood at the front door crying,... the girl stood at the front door eating,... the sisters stood at the front door eating,... the sisters stood at the front door crying
+41,... nāriyo sallapantiyo... modiṃsu,women... enjoyed conversing...,women... enjoyed eating...,women... enjoyed sleeping...,women... enjoyed descending...
+42,luddako... sarena vijjhi,"with an arrow, the hunter shot...","with an arrow, the hunter killed...","with an arrow, the warrior shot...","with an arrow, the warrior killed..."
+43,sappurisena kārāpitesu vihāresu... vasanti ,... live in monasteries which good men got constructed,... live in a monastery which good men got constructed,... live in monasteries which lay disciples got constructed,... lives in a monastery which a lay disciple got constructed

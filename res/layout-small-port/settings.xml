@@ -165,11 +165,11 @@
                  android:textStyle="normal" />
              
              <RadioButton
-                 android:id="@+id/ch_61Setting"
+                 android:id="@+id/ch_061Setting"
                  android:layout_height="33dip"
                  android:layout_marginBottom="2dip"
                  android:checked="false"
-                 android:text="@string/CH61_str"
+                 android:text="@string/CH061_str"
                  android:textColor="#FFFFFF"
                  android:textSize="24dip"
                  android:textStyle="bold" />
@@ -179,7 +179,7 @@
                  android:layout_height="wrap_content"
                  android:layout_marginLeft="45dip"
                  android:layout_weight="0.40"
-                 android:text="@string/CH61_info"
+                 android:text="@string/CH061_info"
                  android:textColor="#000000"
                  android:textSize="11dip"
                  android:textStyle="normal" />
@@ -283,6 +283,26 @@
                  android:textColor="#000000"
                  android:textSize="11dip"
                  android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_111Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH111_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH111_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
 
              <RadioButton
                  android:id="@+id/ch_12Setting"
@@ -320,6 +340,26 @@
                  android:layout_marginLeft="45dip"
                  android:layout_weight="0.40"
                  android:text="@string/CH13_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_131Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH131_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH131_info"
                  android:textColor="#000000"
                  android:textSize="11dip"
                  android:textStyle="normal" />
@@ -643,6 +683,26 @@
                  android:textColor="#000000"
                  android:textSize="11dip"
                  android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_291Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH291_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH291_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
 
              <RadioButton
                  android:id="@+id/ch_30Setting"
@@ -663,6 +723,88 @@
                  android:textColor="#000000"
                  android:textSize="11dip"
                  android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_31Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH31_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH31_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_32Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH32_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH32_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_321Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH321_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH321_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+             
+             <RadioButton
+                 android:id="@+id/ch_322Setting"
+                 android:layout_height="33dip"
+                 android:layout_marginBottom="2dip"
+                 android:checked="false"
+                 android:text="@string/CH322_str"
+                 android:textColor="#FFFFFF"
+                 android:textSize="24dip"
+                 android:textStyle="bold" />
+             
+             <TextView
+                 android:layout_width="200dp"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="45dip"
+                 android:layout_weight="0.40"
+                 android:text="@string/CH322_info"
+                 android:textColor="#000000"
+                 android:textSize="11dip"
+                 android:textStyle="normal" />
+             
+             
          </RadioGroup>
 	</LinearLayout> 
 	</ScrollView>
