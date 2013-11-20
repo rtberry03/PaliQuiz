@@ -36,11 +36,11 @@ public class DBHelper extends SQLiteOpenHelper {
 
 	// Update the following, the current source file for the database
 
-	private static String RESOURCE_FILENAME = "questionsDb9.db";
+	private static String RESOURCE_FILENAME = "questionsDb10.db";
 	
 	// also need to update Manifest; increment versionCode & modify versionName 
-	// also update strings to reflect content/availability of new chapter(s)
-	// finally, update a couple of functions in SettingsActivity
+	// obsolete: also update strings to reflect content/availability of new chapter(s)
+	// obsolete: finally, update a couple of functions in SettingsActivity
 	
 //END CHANGE THESE
 

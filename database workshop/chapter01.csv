@@ -25,7 +25,7 @@ _id,question,answer,incorrect1,incorrect2,incorrect3
 24,Naro bhāsati.,The man speaks.,The man cooks.,The men speak.,The men cook.
 25,Purisā passanti.,Men see.,Friends speak.,Friends see.,Friends sleep.
 26,Sugato gacchati.,The Buddha (Well-Gone) goes.,The Buddha (Well-Gone) sees.,The Buddha (Well-Gone) comes.,The Buddha (Well-Gone) speaks.
-27,The sons runs.,Putto dhāvati. ,Puttā dhāvanti. ,Mittā bhāsanti. ,Mittā bhāsati. 
+27,The son runs.,Putto dhāvati. ,Puttā dhāvanti. ,Mittā bhāsanti. ,Mittā bhāsati. 
 28,The Buddha sees.,Buddho passati. ,Mātulā passati. ,Kassako kasati. ,Kassakā kasanti. 
 29,The uncle comes.,Mātulo āgacchati. ,Buddho āgacchati. ,Vāṇijo āgacchati. ,Vāṇija āgacchati. 
 30,The merchants eat.,Vāṇijā bhuñjanti. ,Kumāro bhuñjati. ,Puttā chindanti. ,Mittā chindanti. 
@@ -74,3 +74,8 @@ _id,question,answer,incorrect1,incorrect2,incorrect3
 73,gacchanti,they go,they cut,they see,they sleep
 74,āgacchanti,they come,they go,they cut,they see
 75,dhāvanti,they run,they come,they go,they cut
+76,"he speaks, she sees","bhāsati, passati","bhasati, passati","bhāsati, pāsati","bāsati, passati"
+77,"he cooks, she cuts","pacati, chindati","pacāti, chindati","pacati, cindati","pachati, chindati"
+78,"he ploughs, she goes","kasati, gacchati","kāsati, gacchati","kasati, gācchati","kasati, gachati"
+79,"he eats, she comes","bhuñjati, āgacchati","bhunjati, āgacchati","bhuñjati, agacchati","buñjati, āgacchati"
+80,"he sleeps, she runs","sayati, dhāvati","sāyati, dhāvati","sayati, dhavati","sayati, dāvati"
